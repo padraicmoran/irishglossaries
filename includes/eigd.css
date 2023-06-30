@@ -1,0 +1,81 @@
+/* styles for Irish Glossaries project
+*/
+
+body {
+	font-family: "Noto Sans", sans-serif;
+	font-size: 1.1em;
+}
+
+div.homeImage {
+   background-image: url("../images/home.jpg");
+   background-repeat: repeat-y;
+}
+div.topImage {
+   background-image: url("../images/header.jpg");
+   background-repeat: repeat-x;
+}
+
+
+h1, h2, h3, h4, h5 {
+	font-family: "Noto Serif", serif;
+   color: #576E7F;
+}
+h1 {
+	margin: 0em 0em 0.5em 0em;
+}
+h2, h3 {
+	margin: 1em 0em 0.5em 0em;
+}
+
+.navbar-brand {
+	margin-right: 0px; 
+	font-weight: bold;
+	font-size: 1.05em;
+}
+
+a.nav-link {
+	color: white !important;
+}
+
+a {
+   color: #566C7D;
+   }
+a:hover {
+   color: #4A5E6C;
+   text-decoration: none; 
+   }
+
+.entry a {
+   text-decoration: none; 
+   color: inherit;
+}
+.footer a {
+   color: inherit;
+}
+
+td.highlight, .highlight {
+   background-color: lightblue;
+   color: #333333;
+}
+
+/* edition text styles */
+
+span.sc {
+   font-variant: small-caps;
+   }
+span.del {
+   text-decoration: line-through;
+   }
+span.gloss { 
+   font-size: 80%;
+   }
+span.lig { 
+   letter-spacing: -3px; 
+   }
+span.supra { 
+   vertical-align: super;
+   }
+
+
+
+

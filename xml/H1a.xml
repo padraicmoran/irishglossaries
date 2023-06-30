@@ -1,0 +1,3814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sanas Cormaic (Cormac's Glossary), version H1b</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1317 (H.2.15b)</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <samplingDecl><p>Text closely related to Y version, and so headwords are given here only. </p></samplingDecl>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+<div xml:id="H1a">
+<p xml:id="H1a.1">
+<w type="hw" lemma="Adam"><supplied>A</supplied>dam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.2">
+<w type="hw" lemma="Adamnán">Adamnan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.3">
+<w type="hw" lemma="adrad 1">adrad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.4">
+<w type="hw" lemma="ascalt">ascasl<supplied>t</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.5">
+<w type="hw" lemma="asclang">asglang</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.6">
+<w type="hw" lemma="árad">arad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.7">
+<w type="hw" lemma="adaltair">adailtair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.8">
+<w type="hw" lemma="accais">acuis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.9">
+<w type="hw" lemma="altram(m)">aitram</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.10">
+<w type="hw" lemma="amus">amos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.11">
+<w type="hw" lemma="aicher">aicher</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.12">
+<w type="hw" lemma="ar 4">ar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.13">
+<w type="hw" lemma="áinne">ande</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.14">
+<w type="hw" lemma="airches 1">arces</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.15">
+<w type="hw" lemma="aidbertaid">adbertaigh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.16">
+<w type="hw" lemma="ainsherc">andserg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.17">
+<w type="hw" lemma="argat">airget</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.18">
+<phr type="hw" lemma="arcu">arco fuin dom dia</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.19">
+<w type="hw" lemma="ascae">ascath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.20">
+<w type="hw" lemma="adamrae">adamhra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.21">
+<w type="hw" lemma="an-"><supplied>an</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.22">
+<w type="hw" lemma="airdam">aurdam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.23">
+<w type="hw" lemma="almsa">almso</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.24">
+<w type="hw" lemma="NULL">art</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.25">
+<phr type="hw" lemma="NULL">arg treide</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.26">
+<w type="hw" lemma="án 3"><supplied>ána</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.27">
+<w type="hw" lemma="ainim(m)"><supplied>ainimm</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.28">
+<w type="hw" lemma="athgabáil"><supplied>athgabáil</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.29">
+<w type="hw" lemma="aithech 2"><supplied>aithech</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.30">
+<w type="hw" lemma="aithches 1"><supplied>aithches</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.31">
+<w type="hw" lemma="ó 3"><supplied>ó</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.32">
+<w type="hw" lemma="ó 3 (compd)"><supplied>ónasc</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.33">
+<w type="hw" lemma="aigen 1"><supplied>aigen</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.34">
+<w type="hw" lemma="aittenn"><supplied>aittenn</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.35">
+<w type="hw" lemma="airdún"><supplied>airdúine</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.36">
+<w type="hw" lemma="airber 1"><supplied>airber</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.37">
+<w type="hw" lemma="air-"><supplied>air</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.38">
+<w type="hw" lemma="áilges"><supplied>áilg</supplied>eas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.39">
+<w type="hw" lemma="athaba">athabæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.40">
+<w type="hw" lemma="oíbind">aimend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.41">
+<w type="hw" lemma="airchinnech">aircindec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.42">
+<w type="hw" lemma="ambuae">ambue</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.43">
+<w type="hw" lemma="ada(e)">adæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.44">
+<w type="hw" lemma="altan">altan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.45">
+<w type="hw" lemma="adann">adand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.46">
+<w type="hw" lemma="á 1">a</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.47">
+<w type="hw" lemma="aitire">aiteri</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.48">
+<w type="hw" lemma="NULL">aingel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.49">
+<w type="hw" lemma="áige 2 (cmpd)">aigrere</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.50">
+<w type="hw" lemma="aigne">aigni</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.51">
+<w type="hw" lemma="airndel">airneal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.52">
+<w type="hw" lemma="aithinne">aitinde</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.53">
+<w type="hw" lemma="apstal">apstul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.54">
+<w type="hw" lemma="ainidan"><supplied>aini</supplied>dhan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.55">
+<w type="hw" lemma="ainder"><supplied>ainder</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.56">
+<w type="hw" lemma="adba 1"><supplied>adba othna</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.57">
+<w type="hw" lemma="aicill(n)e">aiggille</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.58">
+<w type="hw" lemma="aislinge">aislinge</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.59">
+<w type="hw" lemma="abacc">abuc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.60">
+<w type="hw" lemma="aicde 2">aicde</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.61">
+<w type="hw" lemma="alchaing">alcuing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.62">
+<w type="hw" lemma="allud">allud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.63">
+<w type="hw" lemma="alad">alad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.64">
+<w type="hw" lemma="aiccecht">aiciocht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.65">
+<w type="hw" lemma="ainces">ainces</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.66">
+<w type="hw" lemma="abras">abras</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.67">
+<w type="hw" lemma="andach 1">andach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.68">
+<w type="hw" lemma="ommar">amor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.69">
+<w type="hw" lemma="anacul">adnacul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.70">
+<w type="hw" lemma="aball">aball</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.71">
+<w type="hw" lemma="uch 1">ach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.72">
+<w type="hw" lemma="acc">ac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.73">
+<w type="hw" lemma="alchaing">alceng</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.74">
+<w type="hw" lemma="aithirne">aithrinne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.75">
+<w type="hw" lemma="adna(e)">adna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.76">
+<w type="hw" lemma="auchaide">auchaide</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.77">
+<w type="hw" lemma="Antichristos *">Antichristus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.78">
+<w type="hw" lemma="Airistotilés *">Aristotiles</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.79">
+<w type="hw" lemma="NULL">acnamacht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.80">
+<w type="hw" lemma="NULL">ai</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.81">
+<w type="hw" lemma="bennacht">bendacht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.82">
+<w type="hw" lemma="Búanann">Buanand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.83">
+<w type="hw" lemma="NULL">bran</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.84">
+<w type="hw" lemma="baircne"><supplied>baircne</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.85">
+<w type="hw" lemma="Bablúan"><supplied>Bablúan</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.86">
+<w type="hw" lemma="bablóir"><supplied>Bablóir</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.87">
+<w type="hw" lemma="babb">bab</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.88">
+<w type="hw" lemma="brosna"><supplied>bros</supplied>na</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.89">
+<w type="hw" lemma="boll">bull</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.90">
+<w type="hw" lemma="birar">biror</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.91">
+<w type="hw" lemma="Bel(l)taine"><supplied>Beltaine</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.92">
+<w type="hw" lemma="bó">bo</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.93">
+<w type="hw" lemma="bóbath">bobaith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.94">
+<phr type="hw" lemma="belc(h)e">bolcc belceo</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.95">
+<w type="hw" lemma="blinn">blind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.96">
+<w type="hw" lemma="blinn">blinn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.97">
+<w type="hw" lemma="birit">birit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.98">
+<w type="hw" lemma="Bentraige">Bendtraige</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.99">
+<w type="hw" lemma="bóige">boige</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.100">
+<w type="hw" lemma="bóige"><supplied>bóige</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.101">
+<w type="hw" lemma="briar"><supplied>briar</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.102">
+<w type="hw" lemma="bráth"><supplied>bráth Cai</supplied></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.103">
+<w type="hw" lemma="bruin(n)ech"> bruindech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.104">
+<w type="hw" lemma="balb">balb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.105">
+<w type="hw" lemma="bot 2">bot</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.106">
+<w type="hw" lemma="búas 1">buas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.107">
+<w type="hw" lemma="brí 2">bri</w> <gap extent="rest of entry" reason="sampling"/> .i. gach n-ogus
+</p>
+<p xml:id="H1a.108">
+<w type="hw" lemma="Brigit">Brigit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.109">
+<w type="hw" lemma="bec">bec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.110">
+<w type="hw" lemma="bibdu">bidba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.111">
+<w type="hw" lemma="Bil">Bil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.112">
+<w type="hw" lemma="báire 2">baire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.113">
+<w type="hw" lemma="barae">baire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.114">
+<w type="hw" lemma="binn">bind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.115">
+<w type="hw" lemma="brinn">brind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.116">
+<w type="hw" lemma="bratán">bradan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.117">
+<w type="hw" lemma="bél">bel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.118">
+<w type="hw" lemma="bráth">brath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.119">
+<w type="hw" lemma="brága 1">braga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.120">
+<w type="hw" lemma="ben">ben</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.121">
+<w type="hw" lemma="bert 1">bert</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.122">
+<w type="hw" lemma="bratt">brat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.123">
+<w type="hw" lemma="bodar">bodar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.124">
+<w type="hw" lemma="bás 1">bas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.125">
+<w type="hw" lemma="ballán">ballán</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.126">
+<phr type="hw" lemma="Bé Néit">Be Neid</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.127">
+<w type="hw" lemma="búaile 3">buaile</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.128">
+<w type="hw" lemma="bonn 1">bonn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.129">
+<w type="hw" lemma="both 2">both</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.130">
+<w type="hw" lemma="bairgen">bairgen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.131">
+<w type="hw" lemma="brestaide">brestaide</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.132">
+<w type="hw" lemma="bil 3 (compd)">biltengach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.133">
+<w type="hw" lemma="bocht 1">bocht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.134">
+<w type="hw" lemma="biad">biad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.135">
+<w type="hw" lemma="bran 1">bran</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.136">
+<w type="hw" lemma="bét">bet</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.137">
+<w type="hw" lemma="bill">bille</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.138">
+<w type="hw" lemma="bréisiu">breisiu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.139">
+<phr type="hw" lemma="Bé Néit">Be Neit</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.140">
+<w type="hw" lemma="Bregna">Bergna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.141">
+<w type="hw" lemma="búal 1">bual</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.142">
+<w type="hw" lemma="bacur">bachur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.143">
+<w type="hw" lemma="bill">bill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.144">
+<w type="hw" lemma="bach 2">bach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.145">
+<w type="hw" lemma="bennach 2">bendach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.146">
+<w type="hw" lemma="búaignech 1">buaignech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.147">
+<w type="hw" lemma="brí 1">bri</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.148">
+<w type="hw" lemma="brac">bracc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.149">
+<w type="hw" lemma="bracann">bracond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.150">
+<w type="hw" lemma="bol">bol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.151">
+<w type="hw" lemma="barn">barn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.152">
+<w type="hw" lemma="baccat">bacat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.153">
+<w type="hw" lemma="bannach">bandach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.154">
+<w type="hw" lemma="birc(h)le">bircli</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.155">
+<w type="hw" lemma="búas 1">buas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.156">
+<w type="hw" lemma="bann 1">band</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.157">
+<w type="hw" lemma="báire 2">bar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.158">
+<w type="hw" lemma="bár">bar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.159">
+<w type="hw" lemma="bolg 1">bolc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.160">
+<w type="hw" lemma="Brigit">Brigid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.161">
+<w type="hw" lemma="NULL">bruos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.162">
+<w type="hw" lemma="bacat">bacud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.163">
+<w type="hw" lemma="bretnas">bratnass</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.164">
+<w type="hw" lemma="Cormac"><supplied>C</supplied>orbmac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.165">
+<w type="hw" lemma="Cairpre">Coirpri</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.166">
+<w type="hw" lemma="Cathal">Cathal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.167">
+<w type="hw" lemma="curson">curson</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.168">
+<w type="hw" lemma="NULL">cobtac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.169">
+<w type="hw" lemma="colcaid">colcaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.170">
+<phr type="hw" lemma="clithar">clithar set</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.171">
+<w type="hw" lemma="cercend">cercend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.172">
+<w type="hw" lemma="cruimther">cruimter</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.173">
+<w type="hw" lemma="cloch">cloch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.174">
+<w type="hw" lemma="cros">cros</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.175">
+<w type="hw" lemma="corp">corp</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.176">
+<w type="hw" lemma="cretair">creator</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.177">
+<w type="hw" lemma="cáithiugud">caithiugud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.178">
+<w type="hw" lemma="cáech">caoch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.179">
+<w type="hw" lemma="ceirbseóir">cirpseoir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.180">
+<w type="hw" lemma="ca(u)nna">canda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.181">
+<w type="hw" lemma="cummae">cuma</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.182">
+<w type="hw" lemma="cáinte">cain<add>ti</add></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.183">
+<w type="hw" lemma="cathlac">cath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.184">
+<w type="hw" lemma="céite">cete</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.185">
+<w type="hw" lemma="clé">cle</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.186">
+<w type="hw" lemma="ceó 1">ceu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.187">
+<w type="hw" lemma="cích 1">cich</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.188">
+<w type="hw" lemma="cimas">ciomhus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.189">
+<w type="hw" lemma="cimmid">cimba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.190">
+<phr type="hw" lemma="cin">cín memruim</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.191">
+<w type="hw" lemma="commus">cumus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.192">
+<phr type="hw" lemma="caí 1">caoi 7 caoine</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.193">
+<w type="hw" lemma="conar">conair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.194">
+<w type="hw" lemma="crann">crand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.195">
+<w type="hw" lemma="caimmse">caimsi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.196">
+<w type="hw" lemma="comla">comlu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.197">
+<phr type="hw" lemma="coll 1">caill crinmon</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.198">
+<w type="hw" lemma="cammon">caman</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.199">
+<w type="hw" lemma="ceinticul">cintecal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.200">
+<w type="hw" lemma="cucann">cuicind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.201">
+<w type="hw" lemma="coic 1"><supplied>co</supplied>ic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.202">
+<w type="hw" lemma="croiccenn"><supplied>cro</supplied>icend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.203">
+<w type="hw" lemma="caile 1">caili</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.204">
+<w type="hw" lemma="capall 1">capall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.205">
+<w type="hw" lemma="cathaisech">cathasach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.206">
+<w type="hw" lemma="cathlac">cathlac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.207">
+<w type="hw" lemma="cruithnecht">cruitnecht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.208">
+<w type="hw" lemma="catar">catur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.209">
+<w type="hw" lemma="culpait">culpait</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.210">
+<w type="hw" lemma="cosmail">cosmail</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.211">
+<w type="hw" lemma="coairt">coairt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.212">
+<w type="hw" lemma="casal">casal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.213">
+<w type="hw" lemma="cléirech">cleriuch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.214">
+<w type="hw" lemma="céir">ceir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.215">
+<w type="hw" lemma="cosc">cosc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.216">
+<w type="hw" lemma="cubuc(h)a(i)l">cubacuil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.217">
+<w type="hw" lemma="colpdae">calpdæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.218">
+<w type="hw" lemma="cundoman">condomuin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.219">
+<w type="hw" lemma="cana 1">cana</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.220">
+<w type="hw" lemma="car 2">carna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.221">
+<w type="hw" lemma="carna">carnæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.222">
+<w type="hw" lemma="cochall">cochul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.223">
+<w type="hw" lemma="circul">circul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.224">
+<w type="hw" lemma="cicul">cicul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.225">
+<w type="hw" lemma="callait">callaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.226">
+<w type="hw" lemma="cásc">caisc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.227">
+<w type="hw" lemma="cingciges">cingcies</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.228">
+<w type="hw" lemma="cride">cride</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.229">
+<w type="hw" lemma="comméit">commet</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.230">
+<w type="hw" lemma="commaín">cummain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.231">
+<w type="hw" lemma="cundrad">cundrath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.232">
+<w type="hw" lemma="caindel">caindel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.233">
+<w type="hw" lemma="croichet">crochuid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.234">
+<w type="hw" lemma="cingit">cingit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.235">
+<w type="hw" lemma="clí 2">cli</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.236">
+<w type="hw" lemma="cana 1">cana</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.237">
+<w type="hw" lemma="coirpthe">coirpte</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.238">
+<w type="hw" lemma="Clare">Claire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.239">
+<w type="hw" lemma="caindelbrae">C<supplied>ain</supplied>delbra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.240">
+<w type="hw" lemma="crú 1">crú</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.241">
+<w type="hw" lemma="clas 2">clais</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.242">
+<w type="hw" lemma="castóit">casst<del>oit</del></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.243">
+<w type="hw" lemma="cartóit">cartoit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.244">
+<w type="hw" lemma="cel 2">cel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.245">
+<w type="hw" lemma="celebrad">celeprad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.246">
+<w type="hw" lemma="cais 1">cass</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.247">
+<w type="hw" lemma="colba">colba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.248">
+<w type="hw" lemma="coll 3">coll</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.249">
+<w type="hw" lemma="crontsaile">crontsaile</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.250">
+<w type="hw" lemma="celt 1">cellt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.251">
+<w type="hw" lemma="céitemain">cetsamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.252">
+<w type="hw" lemma="cáid 1">caid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.253">
+<w type="hw" lemma="cobais">coibsen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.254">
+<w type="hw" lemma="corn">corn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.255">
+<w type="hw" lemma="cern 3">cern</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.256">
+<w type="hw" lemma="ceirnín(e)">cernine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.257">
+<w type="hw" lemma="ceithern">cethern</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.258">
+<w type="hw" lemma="caplait">capluit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.259">
+<w type="hw" lemma="cerchaill">cercaill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.260">
+<w type="hw" lemma="cennaid">cendaig <add>ł d</add></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.261">
+<w type="hw" lemma="cuil 1">cuil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.262">
+<w type="hw" lemma="coic 2">cuic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.263">
+<w type="hw" lemma="catit">caitit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.264">
+<w type="hw" lemma="coth">coth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.265">
+<w type="hw" lemma="cothad">cothud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.266">
+<w type="hw" lemma="cim 1">cim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.267">
+<w type="hw" lemma="cim 2">cim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.268">
+<w type="hw" lemma="cocung">cocuing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.269">
+<w type="hw" lemma="cil I">cil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.270">
+<w type="hw" lemma="cumlachtaid">cumlachtaidh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.271">
+<w type="hw" lemma="cláiriu">clairiudh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.272">
+<w type="hw" lemma="cul 1">cul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.273">
+<w type="hw" lemma="cú 1c">coinfodoirne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.274">
+<w type="hw" lemma="cáise">caisi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.275">
+<w type="hw" lemma="cairt 1">cairt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.276">
+<w type="hw" lemma="crumdoma">crumdubha</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.277">
+<w type="hw" lemma="cil II">cil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.278">
+<w type="hw" lemma="cil I">cil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.279">
+<w type="hw" lemma="cicht">ciocht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.280">
+<w type="hw" lemma="cuisnet">cuisnet</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.281">
+<phr type="hw" lemma="columa">colamna aoise</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.282">
+<phr type="hw" lemma="Coire Brecain">Coire Brecain</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.283">
+<w type="hw" lemma="cumal 1">cumal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.284">
+<w type="hw" lemma="crepuscul">crapscuil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.285">
+<w type="hw" lemma="cotut">cotud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.286">
+<w type="hw" lemma="cuisil">cuisil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.287">
+<w type="hw" lemma="cúaille">cuaille</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.288">
+<w type="hw" lemma="cumtach">cumtach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.289">
+<w type="hw" lemma="commus">commos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.290">
+<w type="hw" lemma="cuirrech">cuirrech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.291">
+<w type="hw" lemma="cuirrech">cuirrech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.292">
+<w type="hw" lemma="cuing">cuing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.293">
+<w type="hw" lemma="cadan">cadan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.294">
+<w type="hw" lemma="cennais">cendais</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.295">
+<w type="hw" lemma="cor(r)thar">corrtair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.296">
+<w type="hw" lemma="carr 1">carr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.297">
+<w type="hw" lemma="cuithe">cuithe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.298">
+<w type="hw" lemma="caill 1">caill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.299">
+<w type="hw" lemma="crúach 1">cruach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.300">
+<w type="hw" lemma="clúm">cluim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.301">
+<w type="hw" lemma="cáelán">caolan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.302">
+<w type="hw" lemma="cúal">cual</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.303">
+<w type="hw" lemma="contracht">contracht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.304">
+<w type="hw" lemma="cocad">cogad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.305">
+<w type="hw" lemma="cullach">cullach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.306">
+<w type="hw" lemma="cnú">cnu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.307">
+<w type="hw" lemma="col">col</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.308">
+<w type="hw" lemma="crínna">crinda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.309">
+<w type="hw" lemma="clú 1">clu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.310">
+<w type="hw" lemma="cléirech">clerech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.311">
+<w type="hw" lemma="cúad">cuad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.312">
+<w type="hw" lemma="colpthae">calpada</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.313">
+<w type="hw" lemma="connad">cundud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.314">
+<w type="hw" lemma="clas 2">clas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.315">
+<w type="hw" lemma="cacc">cac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.316">
+<w type="hw" lemma="commaid">comad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.317">
+<w type="hw" lemma="clár">clar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.318">
+<w type="hw" lemma="cuirrech">cuirrech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.319">
+<w type="hw" lemma="coire">caire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.320">
+<w type="hw" lemma="coimgne">cuim<add place="infralinear">g</add>ne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.321">
+<w type="hw" lemma="NULL">cai</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.322">
+<w type="hw" lemma="culmaire">culmaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.323">
+<w type="hw" lemma="cobthach 2">coptach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.324">
+<w type="hw" lemma="caingel">caincell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.325">
+<w type="hw" lemma="crann (cmpd)">crandcandgel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.326">
+<w type="hw" lemma="cennaithe">cennaithe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.327">
+<w type="hw" lemma="celt 1">celt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.328">
+<w type="hw" lemma="caubar">cubar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.329">
+<w type="hw" lemma="carr 2">carr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.330">
+<w type="hw" lemma="cuin(n)siu">cuinnsi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.331">
+<w type="hw" lemma="cruith">cruith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.332">
+<w type="hw" lemma="cuindbech">cunnfech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.333">
+<w type="hw" lemma="caillech">caillech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.334">
+<w type="hw" lemma="Caisel">Caisil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.335">
+<w type="hw" lemma="creithir">creithir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.336">
+<w type="hw" lemma="cacaid">cacaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.337">
+<w type="hw" lemma="Cuirethar">Cuiretar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.338">
+<w type="hw" lemma="cruimther">cruimter</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.339">
+<w type="hw" lemma="cermnas">cermnass</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.340">
+<w type="hw" lemma="Cerball">Cerboll</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.341">
+<w type="hw" lemma="coire">coire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.342">
+<w type="hw" lemma="ceticul">ceticol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.343">
+<w type="hw" lemma="NULL">cermna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.344">
+<w type="hw" lemma="con-laig">conlé</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.345">
+<w type="hw" lemma="cochmae">cochmi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.346">
+<w type="hw" lemma="crú 1">cro</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.347">
+<phr type="hw" lemma="coibche 1">cenda nó coibce</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.348">
+<w type="hw" lemma="cútha(i)l">cuthal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.349">
+<w type="hw" lemma="NULL">cumme</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.350">
+<w type="hw" lemma="coach">coach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.351">
+<w type="hw" lemma="cúachnaidm">cuacnaidm</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.352">
+<w type="hw" lemma="NULL">cuiscliu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.353">
+<w type="hw" lemma="crésen">cresen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.354">
+<w type="hw" lemma="Cera">Cero</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.355">
+<w type="hw" lemma="NULL">criathar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.356">
+<w type="hw" lemma="carr 1">carr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.357">
+<w type="hw" lemma="ceimes">cemes</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.358">
+<w type="hw" lemma="canóin">canoin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.359">
+<w type="hw" lemma="NULL">Conaing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.360">
+<w type="hw" lemma="Domnall"><supplied>D</supplied>omnall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.361">
+<w type="hw" lemma="Díarmait">Diarmaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.362">
+<w type="hw" lemma="dothchern(a)">duithcernd</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.363">
+<w type="hw" lemma="diss">dis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.364">
+<w type="hw" lemma="deinmne">deinmne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.365">
+<w type="hw" lemma="discréit">discreit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.366">
+<w type="hw" lemma="dodchaid">dotced</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.367">
+<w type="hw" lemma="díummusach">diumusach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.368">
+<w type="hw" lemma="diuthach">diathach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.369">
+<w type="hw" lemma="dairmitiu">dairmitiu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.370">
+<w type="hw" lemma="dál 1">dal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.371">
+<w type="hw" lemma="dabach">dabach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.372">
+<w type="hw" lemma="domaín">doman</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.373">
+<w type="hw" lemma="domun 1">domon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.374">
+<w type="hw" lemma="díre">dirith <add>ł dire</add></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.375">
+<w type="hw" lemma="dígal">digal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.376">
+<w type="hw" lemma="NULL">die</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.377">
+<w type="hw" lemma="deithbir 1">deithbir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.378">
+<w type="hw" lemma="dínnim">dinnim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.379">
+<w type="hw" lemma="dorsaid">dorsaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.380">
+<w type="hw" lemma="dásacht">dasachtach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.381">
+<w type="hw" lemma="dos 2">dos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.382">
+<w type="hw" lemma="NULL">dobar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.383">
+<w type="hw" lemma="díburdud">diburtud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.384">
+<w type="hw" lemma="dedól">dedol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.385">
+<w type="hw" lemma="droch 1">droch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.386">
+<w type="hw" lemma="drac">drauc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.387">
+<w type="hw" lemma="drenn 1">drend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.388">
+<w type="hw" lemma="dela 1">deil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.389">
+<w type="hw" lemma="deiliugad">deliugad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.390">
+<w type="hw" lemma="díthrub">dithrep</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.391">
+<w type="hw" lemma="dísert">disiurtus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.392">
+<w type="hw" lemma="dobrit(h)">dobrith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.393">
+<w type="hw" lemma="desruith">desruith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.394">
+<w type="hw" lemma="deime 1">deme</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.395">
+<w type="hw" lemma="deimes">demes</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.396">
+<w type="hw" lemma="dommae 1">doma</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.397">
+<w type="hw" lemma="dubach 1">dubach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.398">
+<w type="hw" lemma="dulbair">dulbair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.399">
+<w type="hw" lemma="dimse">dimse</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.400">
+<w type="hw" lemma="dona">dona</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.401">
+<w type="hw" lemma="Dairfine">Dairfine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.402">
+<w type="hw" lemma="dúar (cmpd)">duarfine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.403">
+<w type="hw" lemma="Díancécht">Diancecht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.404">
+<w type="hw" lemma="deach">deach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.405">
+<w type="hw" lemma="deilidin">deilidin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.406">
+<w type="hw" lemma="deime 2">deme</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.407">
+<w type="hw" lemma="da 1">doiduine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.408">
+<phr type="hw" lemma="drúcht">druchta dea</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.409">
+<w type="hw" lemma="dergnat">dergnat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.410">
+<w type="hw" lemma="dercu">dercain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.411">
+<phr type="hw" lemma="derb 2">derb loma</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.412">
+<w type="hw" lemma="díscir">discir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.413">
+<w type="hw" lemma="dul 4">dul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.414">
+<w type="hw" lemma="duillebad">dulebad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.415">
+<w type="hw" lemma="dúairc">duairc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.416">
+<w type="hw" lemma="dos 2">duas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.417">
+<w type="hw" lemma="dall">dall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.418">
+<w type="hw" lemma="dál 4">dal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.419">
+<w type="hw" lemma="dom">dam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.420">
+<w type="hw" lemma="docho">docho</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.421">
+<w type="hw" lemma="derchoíniud">dercained</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.422">
+<w type="hw" lemma="debuith">debaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.423">
+<w type="hw" lemma="dess">deis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.424">
+<w type="hw" lemma="dér">der</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.425">
+<w type="hw" lemma="descad">descaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.426">
+<w type="hw" lemma="dúil 1">duile</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.427">
+<w type="hw" lemma="dalb 1">dalb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.428">
+<w type="hw" lemma="descad">descud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.429">
+<w type="hw" lemma="drúth 2">druth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.430">
+<w type="hw" lemma="drúth 1">druth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.431">
+<w type="hw" lemma="draigen">droigen </w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.432">
+<w type="hw" lemma="dris">dris</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.433">
+<w type="hw" lemma="dernu">derna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.434">
+<w type="hw" lemma="dílmain">dilmuin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.435">
+<w type="hw" lemma="delg">delg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.436">
+<w type="hw" lemma="dubad">dubad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.437">
+<w type="hw" lemma="díliu">diliu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.438">
+<w type="hw" lemma="druí">drai</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.439">
+<w type="hw" lemma="díthachtach">ditho</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.440">
+<w type="hw" lemma="dag 1">dagh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.441">
+<w type="hw" lemma="droch 2">droch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.442">
+<w type="hw" lemma="duillend">duillen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.443">
+<w type="hw" lemma="NULL">der</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.444">
+<w type="hw" lemma="dorblus">dorblus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.445">
+<w type="hw" lemma="dobrach 2">dobrach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.446">
+<w type="hw" lemma="dam 6">dam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.447">
+<w type="hw" lemma="diamuin">diamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.448">
+<w type="hw" lemma="deach">deach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.449">
+<w type="hw" lemma="dúis">duis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.450">
+<w type="hw" lemma="Emain">Eamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.451">
+<w type="hw" lemma="emon 1">emon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.452">
+<w type="hw" lemma="éiligud">eiliugud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.453">
+<w type="hw" lemma="esert">eisirt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.454">
+<w type="hw" lemma="erball">erball</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.455">
+<w type="hw" lemma="elgon">elgain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.456">
+<w type="hw" lemma="eiden(n)">eidend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.457">
+<w type="hw" lemma="es(s)én">eisen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.458">
+<w type="hw" lemma="eimde">emde</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.459">
+<w type="hw" lemma="edel">eidel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.460">
+<w type="hw" lemma="es(s)em">eisem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.461">
+<w type="hw" lemma="eisrecht">eisricht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.462">
+<w type="hw" lemma="etarche">etarce</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.463">
+<w type="hw" lemma="esba(e)">essba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.464">
+<w type="hw" lemma="edam">edam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.465">
+<w type="hw" lemma="escand">esscond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.466">
+<w type="hw" lemma="éirge">eirgi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.467">
+<w type="hw" lemma="éscaid">eiscet</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.468">
+<w type="hw" lemma="es(s)ad">esad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.469">
+<w type="hw" lemma="enbroth">enbruithe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.470">
+<w type="hw" lemma="englas">englass</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.471">
+<w type="hw" lemma="enbruithe">enbruithe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.472">
+<w type="hw" lemma="Éogan">Eogan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.473">
+<w type="hw" lemma="Éoganacht">Eoganacht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.474">
+<w type="hw" lemma="ethar">ethar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.475">
+<w type="hw" lemma="NULL">edarbort</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.476">
+<w type="hw" lemma="enbarr">enbarr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.477">
+<w type="hw" lemma="eneclann">eneclann</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.478">
+<w type="hw" lemma="enechrucce">enechruice</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.479">
+<w type="hw" lemma="enechgrís">enechgris</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.480">
+<w type="hw" lemma="erc 1">erc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.481">
+<w type="hw" lemma="ercne">ercne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.482">
+<w type="hw" lemma="ebrón">ebron</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.483">
+<w type="hw" lemma="étan">Ettan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.484">
+<w type="hw" lemma="éices">ecces</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.485">
+<w type="hw" lemma="escop 1">epscop</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.486">
+<w type="hw" lemma="ellam 1">ellam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.487">
+<w type="hw" lemma="ele">eli</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.488">
+<w type="hw" lemma="éigem">egem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.489">
+<w type="hw" lemma="ecna(e) 1">eccna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.490">
+<w type="hw" lemma="étan">edan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.491">
+<w type="hw" lemma="esert">esirt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.492">
+<w type="hw" lemma="eochair 6">eochair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.493">
+<w type="hw" lemma="éicen">ecin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.494">
+<w type="hw" lemma="elgon">elguin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.495">
+<w type="hw" lemma="éc">ec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.496">
+<w type="hw" lemma="ecal">eccal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.497">
+<w type="hw" lemma="erp">erb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.498">
+<w type="hw" lemma="airmed">ermed</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.499">
+<w type="hw" lemma="etrud">edsruth </w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.500">
+<w type="hw" lemma="aithech 1">eitheach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.501">
+<w type="hw" lemma="elit">elit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.502">
+<w type="hw" lemma="élúd">elad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.503">
+<w type="hw" lemma="étach 1">etach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.504">
+<w type="hw" lemma="esbaith 1">espaith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.505">
+<w type="hw" lemma="elada">elaga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.506">
+<w type="hw" lemma="esnad 1">esnad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.507">
+<w type="hw" lemma="errach 1">errach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.508">
+<w type="hw" lemma="esbicul">eispicuil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.509">
+<w type="hw" lemma="escra">escra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.510">
+<w type="hw" lemma="esc 1">esc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.511">
+<w type="hw" lemma="escand">escand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.512">
+<w type="hw" lemma="escra">escra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.513">
+<w type="hw" lemma="é 4">ee</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.514">
+<w type="hw" lemma="ed 1">edon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.515">
+<w type="hw" lemma="ésca(e)">esca</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.516">
+<w type="hw" lemma="es(s) 6">es</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.517">
+<w type="hw" lemma="NULL">emon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.518">
+<w type="hw" lemma="éirge">erge</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.519">
+<w type="hw" lemma="écmacht">ecmachd</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.520">
+<w type="hw" lemma="flaith 2">flaith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.521">
+<w type="hw" lemma="fíne">fine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.522">
+<w type="hw" lemma="fín 1">fin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.523">
+<w type="hw" lemma="feorus">feirius</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.524">
+<w type="hw" lemma="felc">felc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.525">
+<w type="hw" lemma="NULL">ferb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.526">
+<w type="hw" lemma="fír 2">fir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.527">
+<w type="hw" lemma="fíthal">fithal/Fithal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.528">
+<w type="hw" lemma="ferenn">firend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.529">
+<w type="hw" lemma="fochloc">fochlocc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.530">
+<w type="hw" lemma="frecra(e)">frecra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.531">
+<w type="hw" lemma="fogal">foghal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.532">
+<w type="hw" lemma="foilmen">foilmen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.533">
+<w type="hw" lemma="fochnod">fochnad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.534">
+<w type="hw" lemma="Fedelmid">Feidilmid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.535">
+<w type="hw" lemma="fescor 1">fescar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.536">
+<phr type="hw" lemma="feis(s) 2">feis aidchi</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.537">
+<w type="hw" lemma="fís">fis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.538">
+<w type="hw" lemma="fúal 1b">fual</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.539">
+<w type="hw" lemma="fothrucud">fotracad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.540">
+<w type="hw" lemma="Foí">Foi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.541">
+<w type="hw" lemma="felmac">felmac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.542">
+<w type="hw" lemma="fili">fili</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.543">
+<w type="hw" lemma="fogamar">fogamur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.544">
+<w type="hw" lemma="Femen">Femen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.545">
+<w type="hw" lemma="flechud">flechud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.546">
+<w type="hw" lemma="fell 2">fell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.547">
+<w type="hw" lemma="fim">fim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.548">
+<w type="hw" lemma="fáir">fair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.549">
+<w type="hw" lemma="fé 1">fe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.550">
+<w type="hw" lemma="fidchell">fithcell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.551">
+<w type="hw" lemma="fraig 1">fraigh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.552">
+<w type="hw" lemma="folassa">folassa</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.553">
+<w type="hw" lemma="fuidir 1">fuidir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.554">
+<w type="hw" lemma="fásach 1">fasach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.555">
+<w type="hw" lemma="fern 3">fern</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.556">
+<w type="hw" lemma="fíacail">fiacail</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.557">
+<w type="hw" lemma="fige">fighe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.558">
+<w type="hw" lemma="folach 1">folach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.559">
+<w type="hw" lemma="folt">fo<del>a</del>lt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.560">
+<w type="hw" lemma="fid">fidh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.561">
+<w type="hw" lemma="ferg 1">ferg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.562">
+<w type="hw" lemma="fled">fled</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.563">
+<w type="hw" lemma="fót 1">fot</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.564">
+<w type="hw" lemma="focal">focal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.565">
+<w type="hw" lemma="fer">fer</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.566">
+<w type="hw" lemma="fáscud">fascad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.567">
+<w type="hw" lemma="figel(l)">figell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.568">
+<w type="hw" lemma="faigen">faigin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.569">
+<w type="hw" lemma="féle">fele</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.570">
+<w type="hw" lemma="fáilid">failid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.571">
+<w type="hw" lemma="faithche">faithci</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.572">
+<w type="hw" lemma="fuine 1">fuine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.573">
+<w type="hw" lemma="fec">fec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.574">
+<w type="hw" lemma="fúat 1">fuat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.575">
+<w type="hw" lemma="Femen">Femin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.576">
+<w type="hw" lemma="fochell 2">fachell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.577">
+<w type="hw" lemma="fell 1">feall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.578">
+<w type="hw" lemma="foga">fogga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.579">
+<w type="hw" lemma="fí">fi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.580">
+<w type="hw" lemma="fochen *">fochen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.581">
+<w type="hw" lemma="fert 1">fert</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.582">
+<w type="hw" lemma="fír 1">fior</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.583">
+<w type="hw" lemma="fedan">fedan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.584">
+<w type="hw" lemma="fíam 2">fiam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.585">
+<w type="hw" lemma="fang">fang</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.586">
+<w type="hw" lemma="fúal 1a">fual</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.587">
+<w type="hw" lemma="fuil">fuil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.588">
+<w type="hw" lemma="fíadnaise">fiadnaisi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.589">
+<w type="hw" lemma="fíamuin">fiadmuin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.590">
+<w type="hw" lemma="ferg 2">ferg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.591">
+<w type="hw" lemma="fál 2">fal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.592">
+<w type="hw" lemma="fethal">fethal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.593">
+<w type="hw" lemma="fochla 1 I">fa<add>ł o</add>cla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.594">
+<w type="hw" lemma="faitse">faitsi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.595">
+<w type="hw" lemma="fochla 1 II">fochla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.596">
+<w type="hw" lemma="fíanachtach">fiandachdach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.597">
+<w type="hw" lemma="forbasach">forbasach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.598">
+<w type="hw" lemma="fothad">fothath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.599">
+<w type="hw" lemma="ficht">fichd</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.600">
+<w type="hw" lemma="fó 2">foi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.601">
+<w type="hw" lemma="fothond">fotonn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.602">
+<w type="hw" lemma="foluth">fuluth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.603">
+<w type="hw" lemma="féice">feice</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.604">
+<w type="hw" lemma="fuirim">fuirim{?}</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.605">
+<w type="hw" lemma="fenelach">fenelach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.606">
+<phr type="hw" lemma="ferdoman">Fer Doman</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.607">
+<w type="hw" lemma="foíndledach">fandelach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.608">
+<w type="hw" lemma="fethal">fethal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.609">
+<w type="hw" lemma="fell 2">fell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.610">
+<w type="hw" lemma="fim">fim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.611">
+<w type="hw" lemma="fim">fim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.612">
+<phr type="hw" lemma="NULL">ferr fir firrse</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.613">
+<phr type="hw" lemma="NULL">ferr fola fonaidm</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.614">
+<w type="hw" lemma="glóir 1">gloir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.615">
+<w type="hw" lemma="galar">galor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.616">
+<w type="hw" lemma="gaim 1">gam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.617">
+<w type="hw" lemma="gemred">gaimrith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.618">
+<w type="hw" lemma="gelester">geilestar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.619">
+<w type="hw" lemma="NULL">gabar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.620">
+<w type="hw" lemma="gilla c">gil<del>t</del>i</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.621">
+<w type="hw" lemma="gemm">gem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.622">
+<w type="hw" lemma="grád 1">grad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.623">
+<w type="hw" lemma="glang">glang</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.624">
+<w type="hw" lemma="gel 1">gel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.625">
+<w type="hw" lemma="gíabur">giabair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.626">
+<w type="hw" lemma="gol">gol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.627">
+<w type="hw" lemma="NULL">gall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.628">
+<w type="hw" lemma="gratsicum">grazagum{?}</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.629">
+<w type="hw" lemma="Gaileng">Galeng</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.630">
+<w type="hw" lemma="géd">ged</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.631">
+<w type="hw" lemma="gamain 2">gamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.632">
+<w type="hw" lemma="gorn">gorn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.633">
+<w type="hw" lemma="glus">gluss</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.634">
+<w type="hw" lemma="Greth">Grith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.635">
+<w type="hw" lemma="NULL">gart</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.636">
+<w type="hw" lemma="gruiten">gruiten</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.637">
+<w type="hw" lemma="gnó">gno</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.638">
+<w type="hw" lemma="gróma">gromæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.639">
+<w type="hw" lemma="glám">glam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.640">
+<w type="hw" lemma="glaídem">glaidemain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.641">
+<w type="hw" lemma="gudemain">gudemain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.642">
+<w type="hw" lemma="gaire 4">gaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.643">
+<w type="hw" lemma="NULL">grug</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.644">
+<w type="hw" lemma="galgat 1">galgad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.645">
+<w type="hw" lemma="gér">ger</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.646">
+<w type="hw" lemma="gilla d">gilla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.647">
+<w type="hw" lemma="graig">graigh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.648">
+<w type="hw" lemma="gilcach">gilcach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.649">
+<w type="hw" lemma="gáeth 2">goeth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.650">
+<w type="hw" lemma="gnáth">gnath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.651">
+<w type="hw" lemma="garg">garg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.652">
+<w type="hw" lemma="gráibre">graibre</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.653">
+<w type="hw" lemma="gigrann">gighrand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.654">
+<w type="hw" lemma="gin">gin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.655">
+<w type="hw" lemma="grian">grian</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.656">
+<w type="hw" lemma="gruad">gruad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.657">
+<w type="hw" lemma="gobae">gaba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.658">
+<w type="hw" lemma="Goídelc">Goidelc{?}</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.659">
+<w type="hw" lemma="guth">guth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.660">
+<w type="hw" lemma="garb 1">garb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.661">
+<w type="hw" lemma="guin">guin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.662">
+<w type="hw" lemma="guba">guba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.663">
+<w type="hw" lemma="geir 1">ger</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.664">
+<w type="hw" lemma="Gallchobor">Gallcobor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.665">
+<w type="hw" lemma="goltraige">goltraige</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.666">
+<w type="hw" lemma="gentraige">gentraige</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.667">
+<w type="hw" lemma="NULL">garman</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.668">
+<w type="hw" lemma="gráibre">graibre</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.669">
+<w type="hw" lemma="grúc 1">grucc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.670">
+<w type="hw" lemma="galgat 2">galgat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.671">
+<w type="hw" lemma="grend 1">grend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.672">
+<w type="hw" lemma="NULL">guaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.673">
+<w type="hw" lemma="giritán">giratan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.674">
+<w type="hw" lemma="gráce">grace</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.675">
+<w type="hw" lemma="NULL">gibne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.676">
+<w type="hw" lemma="Ís(s)u"><supplied>I</supplied>sa</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.677">
+<w type="hw" lemma="ibar">iubar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.678">
+<w type="hw" lemma="ítharnae">itharna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.679">
+<w type="hw" lemma="íasc">iascc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.680">
+<w type="hw" lemma="indmus 1">indmus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.681">
+<w type="hw" lemma="ísel">iseal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.682">
+<w type="hw" lemma="íarn">iarn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.683">
+<w type="hw" lemma="immesorcon">imesorgain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.684">
+<w type="hw" lemma="imrimm">imrim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.685">
+<w type="hw" lemma="imliu">imbliu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.686">
+<w type="hw" lemma="imlech 1">imloch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.687">
+<w type="hw" lemma="inis 1">inis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.688">
+<w type="hw" lemma="ansae 1">inndsa</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.689">
+<w type="hw" lemma="insamain">innsamuin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.690">
+<w type="hw" lemma="indrosc 1">indrosc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.691">
+<w type="hw" lemma="ibid">ibh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.692">
+<w type="hw" lemma="immortan">imortan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.693">
+<w type="hw" lemma="ia">ia</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.694">
+<w type="hw" lemma="ídal">iodal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.695">
+<w type="hw" lemma="indelb">indelba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.696">
+<w type="hw" lemma="imbath">imbath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.697">
+<w type="hw" lemma="idan">idon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.698">
+<w type="hw" lemma="íarmbélre">iarmberla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.699">
+<phr type="hw" lemma="imbas 1">imbhus forosna</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.700">
+<w type="hw" lemma="inathar">inathar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.701">
+<w type="hw" lemma="iris 1">iris</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.702">
+<w type="hw" lemma="indígu">indigu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.703">
+<w type="hw" lemma="inchinn">incind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.704">
+<w type="hw" lemma="indech">indech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.705">
+<w type="hw" lemma="inmain">inmain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.706">
+<w type="hw" lemma="ith">ith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.707">
+<w type="hw" lemma="inill">inill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.708">
+<w type="hw" lemma="imdae 1">imdæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.709">
+<w type="hw" lemma="indile">indile</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.710">
+<w type="hw" lemma="ícc">icc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.711">
+<w type="hw" lemma="indithem">innithim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.712">
+<w type="hw" lemma="ilach">iolach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.713">
+<w type="hw" lemma="idu 1">idu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.714">
+<w type="hw" lemma="id 1">iod</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.715">
+<w type="hw" lemma="imb">im</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.716">
+<w type="hw" lemma="ingen 1">ingin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.717">
+<w type="hw" lemma="ithe">ith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.718">
+<w type="hw" lemma="ísel">isil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.719">
+<w type="hw" lemma="íathlu">iathlu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.720">
+<w type="hw" lemma="íara">iaru</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.721">
+<w type="hw" lemma="imdell 1">imdell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.722">
+<w type="hw" lemma="íchtar">ihctur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.723">
+<w type="hw" lemma="airdirc">irdarc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.724">
+<w type="hw" lemma="bárach">imbarach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.725">
+<w type="hw" lemma="airsa">irsa </w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.726">
+<w type="hw" lemma="ur(a)id">inuraid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.727">
+<w type="hw" lemma="indles">inles</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.728">
+<w type="hw" lemma="íasc">iasc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.729">
+<w type="hw" lemma="inescland">inesclond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.730">
+<w type="hw" lemma="icht 3">ih<add place="infralinear">c</add>t</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.731">
+<w type="hw" lemma="inbleoga(i)n">inbleoghuin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.732">
+<w type="hw" lemma="íarus">iarus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.733">
+<w type="hw" lemma="imscing">imscing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.734">
+<w type="hw" lemma="indbe">indbe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.735">
+<w type="hw" lemma="airchaire">ircaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.736">
+<w type="hw" lemma="inntile">intile</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.737">
+<w type="hw" lemma="NULL">Ilith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.738">
+<w type="hw" lemma="láech">laoch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.739">
+<w type="hw" lemma="laíches">laichess</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.740">
+<w type="hw" lemma="Lugnasad">Lugnasæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.741">
+<w type="hw" lemma="lelap">lelab</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.742">
+<w type="hw" lemma="les (cmpd)">lesmac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.743">
+<w type="hw" lemma="legam">legam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.744">
+<w type="hw" lemma="lasamain">lasamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.745">
+<w type="hw" lemma="lemnacht">lemlacht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.746">
+<w type="hw" lemma="NULL">loch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.747">
+<w type="hw" lemma="lárac">laarcc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.748">
+<w type="hw" lemma="lorg 2">lorcc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.749">
+<w type="hw" lemma="lám">lam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.750">
+<w type="hw" lemma="lámos">lamoss</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.751">
+<w type="hw" lemma="lámann">lamann</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.752">
+<w type="hw" lemma="lútu">luda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.753">
+<w type="hw" lemma="lía 1">líe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.754">
+<w type="hw" lemma="NULL">laith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.755">
+<w type="hw" lemma="lang (cmpd)">langpeitir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.756">
+<w type="hw" lemma="lecht">lecht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.757">
+<w type="hw" lemma="long 1">long</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.758">
+<w type="hw" lemma="lúachair 2">luchair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.759">
+<w type="hw" lemma="lebor">lebor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.760">
+<w type="hw" lemma="lot">lott</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.761">
+<w type="hw" lemma="láth">latt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.762">
+<w type="hw" lemma="lommán">loman</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.763">
+<w type="hw" lemma="laithirt">laithoirt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.764">
+<w type="hw" lemma="lubgort">lugbart</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.765">
+<w type="hw" lemma="lín 2">lin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.766">
+<w type="hw" lemma="léine">lene</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.767">
+<w type="hw" lemma="lánamain">lanamain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.768">
+<w type="hw" lemma="NULL">lethech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.769">
+<w type="hw" lemma="NULL">foxal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.770">
+<w type="hw" lemma="lés 1d">leos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.771">
+<w type="hw" lemma="lés 1a">leos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.772">
+<w type="hw" lemma="lócharn(n)">luacarnd</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.773">
+<w type="hw" lemma="lachu">lacha</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.774">
+<w type="hw" lemma="lennán">lendan </w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.775">
+<w type="hw" lemma="lecc">lec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.776">
+<w type="hw" lemma="ledb">ledb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.777">
+<w type="hw" lemma="lésán">lesan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.778">
+<w type="hw" lemma="loman">lomhan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.779">
+<w type="hw" lemma="léimm">lem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.780">
+<w type="hw" lemma="lesc 1">lescc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.781">
+<w type="hw" lemma="lenn 1">lend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.782">
+<w type="hw" lemma="los 1 (cmpd)">losscuirn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.783">
+<w type="hw" lemma="lurga">lurga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.784">
+<w type="hw" lemma="lobur">lobar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.785">
+<w type="hw" lemma="lepaid">lebaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.786">
+<w type="hw" lemma="littiu">litte</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.787">
+<w type="hw" lemma="lecca">lecco</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.788">
+<w type="hw" lemma="loscud 2">losgad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.789">
+<w type="hw" lemma="lang">long</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.790">
+<w type="hw" lemma="lúachair 1">luachuir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.791">
+<w type="hw" lemma="letrad">letrad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.792">
+<w type="hw" lemma="leittir">leitir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.793">
+<w type="hw" lemma="lothar 2">lothar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.794">
+<w type="hw" lemma="debroth"><supplied>m</supplied>odebroth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.795">
+<w type="hw" lemma="marc">marc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.796">
+<w type="hw" lemma="máthair">mathair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.797">
+<w type="hw" lemma="mid 1">mid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.798">
+<w type="hw" lemma="meithel 1">methil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.799">
+<w type="hw" lemma="muc(c)airbe">mucairbe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.800">
+<w type="hw" lemma="malland">malland</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.801">
+<w type="hw" lemma="mass 1">mais</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.802">
+<w type="hw" lemma="milliud">milliud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.803">
+<w type="hw" lemma="miscad 1">miscath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.804">
+<w type="hw" lemma="milgetan">milgetan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.805">
+<w type="hw" lemma="melg 1">mealg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.806">
+<w type="hw" lemma="melg 2">melg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.807">
+<w type="hw" lemma="Morann">Morand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.808">
+<w type="hw" lemma="menad">menadh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.809">
+<w type="hw" lemma="NULL">moth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.810">
+<w type="hw" lemma="man">man</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.811">
+<w type="hw" lemma="manach 1">manoch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.812">
+<w type="hw" lemma="monach">monach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.813">
+<w type="hw" lemma="methas">methass</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.814">
+<w type="hw" lemma="molad">molodh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.815">
+<w type="hw" lemma="menmchasach">mencasach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.816">
+<w type="hw" lemma="moirtchenn">mortcend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.817">
+<w type="hw" lemma="moirtchern">Mort<del>ar</del>cend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.818">
+<w type="hw" lemma="muilend">muilend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.819">
+<w type="hw" lemma="meirdrech">merdrech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.820">
+<w type="hw" lemma="mát 2">Mut</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.821">
+<w type="hw" lemma="mann 1">mand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.822">
+<w type="hw" lemma="Munnu">Munda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.823">
+<w type="hw" lemma="mes(s)án">mesan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.824">
+<w type="hw" lemma="mílchú">milchu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.825">
+<w type="hw" lemma="NULL">Mal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.826">
+<w type="hw" lemma="NULL">Muirend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.827">
+<phr type="hw" lemma="Mug Éme">Mugh Eme</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.828">
+<w type="hw" lemma="Mumu">Mumo</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.829">
+<w type="hw" lemma="mug">mugh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.830">
+<w type="hw" lemma="mugsaine">mugsaine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.831">
+<w type="hw" lemma="múch">much</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.832">
+<w type="hw" lemma="mil">mil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.833">
+<w type="hw" lemma="midach 2">midach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.834">
+<w type="hw" lemma="mer 2">mer</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.835">
+<w type="hw" lemma="meracht">meracht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.836">
+<w type="hw" lemma="mairt 3">mairt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.837">
+<w type="hw" lemma="mindech">mindech</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.838">
+<w type="hw" lemma="mart 1">mart</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.839">
+<w type="hw" lemma="mortlaid">mol<add>ł r</add>tlaith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.840">
+<phr type="hw" lemma="Manannán mac Lir">Manandan mac Lir</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.841">
+<w type="hw" lemma="mant">mant</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.842">
+<w type="hw" lemma="mag">magh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.843">
+<w type="hw" lemma="muinél">muinel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.844">
+<w type="hw" lemma="mind 1">mind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.845">
+<w type="hw" lemma="NULL">minarba</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.846">
+<w type="hw" lemma="medc">medg</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.847">
+<w type="hw" lemma="muc(c)">muc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.848">
+<w type="hw" lemma="met(t)a">metu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.849">
+<w type="hw" lemma="mer 1">mer</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.850">
+<w type="hw" lemma="mall">mall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.851">
+<w type="hw" lemma="mer 1">mer</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.852">
+<w type="hw" lemma="meinic">menic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.853">
+<w type="hw" lemma="mór">mor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.854">
+<w type="hw" lemma="múr 1">mur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.855">
+<w type="hw" lemma="mé">mi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.856">
+<w type="hw" lemma="muinchille">muincille</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.857">
+<w type="hw" lemma="melltiuch">meltiuch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.858">
+<w type="hw" lemma="mescán">mescan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.859">
+<w type="hw" lemma="mescae">meisci</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.860">
+<w type="hw" lemma="mes(s) 2">mess</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.861">
+<w type="hw" lemma="mullach">mullach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.862">
+<w type="hw" lemma="malland">malland</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.863">
+<w type="hw" lemma="muad 3">muad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.864">
+<w type="hw" lemma="mell 2">mell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.865">
+<w type="hw" lemma="muine 1">muine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.866">
+<w type="hw" lemma="molt">molt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.867">
+<w type="hw" lemma="méth">meith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.868">
+<w type="hw" lemma="maeth">maoth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.869">
+<w type="hw" lemma="maethal">maothal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.870">
+<w type="hw" lemma="más 1">mas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.871">
+<w type="hw" lemma="mennat">mendat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.872">
+<w type="hw" lemma="midach 1">midhach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.873">
+<w type="hw" lemma="muinter">muinnter</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.874">
+<w type="hw" lemma="mías">mias</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.875">
+<w type="hw" lemma="mecon">mecon</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.876">
+<w type="hw" lemma="meng">meng</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.877">
+<w type="hw" lemma="mong">mong</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.878">
+<w type="hw" lemma="mang 1">mang</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.879">
+<w type="hw" lemma="múit">muit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.880">
+<w type="hw" lemma="maide">maide</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.881">
+<w type="hw" lemma="móit">moid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.882">
+<w type="hw" lemma="miscais">miscais</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.883">
+<w type="hw" lemma="mún">mun</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.884">
+<w type="hw" lemma="mír">mir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.885">
+<w type="hw" lemma="mát 1">mat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.886">
+<w type="hw" lemma="mualach">mualach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.887">
+<w type="hw" lemma="muad 1">muad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.888">
+<w type="hw" lemma="midlach">midlach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.889">
+<w type="hw" lemma="mairbill">marbill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.890">
+<w type="hw" lemma="mén">men</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.891">
+<w type="hw" lemma="meis 2">meisi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.892">
+<w type="hw" lemma="maidinn">maidind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.893">
+<w type="hw" lemma="meise">meisi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.894">
+<w type="hw" lemma="mem(m)">mem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.895">
+<w type="hw" lemma="meile 4">meli</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.896">
+<w type="hw" lemma="meis 2">meisi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.897">
+<w type="hw" lemma="magar">maghar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.898">
+<w type="hw" lemma="man">man</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.899">
+<w type="hw" lemma="mut">mut</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.900">
+<w type="hw" lemma="muad 4">muad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.901">
+<w type="hw" lemma="NULL">menearb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.902">
+<w type="hw" lemma="NULL">Menerbæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.903">
+<w type="hw" lemma="nia 2"><supplied>n</supplied>ia</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.904">
+<w type="hw" lemma="nemnall">nemnuall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.905">
+<w type="hw" lemma="nin 3">ninfos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.906">
+<w type="hw" lemma="neimed">nemeath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.907">
+<w type="hw" lemma="neimed">nemaith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.908">
+<w type="hw" lemma="neimed">nemuath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.909">
+<w type="hw" lemma="néit">Neit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.910">
+<w type="hw" lemma="nacc">nacc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.911">
+<w type="hw" lemma="níth">nith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.912">
+<w type="hw" lemma="ner">ner</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.913">
+<w type="hw" lemma="noe 1">noe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.914">
+<w type="hw" lemma="nós 1">nos</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.915">
+<w type="hw" lemma="nimb">nimb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.916">
+<w type="hw" lemma="NULL">nairne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.917">
+<w type="hw" lemma="níth">nith</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.918">
+<w type="hw" lemma="nethes">nethes</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.919">
+<w type="hw" lemma="nescóit 1">nescoit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.920">
+<w type="hw" lemma="NULL">nes</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.921">
+<w type="hw" lemma="nert">nert</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.922">
+<w type="hw" lemma="net">net</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.923">
+<w type="hw" lemma="nia 1">nia</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.924">
+<w type="hw" lemma="not">not</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.925">
+<w type="hw" lemma="nasc">nasc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.926">
+<w type="hw" lemma="náma(e)">nama</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.927">
+<w type="hw" lemma="nathan 1">nathan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.928">
+<w type="hw" lemma="náire">naire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.929">
+<w type="hw" lemma="nathair">nathir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.930">
+<w type="hw" lemma="nó 2">nai</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.931">
+<w type="hw" lemma="naescu">naiscu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.932">
+<w type="hw" lemma="nenaid">nenaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.933">
+<w type="hw" lemma="nes(s) 1">ness</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.934">
+<w type="hw" lemma="nél">nel</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.935">
+<w type="hw" lemma="nem 1">nem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.936">
+<w type="hw" lemma="neim">neim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.937">
+<w type="hw" lemma="noin">noin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.938">
+<w type="hw" lemma="nónbor">nonbar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.939">
+<w type="hw" lemma="nús">nus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.940">
+<w type="hw" lemma="núa">nua</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.941">
+<w type="hw" lemma="nin 1">nen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.942">
+<w type="hw" lemma="nen 3">nin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.943">
+<w type="hw" lemma="ollam"><supplied>o</supplied>lldam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.944">
+<w type="hw" lemma="oí">oi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.945">
+<w type="hw" lemma="oimelc">Oimelc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.946">
+<w type="hw" lemma="oen">oen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.947">
+<w type="hw" lemma="oenach 1">oenach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.948">
+<w type="hw" lemma="oeth">oeth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.949">
+<w type="hw" lemma="oech">oæch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.950">
+<w type="hw" lemma="oar">oar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.951">
+<w type="hw" lemma="Orb">Orb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.952">
+<w type="hw" lemma="og 1">ogh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.953">
+<w type="hw" lemma="ord(d) 1">ord</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.954">
+<w type="hw" lemma="Ólchobar">Olcobar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.955">
+<w type="hw" lemma="orn 1">orn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.956">
+<w type="hw" lemma="om">omh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.957">
+<w type="hw" lemma="opar">opar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.958">
+<w type="hw" lemma="ong 1">ong</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.959">
+<w type="hw" lemma="oráit">oraid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.960">
+<w type="hw" lemma="oslucud">oslucud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.961">
+<w type="hw" lemma="ochtach">ogthach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.962">
+<w type="hw" lemma="ór 1">or</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.963">
+<phr type="hw" lemma="NULL">orc treith</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.964">
+<w type="hw" lemma="óc">occ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.965">
+<w type="hw" lemma="odor">odhar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.966">
+<w type="hw" lemma="óe *">oe</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.967">
+<w type="hw" lemma="óg(a)e">oige</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.968">
+<w type="hw" lemma="olann">oland</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.969">
+<w type="hw" lemma="omna">omna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.970">
+<w type="hw" lemma="omthand">omthand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.971">
+<w type="hw" lemma="ónna">onda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.972">
+<w type="hw" lemma="óinmit">onmit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.973">
+<w type="hw" lemma="NULL">ord</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.974">
+<w type="hw" lemma="oscor">oscur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.975">
+<w type="hw" lemma="ósar">ossar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.976">
+<w type="hw" lemma="ot(t)rach">otrac</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.977">
+<w type="hw" lemma="othan">otan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.978">
+<w type="hw" lemma="othrus">othras</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.979">
+<w type="hw" lemma="osnad">osnad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.980">
+<w type="hw" lemma="ón 2">oin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.981">
+<w type="hw" lemma="oifrend">oifrind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.982">
+<w type="hw" lemma="ongad">ongad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.983">
+<w type="hw" lemma="Ólchobar">Olcobar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.984">
+<w type="hw" lemma="Patraic"><supplied>P</supplied>atraicc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.985">
+<w type="hw" lemma="pell 1">pell</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.986">
+<w type="hw" lemma="pennait">penduit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.987">
+<w type="hw" lemma="pec(c)ad">peaca</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.988">
+<w type="hw" lemma="patu">pato</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.989">
+<w type="hw" lemma="prepost">propost</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.990">
+<w type="hw" lemma="port 1">port</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.991">
+<w type="hw" lemma="pairche">pairchi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.992">
+<w type="hw" lemma="parn">parn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.993">
+<w type="hw" lemma="puincne">puincne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.994">
+<w type="hw" lemma="puincne">puigin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.995">
+<w type="hw" lemma="páin">pain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.996">
+<w type="hw" lemma="puincern">puincern</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.997">
+<w type="hw" lemma="penn">pend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.998">
+<w type="hw" lemma="pertach">perticc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.999">
+<w type="hw" lemma="pairt 1">pairt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1000">
+<w type="hw" lemma="póc">pocc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1001">
+<w type="hw" lemma="proind">praind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1002">
+<w type="hw" lemma="prull">prull</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1003">
+<w type="hw" lemma="putte">pute</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1004">
+<w type="hw" lemma="putrall">putrall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1005">
+<w type="hw" lemma="pait(t)">pait</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1006">
+<w type="hw" lemma="púr">pur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1007">
+<w type="hw" lemma="purgatóir">purgatoir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1008">
+<w type="hw" lemma="pun(n)ann">punand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1009">
+<w type="hw" lemma="NULL">pellec</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1010">
+<w type="hw" lemma="píast">peist</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1011">
+<w type="hw" lemma="pistol">pistoll</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1012">
+<w type="hw" lemma="putraic">putracc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1013">
+<w type="hw" lemma="portchaine">purtcuine</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1014">
+<w type="hw" lemma="pulla">pulla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1015">
+<w type="hw" lemma="ponc">ponc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1016">
+<w type="hw" lemma="pla(e)">plae</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1017">
+<w type="hw" lemma="plutad">plutad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1018">
+<w type="hw" lemma="poll">poll</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1019">
+<w type="hw" lemma="penning">penning</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1020">
+<w type="hw" lemma="Pól">Pol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1021">
+<w type="hw" lemma="pissire">pisis</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1022">
+<w type="hw" lemma="rechtaire"><supplied>r</supplied>echtaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1023">
+<w type="hw" lemma="NULL">ros</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1024">
+<w type="hw" lemma="réim(m) 2">remm</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1025">
+<w type="hw" lemma="rindaid 2">rinntaid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1026">
+<w type="hw" lemma="rót 1">rout</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1027">
+<w type="hw" lemma="reód">reo</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1028">
+<w type="hw" lemma="rincne 1">ringcni</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1029">
+<w type="hw" lemma="robud">robuth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1030">
+<w type="hw" lemma="rétglu">retglu</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1031">
+<w type="hw" lemma="roth 1">roth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1032">
+<w type="hw" lemma="rucht 1">rucht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1033">
+<w type="hw" lemma="rudrad 1">rudrath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1034">
+<w type="hw" lemma="rúam 1">Ruam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1035">
+<w type="hw" lemma="ranc 1">ranc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1036">
+<w type="hw" lemma="rígan">rigan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1037">
+<w type="hw" lemma="raith 2">rath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1038">
+<w type="hw" lemma="rúan">ruain</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1039">
+<w type="hw" lemma="roscad">roscad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1040">
+<w type="hw" lemma="reilic">relic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1041">
+<phr type="hw" lemma="robb 1">rop 7 rap</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1042">
+<w type="hw" lemma="ribar">ribar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1043">
+<w type="hw" lemma="ris 1">riss</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1044">
+<phr type="hw" lemma="Rúad Rofhessa">Ruad Rofesa</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1045">
+<phr type="hw" lemma="rúamna">romna aois</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1046">
+<w type="hw" lemma="reidgair">reidgair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1047">
+<w type="hw" lemma="rer">rer</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1048">
+<phr type="hw" lemma="raibceth">raibceth cethra</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1049">
+<w type="hw" lemma="rind 1">rinn</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1050">
+<w type="hw" lemma="rind 2">renda</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1051">
+<phr type="hw" lemma="rota">rotta 7 rotan</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1052">
+<w type="hw" lemma="rus">rus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1053">
+<w type="hw" lemma="roisir">rosir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1054">
+<w type="hw" lemma="ruccae">rucce</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1055">
+<w type="hw" lemma="rét">ret</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1056">
+<w type="hw" lemma="rait">rait</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1057">
+<w type="hw" lemma="rogu">roga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1058">
+<w type="hw" lemma="remor">remar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1059">
+<w type="hw" lemma="rón 1">ron</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1060">
+<w type="hw" lemma="rond">ronna</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1061">
+<w type="hw" lemma="ráth 2">rath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1062">
+<w type="hw" lemma="ríasc">riasc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1063">
+<phr type="hw" lemma="rind 1">rinn sgine</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1064">
+<w type="hw" lemma="rot">rott</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1065">
+<w type="hw" lemma="rastal">rastal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1066">
+<phr type="hw" lemma="rosc 1">ros 7 russc</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1067">
+<w type="hw" lemma="répad">rebbad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1068">
+<w type="hw" lemma="rannaire">ronnaire</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1069">
+<w type="hw" lemma="rasmoel">rasmaol</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1070">
+<w type="hw" lemma="rétu">reatus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1071">
+<w type="hw" lemma="rincne 1">ringcne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1072">
+<w type="hw" lemma="Sanct Brigit"><supplied>S</supplied>ancct Brigit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1073">
+<w type="hw" lemma="súil">suil</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1074">
+<w type="hw" lemma="sobraig">sobraigh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1075">
+<w type="hw" lemma="senad 1">senad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1076">
+<w type="hw" lemma="salann">salond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1077">
+<w type="hw" lemma="sanas">sanas</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1078">
+<w type="hw" lemma="sróll 2">sroll</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1079">
+<w type="hw" lemma="segamlae">segamla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1080">
+<w type="hw" lemma="sméróit">smerfoit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1081">
+<w type="hw" lemma="san 2">san</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1082">
+<w type="hw" lemma="sirem">sirem</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1083">
+<w type="hw" lemma="serr 1">serr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1084">
+<w type="hw" lemma="snúad 2">snuad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1085">
+<phr type="hw" lemma="secc 1">secc 7 secda</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1086">
+<w type="hw" lemma="secnap">secnap</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1087">
+<w type="hw" lemma="secht 1">secht</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1088">
+<w type="hw" lemma="sé 1">se</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1089">
+<w type="hw" lemma="spirut">spirat</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1090">
+<w type="hw" lemma="spiracul">spiracul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1091">
+<w type="hw" lemma="spongc">spongc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1092">
+<w type="hw" lemma="sest">seit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1093">
+<w type="hw" lemma="simin(n)">semind</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1094">
+<w type="hw" lemma="screpul(l)">screpul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1095">
+<w type="hw" lemma="sceng">sceng</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1096">
+<w type="hw" lemma="sorb">sorb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1097">
+<w type="hw" lemma="slabrad">slabrad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1098">
+<w type="hw" lemma="samrad">samrad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1099">
+<w type="hw" lemma="sen 1">sen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1100">
+<w type="hw" lemma="sinser">senser</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1101">
+<w type="hw" lemma="salchúait">sailchoit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1102">
+<w type="hw" lemma="sadb">sadb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1103">
+<w type="hw" lemma="Serb">Serb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1104">
+<w type="hw" lemma="sín 2">sin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1105">
+<w type="hw" lemma="serrach">serrach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1106">
+<w type="hw" lemma="Scuit">Scuit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1107">
+<w type="hw" lemma="sáith">sath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1108">
+<w type="hw" lemma="Sanb">Sanb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1109">
+<w type="hw" lemma="ségda">segdæ</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1110">
+<w type="hw" lemma="sabaltair">sobaltoir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1111">
+<w type="hw" lemma="saim">saim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1112">
+<w type="hw" lemma="séd">segh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1113">
+<w type="hw" lemma="sanct">sanct</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1114">
+<w type="hw" lemma="sén 2">sen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1115">
+<w type="hw" lemma="ségonn">segan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1116">
+<w type="hw" lemma="sau"><unclear>saa</unclear></w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1117">
+<w type="hw" lemma="sab 1">sab</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1118">
+<w type="hw" lemma="sop">sop</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1119">
+<w type="hw" lemma="srían">srian</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1120">
+<w type="hw" lemma="srón">sron</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1121">
+<w type="hw" lemma="srathar">srathar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1122">
+<w type="hw" lemma="srenn">srand</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1123">
+<w type="hw" lemma="sruth">sruth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1124">
+<w type="hw" lemma="stad">stad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1125">
+<w type="hw" lemma="stáb">stab</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1126">
+<w type="hw" lemma="stíall">sdiall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1127">
+<w type="hw" lemma="scían">scian</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1128">
+<w type="hw" lemma="Scuit">scuit</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1129">
+<w type="hw" lemma="scailp">scailp</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1130">
+<phr type="hw" lemma="sess">seis ethar</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1131">
+<phr type="hw" lemma="srúb">srub muici</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1132">
+<w type="hw" lemma="siur">siur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1133">
+<w type="hw" lemma="sál 2">sal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1134">
+<w type="hw" lemma="sail">sail</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1135">
+<w type="hw" lemma="sinnach">sindach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1136">
+<w type="hw" lemma="sicc">sic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1137">
+<w type="hw" lemma="saltair">saltair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1138">
+<w type="hw" lemma="scatán">scatan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1139">
+<w type="hw" lemma="snáthat">snathad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1140">
+<w type="hw" lemma="tríath 1"><supplied>t</supplied>riath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1141">
+<w type="hw" lemma="tí 1">ti</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1142">
+<w type="hw" lemma="tort">tort</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1143">
+<w type="hw" lemma="toisc">toisc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1144">
+<w type="hw" lemma="NULL">triath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1145">
+<w type="hw" lemma="teinne">tinde</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1146">
+<w type="hw" lemma="tóraic">toreic</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1147">
+<w type="hw" lemma="torc 1">torc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1148">
+<w type="hw" lemma="tarb">tarb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1149">
+<w type="hw" lemma="Tethra">Tethra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1150">
+<w type="hw" lemma="treb">Treab</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1151">
+<w type="hw" lemma="tellach 1">tenlach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1152">
+<w type="hw" lemma="teirt 2">teirt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1153">
+<w type="hw" lemma="tét 1">tet</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1154">
+<w type="hw" lemma="temair">Temur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1155">
+<w type="hw" lemma="teim">tem<del>en</del>{?}</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1156">
+<w type="hw" lemma="tenlam">tenlam</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1157">
+<w type="hw" lemma="tailm">teilm</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1158">
+<w type="hw" lemma="trogain">trogen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1159">
+<w type="hw" lemma="tipra">tipra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1160">
+<w type="hw" lemma="torb">torb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1161">
+<w type="hw" lemma="toth 1">toth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1162">
+<w type="hw" lemma="traeth">traoth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1163">
+<w type="hw" lemma="tuilm">tuilm</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1164">
+<w type="hw" lemma="tarr">Tarr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1165">
+<w type="hw" lemma="tuirigin">tuirgin</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1166">
+<w type="hw" lemma="tuirigin">tuirig<add place="infralinear">i</add>n</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1167">
+<w type="hw" lemma="teist">test</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1168">
+<w type="hw" lemma="turad 1">turud</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1169">
+<w type="hw" lemma="torc 2">torc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1170">
+<w type="hw" lemma="trefhocal">trefhocul</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1171">
+<w type="hw" lemma="turtugud 2">turtait</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1172">
+<w type="hw" lemma="tiugradus">tigradus</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1173">
+<w type="hw" lemma="tuigen">tugen</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1174">
+<w type="hw" lemma="tap 2">tap</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1175">
+<w type="hw" lemma="Tamlachta(e)">Tamlachta</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1176">
+<w type="hw" lemma="tendál">tenddal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1177">
+<w type="hw" lemma="traig 1">traig</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1178">
+<w type="hw" lemma="truit">truid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1179">
+<w type="hw" lemma="trú">tru</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1180">
+<w type="hw" lemma="trúag">traagh{?}</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1181">
+<w type="hw" lemma="toirse">torsi</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1182">
+<w type="hw" lemma="trúaill 1">truail</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1183">
+<w type="hw" lemma="tellair">tellair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1184">
+<w type="hw" lemma="tarathar">tarathar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1185">
+<w type="hw" lemma="tonn 1">tond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1186">
+<w type="hw" lemma="tuiresg">turesc</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1187">
+<w type="hw" lemma="tulach 1">tulach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1188">
+<w type="hw" lemma="tairsech">tairisech </w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1189">
+<w type="hw" lemma="tengae">tenga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1190">
+<w type="hw" lemma="trait">troid</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1191">
+<w type="hw" lemma="tráill">traill</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1192">
+<w type="hw" lemma="tocad">taccad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1193">
+<w type="hw" lemma="tír 1">tir</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1194">
+<w type="hw" lemma="tuinnte 1">tuinti</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1195">
+<w type="hw" lemma="traigle">traigli</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1196">
+<w type="hw" lemma="tost">tast</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1197">
+<w type="hw" lemma="tíag">tiagh</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1198">
+<w type="hw" lemma="tón">ton</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1199">
+<w type="hw" lemma="tarrach">tarrach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1200">
+<w type="hw" lemma="timpán">timpan</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1201">
+<w type="hw" lemma="tacra">tagra</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1202">
+<w type="hw" lemma="tustall">tustall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1203">
+<w type="hw" lemma="termonn">termond</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1204">
+<w type="hw" lemma="tarr">tairr</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1205">
+<w type="hw" lemma="tar 4">tar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1206">
+<w type="hw" lemma="torrach">torrach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1207">
+<w type="hw" lemma="Trefóit">Trefod</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1208">
+<w type="hw" lemma="tíag">tiag</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1209">
+<w type="hw" lemma="Sethar">Sethor</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1210">
+<w type="hw" lemma="us(s)arb"><supplied>u</supplied>sarb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1211">
+<w type="hw" lemma="udmad">udmad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1212">
+<w type="hw" lemma="aidemm">udim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1213">
+<w type="hw" lemma="NULL">ur</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1214">
+<w type="hw" lemma="uch 2">uch</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1215">
+<w type="hw" lemma="uball">uball</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1216">
+<w type="hw" lemma="uim 1">uim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1217">
+<phr type="hw" lemma="uinche 2">uince n-eatha</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1218">
+<phr type="hw" lemma="ucht">ucht n-osnae</phr> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1219">
+<w type="hw" lemma="úasal">uasal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1220">
+<w type="hw" lemma="úa">ua</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1221">
+<w type="hw" lemma="úath 3">uath</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1222">
+<w type="hw" lemma="úaithne 1">uaitne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1223">
+<w type="hw" lemma="úall 1">uall</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1224">
+<w type="hw" lemma="úar 2">uair</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1225">
+<w type="hw" lemma="uilen">uillend</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1226">
+<w type="hw" lemma="uth">uth</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1227">
+<w type="hw" lemma="ulcha">ulcai</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1228">
+<w type="hw" lemma="ailad">ulad</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1229">
+<w type="hw" lemma="úsca">usca</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1230">
+<w type="hw" lemma="NULL">urgbail</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1231">
+<w type="hw" lemma="únach">unach</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1232">
+<w type="hw" lemma="airnigde">urnaigti</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1233">
+<w type="hw" lemma="úarán">uaran</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1234">
+<w type="hw" lemma="airla">urla</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1235">
+<w type="hw" lemma="ungae">unga</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1236">
+<w type="hw" lemma="augtar">ugtar</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1237">
+<w type="hw" lemma="ustaing">ustoing</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1238">
+<w type="hw" lemma="uccu">ucca</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1239">
+<w type="hw" lemma="udbairt">udbairt</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1240">
+<w type="hw" lemma="umal">umal</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1241">
+<w type="hw" lemma="umae">uma</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1242">
+<w type="hw" lemma="umdaim">umdaim</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1243">
+<w type="hw" lemma="us(s)arb">ussarb</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+<p xml:id="H1a.1244">
+<w type="hw" lemma="uibne 1">uibne</w> <gap extent="rest of entry" reason="sampling"/>
+</p>
+</div>
+
+      </body>   
+   </text>
+</TEI>

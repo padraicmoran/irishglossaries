@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sanas Cormaic (Cormac's Glossary), version L</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1337 (H.3.18)</idno>
+                  <msName>Book of Leinster</msName>
+               </msIdentifier>
+            </msDesc>
+            <bibl>W. Stokes (ed.), Three Irish Glossaries (London, 1862 (repr. Felinfach, 2000)), pp. 44–45 </bibl>
+            <bibl>R. I. Best, M. A. O’Brien (eds.), Book of Leinster, IV (Dublin, 1965), pp. 780–1 </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div xml:id="L">
+            <p xml:id="L.1">
+               <supplied><w type="hw" lemma="tuirigin">Tuirigin</w></supplied> Fuirim gein toracta tairet aicned n-oll o Adam co n-imthet tre cach n-amsir n-adamrai co betha bráth. berid aicned enbetu di cech duil derb disin óen conie. cosin oenduine ndeden bías co brunni brátha. Aliter Turigein .i. toeraegeini .i. gein nerae .i. gein ṅgainethar .i. a da choiss reime. 7 a chend fó deóid. Dobeir dí a thurigeinsin do chosmailius breithe .i. canaid in brithem fásach fíraicnid 7 roscad filed da chossin inna breithe insin a cend fa deóid .i. in testimoin canone. Inde dicitur. Ni ní nech breth berair rád iar legund léir leraichther nad fri canóin cáid cumtastar. nad fri apstal n-uasal n-ascaider. nad fri Spirut Náem nertar conid cád cach rét co canone comḟí. 
+            </p>
+            <p xml:id="L.2">
+               <w type="hw" lemma="teist">Teist</w> .i. a nomine testis. 
+            </p>
+            <p xml:id="L.3">
+               <w type="hw" lemma="turad 1">Taurad</w> .i. taur. cech tírim. 7 suth 7 sín. taurṡuth .i. sín tírim. 
+            </p>
+            <p xml:id="L.4">
+               <w type="hw" lemma="torc 2">Torc</w> .i. nomen do chridiu. ut Etan ingen Dian Cécht dixit. Ní fó indam dom mo thuircc .i. mo chridi im chliab co fil for crith. 
+            </p>
+            <p xml:id="L.5">
+               <w type="hw" lemma="trefhocal">Trefoclae</w> .i. tri foccuil bite indi .i. da foccul di molud do brith for culu iiid imderggtha. dofarci an tress foccul .i. foccul ind imdergtha 7 aire.
+            </p>
+            <p xml:id="L.6">
+               <w type="hw" lemma="turtugud 2">Taurthait</w> .i. taurrachdath .i. arosc reire .i. foceirrdi aurchur n-úait do ermaisin nach rét. Tocuirethar opund a n-anmannae ara chend 7 gonti. nó dentai no marbthai i rrec dii tairriuchtsin iarum asrubrad taurthat. 
+            </p>
+            <p xml:id="L.7">
+               <w type="hw" lemma="tiugradus">Tigrathas</w> .i. tiugaurradass .i. tigba cach ndedenach. is he dí is tigradas as tiugaurrad intí scaras frisin mmún fo deóid.
+            </p>
+            <p xml:id="L.8">
+               <w type="hw" lemma="tuigen">Tugen</w> quasi togen .i. a toga. Aliter. Tugen .i. tuge én. ar is de chrocnib én find 7 ildathach dognither in tugen filed coa <cb n="p. 179b"/> criss de braigtib cailech lochend. 7 da currcib coa cend suas. coa bragit. 7 rl
+            </p>
+            <p xml:id="L.9">
+               <w type="hw" lemma="tap 2">Tap</w> .i. pound .i. bidg inde est ni beir tap tigradas is aitte dichíallathar tassec opunn.
+            </p>
+            <p xml:id="L.10">
+               <w type="hw" lemma="Tamlachta(e)">Tamlachta</w> .i. támslecta .i. tám ro selaig duíni sin maginsin .i. in duineba mór. Totegtís na tuatha i mmuige móra. co mbítis i n-oenmagin béus ria n-ec .i. fo bíth a n-adnacuil isna muigibsin. oinafib nad beired in duineba. Ar mad cách ar núair bed marb ina magin fessin. ni bértais dia cellaib. ar ni chumgitís int uaithed no bíd i mbethaid a tarrud. inde Tamlachta nuncupatur.
+            </p>
+            <p xml:id="L.11">
+               <w type="hw" lemma="tendál">Tendál</w> .i. tene dál .i. dál co tend .i. cosin tenid i nn-ataither in tendál.
+            </p>
+            <p xml:id="L.12">
+               <w type="hw" lemma="us(s)arb">Ussarb</w> .i. bás. inde dicitur isind Amrath Chon Ruí ríg ro det ro ussarb nUltaib .i. ro det do Ultaib a bás.
+            </p>
+            <p xml:id="L.13">
+               <w type="hw" lemma="udmad">Udmad</w> .i. ud 7 damnad .i. crann ar lías .i. gobenn gaibthir forsin cethrae co ndamnaiter a n-úde i cumung. 
+            </p>
+            <p xml:id="L.14">
+               <w type="hw" lemma="aidemm">Udim</w> .i. nomen dond roi tarsa tét a crand bís darsin cléith ocon udmad.
+            </p>
+            <p xml:id="L.15">
+               <w type="hw" lemma="úir">Úr</w>. tréide fordingair. úr chetmus .i. talam 7 úr cech nuae. amal asmberar immb úr. Úr dano cech n-olc. inde dicitur isna Brethaib Nemed lán do síathach cach n-úr .i. cech n-olc 
+            </p>
+            <p xml:id="L.16">
+               <w type="hw" lemma="uch 2">Uch</w>. ab eo quod est ucha .i. clungat. 
+            </p>
+            <p xml:id="L.17">
+               <w type="hw" lemma="uball">Ubull</w> quasi abull Aball im o burgg Etale dianid ainm Abellum .i. is ass tucad síl na n-aball prius.
+            </p>
+            <p xml:id="L.18">
+               <w type="hw" lemma="uim 1">Uimm</w> .i. uma. 
+            </p>
+            <p xml:id="L.19">
+               <phr type="hw" lemma="uinche 2">Uinci etha</phr> .i. uaitni etha. 
+            </p>
+            <p xml:id="L.20">
+               <phr type="hw" lemma="ucht">Ucht osnae</phr> .i. hucht osmenta .i. smuainiud smuaines .i. scrútan scrútas in fili a n-airchetul. in baile dí i scrutan is do is ainm ucht osnae. Finit 
+            </p>
+         </div>
+      
+      </body>   
+   </text>
+</TEI>

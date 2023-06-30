@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O'Mulconry's Glossary, version OM2</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised after collation against manuscript images and original: 25 Apr 2017</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1317 (H.2.15b)</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>W. Stokes (ed.), ‘O’Mulconry’s Glossary’, Archiv für celtische Lexicographie, 1 (1900), pp. 232–324 </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+<div xml:id="OM2">
+<p xml:id="OM2.1">
+<w type="hw" lemma="danae">Dana</w> <w>ebraice</w> <w>iud<ex>ic</ex>ium</w> <w>ar</w> <w>forbair</w> <w>comlonn</w> <w>go</w> <w>ruga</w> <w>dia</w> <w>breth</w> <w>fair</w>.
+</p>
+<p xml:id="OM2.2">
+<w type="hw" lemma="debroth">Debreth</w> .i. <w>loquela</w>, <w>de</w> <w>breth</w> <w>didiu</w> .i. <w>dia</w> <w>labhra</w>.
+</p>
+<p xml:id="OM2.3">
+<w type="hw" lemma="dech">Deach</w> .i. <w>decheos</w> .i. <w>iustus</w>.
+</p>
+<p xml:id="OM2.4">
+<w type="hw" lemma="delb 1">Dealbh</w> .i. a <w>dela</w> .i. o <w>ḟighe</w>.
+</p>
+<p xml:id="OM2.5-6">
+<w type="hw" lemma="díbech">Dibeach</w> <w>grece</w> <w>aisiodhach</w> <w>sainte</w>. <w>Diba</w> .i. <w>sitis</w>. <w>no</w> <w>ní</w> <w>bech</w> <w>quia</w> <w>apes</w> <w>in</w> commun<del>e</del>i <w>viunt</w>.
+</p>
+<p xml:id="OM2.7">
+<w type="hw" lemma="dígas">Diocas</w> .i. <w>dicos</w>.
+</p>
+<p xml:id="OM2.8">
+<w type="hw" lemma="dulbair">Dalbair</w> .i. <w>gan</w> <w>labhra</w>.
+</p>
+<p xml:id="OM2.9">
+<w type="hw" lemma="dígres">Diograis</w> .i. <w>s<ex>i</ex>n<ex>e</ex></w> <w>greasa</w>.
+</p>
+<p xml:id="OM2.10">
+<w type="hw" lemma="dliged">Dligeth</w> .i. a <w>legitimo</w>.
+</p>
+<p xml:id="OM2.11">
+<w type="hw" lemma="dírím">Dirim</w> .i. reimtire <w>no</w> <w>diairim</w>.
+</p>
+<p xml:id="OM2.12">
+<w type="hw" lemma="díaisc">Diaisg</w> .i. <w>gan</w> <w>aisg</w>.
+</p>
+<p xml:id="OM2.13">
+<w type="hw" lemma="doich">Doigh</w> .i. <w>docha</w> .i. <w>puto</w>.
+</p>
+<p xml:id="OM2.14">
+<w type="hw" lemma="dolb">Dolbh</w> a <w>dolo</w>.
+</p>
+<p xml:id="OM2.15">
+<w type="hw" lemma="don 1">Daon ⁊ <w>do</w> duine</w> .i. o <w>dun</w> .i. <w>talamh</w> <w>amhail</w> <w>adertur</w>. <w>Gort</w> <w>for</w> <w>dun</w> .i. <w>for</w> <w>talamh</w>.
+</p>
+<p xml:id="OM2.16">
+<w type="hw" lemma="dún">Dun</w> .i. <w>dunamnis</w> <w>grece</w> <w>uires</w>.
+</p>
+<p xml:id="OM2.17">
+<w type="hw" lemma="domanchess">Domainces</w> .i. <w>deichmel</w> <w>hic</w>. <w>Damh</w> .i. <w>mainches</w> <w>bo</w>.
+</p>
+<p xml:id="OM2.18">
+<w type="hw" lemma="dúis">Duis</w> .i. <w>dusma</w> <w>grece</w> <w>mirabilis</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.19">
+<w type="hw" lemma="dúas 1">Duas</w> .i. <w>dos</w> <w>grece</w> <w>tinnsgra</w> .i. <w>tinne</w> <w>airgid</w> ⁊ <w>easgra</w>.
+</p>
+<p xml:id="OM2.20">
+<w type="hw" lemma="dúil 1">Duile</w> <w>duleo</w> .i. <w>seruio</w>.
+</p>
+<p xml:id="OM2.21">
+<w type="hw" lemma="éices">Eces</w> <w>ebraice</w> <w>ecesia</w> <w>grece</w> <w>preces</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.22">
+<w type="hw" lemma="éc">Ecc</w> <w>ab</w> <w>ecclipsi</w> .i. a defectione
+</p>
+<p xml:id="OM2.23">
+<w type="hw" lemma="écndach">Egnach</w> .i. <w>annach</w> .i. <w>non</w> <w>bonum</w>.
+</p>
+<p xml:id="OM2.24">
+<w type="hw" lemma="éicen">Eccen</w> <w>cion</w> <w>éga</w>.
+</p>
+<p xml:id="OM2.25">
+<w type="hw" lemma="écht III">Echt</w> <w>ab</w> <w>actu</w>.
+</p>
+<p xml:id="OM2.26">
+<w type="hw" lemma="échtach 1">Echtach</w> <w>grece</w> <w>auis</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.27">
+<w type="hw" lemma="éigem">Eighium</w> .i. <w>ab</w> <w>ega</w> .i. <w>gabar</w> <w>ar</w> <w>eígmidanter</w> <w>bither</w> <w>da</w> <w>marbh–</w>. <w>g<ex>ur</ex>ob</w> <w>de</w> <w>sin</w> <w>d<ex>er</ex>ar</w> <w>eigemh</w> <w>na</w> <w>reara</w> <w>labra</w>.
+</p>
+<p xml:id="OM2.28">
+<w type="hw" lemma="ela 1">Eala</w> <w>quasi</w> <w>olo</w> .i. <w>geal</w> <w>uile</w> í.
+</p>
+<p xml:id="OM2.29">
+<w type="hw" lemma="Elg">Elc</w> <w>ebraice</w> .i. <w>posessio</w> <w>unde</w> <w>egon</w> .i. <w>guin</w> <w>de</w> a <w>trebh</w>.
+</p>
+<p xml:id="OM2.30">
+<w type="hw" lemma="elit">Eilit</w> <w>grece</w> <w>elifia</w> .i. <w>cerna</w>.
+</p>
+<p xml:id="OM2.31">
+<w type="hw" lemma="ennach 1">Ennach</w> .i. <w>innocens</w>.
+</p>
+<p xml:id="OM2.32">
+<w type="hw" lemma="ena 1">Ena</w> .i. <w>leastar</w> <w>fiona</w>. <w>Eno</w> <w>grece</w> <w>uinum</w> <w>latine</w>. <w>Enach</w> <w>nighe</w> ían
+</p>
+<p xml:id="OM2.34">
+<w type="hw" lemma="epert">Epert</w> <w>epe</w> <w>grece</w> <w>dic</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.35">
+<w type="hw" lemma="ér 1">Errach</w> .i. <w>reid</w> <w>trenerr</w> .i. <w>laidher</w>. <w>Eros</w> <w>treinfer</w> <w>quasi</w> <w>eras</w> <w>cleon</w> .i. <w>clu</w> <w>na</w> <w>ffer</w> <w>nertmar</w>.
+</p>
+<p xml:id="OM2.37">
+<w type="hw" lemma="Érainn">Erainn</w> .i. <w>fir</w> <w>Er<ex>ainn</ex></w> .i. <w>dairind</w> .i. <w>fine</w> <w>daire</w> <w>doimthigh</w> <w>maic</w> <w>luigaid</w> <w>maic</w> <w>iotha</w> <w>na</w> <w>tuata</w> <w>erainn</w> <w>sin</w>. <w>ba</w> <w>diobh</w> <w>battar</w> <w>riogha</w> <cb n="p. 41b"/> <w>riogha</w> <w>muman</w> <w>re</w> <w>n-eog<ex>an</ex><ex>acht</ex></w>.
+</p>
+<p xml:id="OM2.38">
+<w type="hw" lemma="eisce">Escea</w> .i. <w>botha</w> <w>fri</w> araeis
+</p>
+<p xml:id="OM2.39">
+<w type="hw" lemma="eis 1 3">Es</w> .i. <w>intech</w> ⁊ <w>guidhe</w> ⁊ <w>sliacht</w> ⁊ cuimrech
+</p>
+<p xml:id="OM2.40">
+<w type="hw" lemma="étan">Edan</w> <w>ebraice</w> <w>frons</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.41">
+<w type="hw" lemma="éit">Et</w> <w>ebraice</w> <w>cet</w> <w>grece</w> <w>stelus</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.42-3">
+<w type="hw" lemma="étrad">Edradh</w> .i. <w>riad</w> <w>n-ed<ex>er</ex>e</w>. <w>Etera</w> <w>grece</w> <w>meritrix</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.44-5">
+<w type="hw" lemma="étig">Edigh</w> .i. <w>nenitide</w> .i. <w>ní</w> <w>cruth</w>. <w>Edach</w> a <w>toga</w> <w>quia</w> <w>tegit</w>.
+</p>
+<p xml:id="OM2.46">
+<w type="hw" lemma="etur *">Etur</w> .i. <w>itur</w> .i. <w>tiagar</w> <w>in</w> <w>&aolig;neathar</w> <w>for</w> <w>cois</w> <w>n-easgra</w>.
+</p>
+<p xml:id="OM2.47">
+<w type="hw" lemma="etargaire">Eadargaire</w> .i. <w>eattur</w> <w>urgaire</w>.
+</p>
+<p xml:id="OM2.48">
+<w type="hw" lemma="et(a)im">Eattamm</w> .i. <w>eit</w> <w>tuitim</w> <w>onní</w> <w>taramitet</w> .i. <w>geall</w> <w>do</w> <w>tuit</w> <w>ar</w> <w>ed</w> <w>do</w> <w>beth</w> <w>idit</w>.
+</p>
+<p xml:id="OM2.49">
+<w type="hw" lemma="etag">Ed</w> <w>didiu</w> <w>ettach</w> ⁊ <w>iat</w> .i. <w>anmann</w> <w>feathal</w> <w>sin</w> <w>la</w> <w>genite</w> <w>unde</w> <w>dicitur</w> <w>do</w> <w>tangattur</w> <w>tarsna</w> <w>iathasu</w> <w>ut</w> <w>dicitur</w> <w>Fo</w> <w>ainm</w> <w>do</w> <w>maith</w> <w>as</w> <w>miad</w>. <w>Fí</w> <w>ainm</w> <w>dulc</w> <w>is</w> <w>de</w> <w>ittriath</w>. <w>an</w> <w>fior</w> <w>isni</w> <w>forus</w> <w>fann</w>. &aolig;th <w>mionn</w>. <w>is</w> <w>iath</w> <w>forann</w>.
+</p>
+<p xml:id="OM2.50">
+<w type="hw" lemma="fáebar">F&aolig;bhar</w> a <w>fabro</w> .i. <w>on</w> <w>gabainn</w>.
+</p>
+<p xml:id="OM2.51">
+<w type="hw" lemma="fae 1">Fa</w> <w>ebraice</w> <w>fau</w> <w>grece</w> <w>n<ex>ihil</ex></w> <w>uel</w> <w>subito</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.52">
+<w type="hw" lemma="fál 1">Fal</w> <w>ebraice</w> .i. <w>rui</w> <w>no</w> <w>fal</w> a <w>uallo</w>.
+</p>
+<p xml:id="OM2.53">
+<w type="hw" lemma="fáilid">Faillidh</w> <w>ebraice</w> .i. <w>falet</w> .i. <w>saluus</w> .i. f&aolig;ilidh <w>grece</w> <w>slan</w>.
+</p>
+<p xml:id="OM2.54">
+<w type="hw" lemma="fann 2">Fann</w> <w>ebraice</w> <w>infirmitas</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.55">
+<w type="hw" lemma="fan">Fan</w> .i. <w>faran</w> .i. <w>uallis</w>.
+</p>
+<p xml:id="OM2.56">
+<w type="hw" lemma="fannall">Fannall</w> .i. <w>san</w> etęc <w>fanmæl</w> <w>infirmæ</w> <w>sunt</w> <w>ale</w> eius
+</p>
+<p xml:id="OM2.57">
+<w type="hw" lemma="fáir">for madain</w> <w>no</w> <w>fesgur</w> <w>unde</w> <w>formitare</w> <w>dicitur</w> <w>aurora</w> <w>aris</w> <w>conntab<ex>air</ex>t</w> <w>an</w> <w>madain</w> <w>no</w> <w>an</w> <w>fesgur</w> <w>unde</w> <w>tignar</w> <w>quasi</w> <w>diei</w> far
+</p>
+<p xml:id="OM2.58">
+<w type="hw" lemma="fairrge">Fairge</w> a <w>feruore</w> .i. o <w>bruth</w>.
+</p>
+<p xml:id="OM2.59">
+<w type="hw" lemma="fraig 1">Fraig</w> <add>.i.</add> a <w>fraxino</w> .i. <w>fidh</w> <w>righin</w>.
+</p>
+<p xml:id="OM2.60">
+<w type="hw" lemma="fás 1">Fas</w> .i. <w>fasug</w> <add>grece</add> .i. <w>locus</w> <w>unde</w> <w>faccillus</w> .i. <w>locus</w> <w>uacuus</w> inane
+</p>
+<p xml:id="OM2.61">
+<w type="hw" lemma="fásach 1">Fasach</w> <w>ebraice</w> <w>trascessio</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.62">
+<w type="hw" lemma="fáscud">Fascudh</w> a <w>fasce</w>.
+</p>
+<p xml:id="OM2.63">
+<w type="hw" lemma="feb">Feb</w> a <w>foebo</w> .i. <w>ar</w> <w>domuined</w> <w>in</w> <w>ginthlide</w> <w>mad</w> <w>illuaib</w> <w>na</w> <w>rind</w> <w>n-airegda</w> <w>gened</w> <w>fodruair</w> <w>fed</w> <w>feib</w> doib
+</p>
+<p xml:id="OM2.64">
+<w type="hw" lemma="fíada 1">Fiada</w> .i. <w>dia</w> <w>foadai</w> <w>enim</w> <w>apud</w> <w>eb<ex>reos</ex></w> .i. <w>redimptio</w> <w>d<ex>omi</ex>ni</w>.
+</p>
+<p xml:id="OM2.65">
+<w type="hw" lemma="fíadnaise">Fiadhnaisi</w> .i. <w>fia<ex>est</ex></w> <w>ronas</w> <w>an</w> cor
+</p>
+<p xml:id="OM2.66">
+<w type="hw" lemma="fiach">Fiach</w> <w>ar</w> <w>uel</w> <w>rtur</w>. <w>Feichemh</w> <w>quia</w> <w>uechit</w>.
+</p>
+<p xml:id="OM2.67">
+<w type="hw" lemma="féig">Fegh</w> <w>quia</w> <w>figit</w> <w>unde</w> <w>c<ex>re</ex>das</w>.
+</p>
+<p xml:id="OM2.68">
+<w type="hw" lemma="féice">Fece</w> <w>quasi</w> <w>fege</w> <w>quia</w> <w>p<ex>rae</ex>stat</w> <w>lucem</w> <w>domui</w> <cb n="p. 42a"/>
+</p>
+<p xml:id="OM2.69">
+<w type="hw" lemma="fecht">Feacht</w> a <w>ueho</w>.
+</p>
+<p xml:id="OM2.70">
+<w type="hw" lemma="fec">Fecc</w> <w>quia</w> <w>figit</w> <w>terram</w>.
+</p>
+<p xml:id="OM2.71">
+<w type="hw" lemma="fíacail">Fiacail</w> <w>bel</w> <w>tuitme</w> .i. <w>fi</w> a <w>figo</w>. <w>cil</w> <w>enim</w> <w>grece</w> <w>labia</w> <w>dicitur</w>.
+</p>
+<p xml:id="OM2.72">
+<w type="hw" lemma="féle">Fele</w> .i. a <w>uelo</w>.
+</p>
+<p xml:id="OM2.73">
+<w type="hw" lemma="felmas">Felbus</w> .i. <w>fis</w> <w>no</w> <w>fes</w>. <w>serb</w> .i. a <w>fel</w> <w>oni</w> <w>as</w> <w>fellis</w>.
+</p>
+<p xml:id="OM2.74">
+<w type="hw" lemma="fell 2">Fealb</w> .i. <w>equs</w> <w>unde</w> <w>fella</w> <w>dicitur</w> .i. <w>du</w> i <w>rabattar</w> <w>equi</w>.
+</p>
+<p xml:id="OM2.75">
+<w type="hw" lemma="felmac">Felm<ex>a</ex>c</w> a <w>filo</w> .i. <w>seircc</w> <w>fhis</w> .i. <w>mac</w> <w>fogloma</w>.
+</p>
+<p xml:id="OM2.76">
+<w type="hw" lemma="fled">Fed</w> <w>quasi</w> a <w>plenitudine</w>.
+</p>
+<p xml:id="OM2.77">
+<w type="hw" lemma="Femen">Feadm</w> .i. <w>foeman</w> <w>grece</w> <w>campus</w>. <w>no</w> <w>as</w> <w>ann</w> <w>battar</w> <w>da</w> <w>rí</w> <w>na</w> <w>damraite</w>. <w>fe</w> ⁊ <w>m<ex>a</ex>c</w> <w>ar</w> <w>feib</w> <w>agnelta</w>.
+</p>
+<p xml:id="OM2.78">
+<w type="hw" lemma="femm">Foem</w> a <w>fimbria</w> o <w>luibiniu</w> <w>maris</w> <w>dicitur</w> femm .i. <w>femer</w> <w>in</w> <w>fer</w>
+</p>
+<p xml:id="OM2.79">
+<w type="hw" lemma="fém(m)ed">Fem</w> <w>in</w> <w>tan</w> <w>meth</w>.
+</p>
+<p xml:id="OM2.80">
+<w type="hw" lemma="Féine">Foeni</w> ł <w>fein</w> a <w>fenio</w> <w>faracht</w>.
+</p>
+<p xml:id="OM2.81">
+<w type="hw" lemma="fér">Fer</w> a <w>uere</w>.
+</p>
+<p xml:id="OM2.82">
+<w type="hw" lemma="fert 1">Ferta</w> .i. <w>adnacul</w> .i. o <w>feraib</w> .i. <w>c<ex>et</ex></w> <w>fer</w> <w>aga</w> <w>dhenam</w>
+</p>
+<p xml:id="OM2.83">
+<w type="hw" lemma="fertas 1">Fertas</w> <w>mar</w> <w>ar</w> <w>ibi</w> <w>ad</w> <w>fisa</w> .i. <w>tuili</w> <w>adfert</w>. <w>Fertas</w> <w>carbuid</w> <w>quia</w> <w>uertitur</w> <w>rota</w>. <w>Fertas</w> <w>snioma</w> <w>quia</w> <w>uertitur</w> <w>digitis</w>.
+</p>
+<p xml:id="OM2.84">
+<w type="hw" lemma="fers">Fers</w> a <w>uersu</w>.
+</p>
+<p xml:id="OM2.85">
+<w type="hw" lemma="feis 2">Fesa</w> a <w>festis</w> <w>idulorum</w> <w>t<ex>ri</ex></w> <w>buadha</w> l&aolig;chachta <w>fesa</w>. <w>tana</w> ⁊ <w>toghla</w>.
+</p>
+<p xml:id="OM2.86">
+<w type="hw" lemma="fet">Fet</w> .i. <w>quia</w> <w>uivet</w> .i. <w>tochuir<ex>ethar</ex></w>.
+</p>
+<p xml:id="OM2.87">
+<w type="hw" lemma="fíc">Fic</w> <w>onni</w> <w>as</w> <w>ficus</w> .i. <w>fidu</w> ł <w>uicium</w> <w>corp<ex>o</ex>ris</w>.
+</p>
+<p xml:id="OM2.88">
+<w type="hw" lemma="fid">Fidh</w> <w>quia</w> <w>is</w> <w>fidus</w>.
+</p>
+<p xml:id="OM2.89">
+<w type="hw" lemma="fíad 3">Fiadh</w> .i. o <w>fidh</w>
+</p>
+<p xml:id="OM2.90">
+<w type="hw" lemma="fí">Fu</w> <w>onni</w> <w>as</w> <w>uir<add>ti</add></w> <w>unde</w> <w>fiodhba</w> .i. <w>fidhnaithsi</w> ⁊ <w>fiodhlanna</w> ⁊ 
+</p>
+<p xml:id="OM2.90a">
+<w type="hw" lemma="figel(l)">feigheall</w> .i. <w>cial</w> <w>inech</w> <w>no</w> <w>fithech</w> .i. a <w>uigilia</w> ł <w>feigell</w> .i. <w>eill</w> <w>fheich</w>.
+</p>
+<p xml:id="OM2.91">
+<w type="hw" lemma="finne 1">Finne</w> a <w>uerbo</w> <w>grece</w> <w>fimasdo</w> .i. <w>do</w> <w>chím</w> <w>unde</w> <w>dicitur</w> <w>fionta</w> <w>lat</w> .i <w>dese</w> <w>locus</w>. <w>finde</w> <w>didiu</w> .i. <w>solus</w> <w>ar</w> <w>imcaisin</w>.
+</p>
+<p xml:id="OM2.92">
+<w type="hw" lemma="finna">Fionnan</w> .i. a fæno <w>amuil</w> <w>fer</w> <w>tre</w> <w>thalamh</w>. <w>Finden</w> .i. <w>findin</w> .i. <w>air</w> <w>is</w> <w>din</w> <w>don</w> l&aolig;ch.
+</p>
+<p xml:id="OM2.93">
+<w type="hw" lemma="finnche">Finnche</w> .i. a <w>feniculum</w> .i. <w>rota</w> <w>nigra</w> <w>gon<ex>ethar</ex></w> <w>de</w> <w>aderar</w> <w>duibit<ex>er</ex></w> <w>finche</w>.
+</p>
+<p xml:id="OM2.94">
+<w type="hw" lemma="Fintech">Fintech</w> <w>m<ex>ac</ex></w> <w>augin</w> <w>aur<ex>gniad</ex></w> <w>m<ex>ai</ex>c</w> <w>sedna</w> <w>siothb<ex>ac</ex></w> <w>unde</w> <w>dicitur</w> <w>finntech</w>
+</p>
+<p xml:id="OM2.95">
+<w type="hw" lemma="frigec">Fritec</w> a <w>frico</w> <w>unde</w> <w>dicitur</w> <w>frice</w> <w>fris</w> .i. <w>meil</w> <w>fris</w>.
+</p>
+<p xml:id="OM2.96">
+<w type="hw" lemma="fís">Fios</w> a <w>fisica</w>.
+</p>
+<p xml:id="OM2.97">
+<w type="hw" lemma="pit 1">Fit</w> a <w>uita</w>.
+</p>
+<p xml:id="OM2.98">
+<w type="hw" lemma="fó 1">Fo</w> .i. maith. <w>Fos</w> <w>grece</w> .i. <w>solus</w> <w>gaffuil</w> <w>ni</w> <w>as</w> <w>ffer</w> <w>ma</w> <w>solus</w>.
+</p>
+<p xml:id="OM2.100">
+<w type="hw" lemma="fob">Fob</w> <w>no</w> <w>fof</w> <w>ebraice</w> <w>fobis</w> <w>grece</w> <w>eagla</w> i <w>laidin</w> <w>unde</w> <w>dicitur</w> <w>faftudh</w> .i. <w>omnad</w>.
+</p>
+<p xml:id="OM2.101">
+<w type="hw" lemma="fuich">Fuice</w> a <w>fuca</w> .i. <w>quia</w> <w>amnai</w> <w>ar</w> <w>m<ex>i</ex>nce</w> a <w>imdergtha</w>.
+</p>
+<p xml:id="OM2.102">
+<w type="hw" lemma="foid *">Foid</w> <w>grece</w> <w>mitte</w> <w>latine</w>.
+</p>
+<p xml:id="OM2.103">
+<w type="hw" lemma="fol">Fol</w> <w>ebraice</w> <w>ful</w> .i. <w>ruina</w> <w>latine</w>. <w>air</w> <w>is</w> .i. <w>ann</w> <w>bis</w> <w>fol</w> <w>ann</w> <w>ruinam</w> mortis<cb n="p. 42b"/>
+</p>
+<p xml:id="OM2.104">
+<w type="hw" lemma="fochrus">Fochrus</w> .i. <w>fo</w> chrios
+</p>
+<p xml:id="OM2.105">
+<w type="hw" lemma="fogamar">Fogmur</w> .i. <w>ria</w> <w>fugaim</w> <w>gann</w> .i. a <w>chein</w> <w>chemess</w> .i. breuis
+</p>
+<p xml:id="OM2.106">
+<w type="hw" lemma="fulach">Folach</w> <w>quasi</w> <w>fulus</w> i <w>custodia</w>.
+</p>
+<p xml:id="OM2.107">
+<w type="hw" lemma="folacht *">Folacht</w> .i. <w>fecht</w> <w>folaigh</w>.
+</p>
+<p xml:id="OM2.108">
+<w type="hw" lemma="folam 2">Folamh</w> .i. <w>folaim</w>. <w>fola</w> .i. a <w>uola</w> .i. o <w>glaic</w> .i. <w>ar</w> <w>do</w> <w>beir</w> <w>ilaimh</w> a <w>chele</w> <w>logh</w> a <w>tire</w>.
+</p>
+<p xml:id="OM2.109">
+<w type="hw" lemma="fomóir">Fomoir</w> .i. <w>fo</w> <w>mhuir</w> <w>ut</w> <w>alii</w> <w>putant</w>, ł a <w>fomo</w> <w>flo–</w> <w>ambiae</w> <w>fli–</w> <w>acain</w> a <w>quo</w> <w>no<ex>min</ex>ati</w> <w>s<ex>un</ex>t</w>.
+</p>
+<p xml:id="OM2.110">
+<w type="hw" lemma="fonn 1">Fond</w> a <w>fundo</w> .i. <w>domain</w>.
+</p>
+<p xml:id="OM2.111">
+<w type="hw" lemma="forbba(e)">Forba</w> .i. <w>fo</w> <w>bu</w> <w>tasgartha</w>.
+</p>
+<p xml:id="OM2.112">
+<w type="hw" lemma="forbart">Forbairt</w> .i. <w>for</w> <w>brith</w> .i. <w>in</w> <w>foirbir</w> <w>iarna</w> <w>breith</w>.
+</p>
+<p xml:id="OM2.113">
+<w type="hw" lemma="foirbthe 1">Foirbthe</w> .i. <w>forbi</w> cach
+</p>
+<p xml:id="OM2.114">
+<w type="hw" lemma="forcetal">Foircetal</w> .i. <w>cedal</w> <w>Fair</w> .i. <w>findi</w> <w>fri</w> <w>gnius</w>.
+</p>
+<p xml:id="OM2.115">
+<w type="hw" lemma="forrach 2">Forach</w> .i. <w>agrum</w>.
+</p>
+<p xml:id="OM2.116">
+<w type="hw" lemma="forus">Forus</w> <w>ebraice</w> <w>grece</w> <w>forismos</w> <w>sermo</w> <w>bruis</w> <w>latine</w>. <w>unde</w> <w>dicitur</w> <w>adcomcad</w> <w>beim</w> <w>foruis</w> <w>fair</w>.
+</p>
+<p xml:id="OM2.117">
+<w type="hw" lemma="forsaid">Farsaid</w> a <w>uetustate</w> ł <w>grece</w> <w>casus</w>.
+</p>
+<p xml:id="OM2.118">
+<w type="hw" lemma="forgab 1">Forgab</w> .i. <w>ga</w> <w>fair</w>.
+</p>
+<p xml:id="OM2.119">
+<w type="hw" lemma="forbach">Forbach</w> .i. <w>forb</w> <w>fiach</w>.
+</p>
+<p xml:id="OM2.120">
+<w type="hw" lemma="foirg">Foirg sioch</w> .i. <w><add>for</add>guit<ex>ech</ex></w>
+</p>
+<p xml:id="OM2.121">
+<w type="hw" lemma="forbartach">Forbartach</w> .i. <w>quia</w> <w>postulat</w> <w>s<ex>upe</ex>r</w> <w>fluum</w> .i.
+</p>
+<p xml:id="OM2.122">
+<w type="hw" lemma="forgell">forgort</w> .i. <w>Fiacall</w> .i. <w>fri</w> ec
+</p>
+<p xml:id="OM2.123">
+<w type="hw" lemma="forg(g)u">Forcu</w> <del>a</del> .i. <w>forco</w> a <w>no<ex>min</ex>e</w> <w>grece</w> .i. <w>culm<ex>en</ex></w> .i. <w>cleithe</w>.
+</p>
+<p xml:id="OM2.124">
+<w type="hw" lemma="fossad">Fosuidh</w> .i. <w>fo</w> <w>suid</w> .i. <w>ann</w> <w>na</w> <w>ait</w>.
+</p>
+<p xml:id="OM2.125">
+<w type="hw" lemma="fuigell">Fuigell</w> .i. <w>iargeallud</w>.
+</p>
+<p xml:id="OM2.126">
+<w type="hw" lemma="fuidir 1">Fuidir</w> .i. <w>fo</w> <w>deirge</w> <del>D</del>dero <w>enim</w> <w>grece</w> <w>desero</w> <w>latine</w> .i. deirgim
+</p>
+<p xml:id="OM2.127">
+<w type="hw" lemma="fódia *">Foidie</w> .i. <w>fo</w> <w>dies</w> .i. <w>fo</w> laithe
+</p>
+<p xml:id="OM2.128">
+<w type="hw" lemma="fuil">Cuil</w> a fuluo
+</p>
+<p xml:id="OM2.128a">
+<w type="hw" lemma="fulus">Fulus</w> <w>ebraice</w> <w>fole</w> <w>grece</w> <w>t<ex>ri</ex>bus</w> <w>latine</w> .i. <w>ara</w> <w>lín</w>.
+</p>
+<p xml:id="OM2.129">
+<w type="hw" lemma="gabat *">Gabat</w> a <w>g<ex>ra</ex>bata</w> <w>grece</w> <w>uas</w> <w>latine</w>. ł <w>ar</w> <w>cauta</w> <w>e<ex>st</ex></w> .i. <w>cue</w>.
+</p>
+<p xml:id="OM2.130">
+<w type="hw" lemma="gábud">Gabuth</w> .i. <w>gabutne</w> .i. <w>gigantes</w> <w>grece</w> ł <w>gaboth</w> .i. <w>in</w> <w>gaib</w>.
+</p>
+<p xml:id="OM2.131">
+<w type="hw" lemma="gabor 1">Gabhar</w> a <w>capra</w> .i.
+</p>
+<p xml:id="OM2.132">
+<w type="hw" lemma="Gabruan">Gabron </w>a <w>quo</w> <w>Belat</w> <w>Gab<ex>ruain</ex></w> .i. <w>Gabrum</w> <w>m<ex>a</ex>c</w> <w>Ailb</w> <w>maic</w> <w>Augani</w> <w>Urgnaid</w> <w>maic</w> .S.S. <w>ut</w> <w>dixit</w> <w>m<ex>a</ex>c</w> <w>Ruaidh</w> .i. <w>Fion</w> <w>m<ex>a</ex>c</w> <w>Rosa</w> <w>pronepos</w> <w>eiusdem</w> <w>Silicus</w> .i. <w>iarmua</w> <w>Maicne</w> <w>Ailbh</w> <w>Airme</w> <w>Aichir</w> <w>buir</w> e <w>bruidne</w> <w>deirg</w> <w>din</w> <w>duabair</w> <w>dæl</w> <w>Gaubran</w> <w>grinne</w> <w>for</w> <w>findabair</w>.
+</p>
+<p xml:id="OM2.133">
+<w type="hw" lemma="gág">Gæ</w> <w>no</w> <w>ga</w> <w>caca</w> .i. <w>grece</w> <w>no<ex>mine</ex></w> <w>malum</w> ł <w>scisi</w>.
+</p>
+<p xml:id="OM2.134">
+<w type="hw" lemma="gait">Gath</w> <w>ebraice</w> <w>fortitudo</w> .i. <w>for</w> <w>nert</w> <w>quia</w> <w>per</w> <w>uim</w> <w>rapitur</w>.
+</p>
+<p xml:id="OM2.135">
+<w type="hw" lemma="gait">Gathæ</w> <w>grece</w> <w>tolle</w>
+</p>
+<p xml:id="OM2.136">
+<w type="hw" lemma="gáeth 2">G&aolig;th</w> .i. <w>catero</w> .i. <w>glanuim</w> <w>oir</w> <w>glain</w>
+</p>
+<p xml:id="OM2.137">
+<w type="hw" lemma="gafann">Gaffa</w>
+</p>
+</div>
+      
+      </body>   
+   </text>
+</TEI>

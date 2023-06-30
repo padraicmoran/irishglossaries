@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irsan</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1337 (H.3.18)</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>W. Stokes (ed.), ‘Irish Glosses’, Transactions of the Philological Society (1859), pp. 206–215</bibl>
+            <bibl>D. A. Binchy (ed.), Corpus Iuris Hibernici, 6 vols. (Dublin, 1978), II, 627.36–633.33</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<div xml:id="Irsan">
+<p xml:id="Irsan.1">
+<w type="hw" lemma="airsa">Irsan</w> arsin, ł grece ersonum .i. ostium, unde dicitur sirsan; s&aolig;rosluc, dirsan d&aolig;sluc<ex>ud</ex>.
+</p>
+<p xml:id="Irsan.2">
+<w type="hw" lemma="irchonis *">Irchonis</w> irchonte .i. ithe chortha .i. a coirth .i. a aithbiur.
+</p>
+<p xml:id="Irsan.3">
+<w type="hw" lemma="in(n)tech 2">Intech</w> .i. ni tech acht uia.
+</p>
+<p xml:id="Irsan.4">
+<w type="hw" lemma="ingor 1 b">Ingor</w> .i. ni gor
+</p>
+<p xml:id="Irsan.5">
+<w type="hw" lemma="imdae 1">Imdai</w>. idema ebraice, plenitudo latine
+</p>
+<p xml:id="Irsan.6">
+<w type="hw" lemma="inber 1">Inber</w> quasi infer .i. infretum; ł ind in bera.
+</p>
+<p xml:id="Irsan.7">
+<w type="hw" lemma="ingen 1">Ingen</w> ab unge
+</p>
+<p xml:id="Irsan.8">
+<w type="hw" lemma="idan">Idan</w> ab idonus.
+</p>
+<p xml:id="Irsan.9">
+<phr type="hw" lemma="idoth">Idad 7 idu 7 idtu</phr> ab idor, hoc est a liquore .i. fuinidechte dond idain, fuil dond idain, lind dondu.
+</p>
+<p xml:id="Irsan.10">
+<w type="hw" lemma="gart 1">Gart</w>. grade enim grece .i. gaisged.
+</p>
+<p xml:id="Irsan.11">
+<w type="hw" lemma="gel 1">Gelo</w> enim grece .i. ridieo, ar qui riet candorem dentium ostentit
+</p>
+<p xml:id="Irsan.12">
+<w type="hw" lemma="gell">Gell</w> 7 geill a cillo; unius manus interpretatur .i. lam óen .i. an gell gebes in lam as ic frisin fiach; lam autem quasi lab; laba enim grece capacitas latine; lam didiu acceptio .i. gabail cach r&aolig;da. 
+</p>
+<p xml:id="Irsan.13">
+<w type="hw" lemma="gelid">Geilit</w> id est cilit; cile enim grece labia .i. gelit didiu .i. belithidh
+</p>
+<p xml:id="Irsan.14">
+<w type="hw" lemma="gleo">Gleo</w> gle grece desentio latine
+</p>
+<p xml:id="Irsan.15">
+<w type="hw" lemma="glenn">Glenn</w> .i. gles. a glisco .i. forbrim, unde dicitur duine soglesach.
+</p>
+<p xml:id="Irsan.16">
+<w type="hw" lemma="gainithir">Geinar</w> genitus est; gene grece mulier latine, unde dicitur ingen .i. ni ben acht filia.
+</p>
+<p xml:id="Irsan.17">
+<w type="hw" lemma="genmnaide">Genmnaid</w> geno grece gene grece 7 monoy, id est uníus; genmnaide didiu ben &aolig;nfir, unde dicitur genas.
+</p>
+<p xml:id="Irsan.18">
+<phr type="hw" lemma="genit">Genit glinde</phr> .i. gen .i. mulier, glynoon; ben bid hi nglinn.
+</p>
+<p xml:id="Irsan.19">
+<w type="hw" lemma="gretiur">Gratur</w> id est a cratara .i. o taulcoma. <cb n="p. 80a"/>
+</p>
+<p xml:id="Irsan.20">
+<w type="hw" lemma="achan *">Achon</w> a nomine grece achos .i. tristis
+</p>
+<p xml:id="Irsan.21">
+<w type="hw" lemma="acc">Aco</w> .i. nego, unde ac.
+</p>
+<p xml:id="Irsan.22">
+<w type="hw" lemma="arsapothoearthes *">Arsapothoearthes</w> .i. a uirtuti, unde aries dicitur .i. uirtus
+</p>
+<p xml:id="Irsan.23">
+<w type="hw" lemma="aran *">Aran</w> a nomine aran ebraice .i. sublénís
+</p>
+<p xml:id="Irsan.24">
+<w type="hw" lemma="áirge b">Airge</w> grece indolis interpretatur .i. indile.
+</p>
+<p xml:id="Irsan.25">
+<w type="hw" lemma="áilgen">Algen</w> a graeco alexin .i. amabilis.
+</p>
+<p xml:id="Irsan.26">
+<w type="hw" lemma="arg 2 II">Arg</w> .i. l&aolig;ch, ab argis grece
+</p>
+<p xml:id="Irsan.27">
+<w type="hw" lemma="dlug">Dlug</w> .i. acobuir, ut colum .c., noebri grene glan, as c&aolig;ime cach dlug, atach namra dam, ar sluag ndemna ndub.
+</p>
+<p xml:id="Irsan.28">
+<w type="hw" lemma="dornasc">Daurnaisce</w> .i. aurlattu, ł greschæ, ł escas; unde dicitur, daurnaisce darlemain
+</p>
+<p xml:id="Irsan.29">
+<w type="hw" lemma="deistiu">Deistiu</w> .i. fuigell cach r&aolig;ta, ł iartaige clainde; ut dicitur, Ma deistenaib athur &aolig;ndan .i. mad ed ndi chlaind ann .i. ingen.
+</p>
+<p xml:id="Irsan.30">
+<w type="hw" lemma="delb 1">Delb</w> .i. a tela, o figi.
+</p>
+<p xml:id="Irsan.31">
+<w type="hw" lemma="Drobél">D<del>o</del>robel</w> ech dedaid inn sin, unde druim ndrobeil
+</p>
+<p xml:id="Irsan.32">
+<w type="hw" lemma="dímelte">Dimelta</w> .i. ni fiu a fomailt
+</p>
+<p xml:id="Irsan.33">
+<w type="hw" lemma="domanchess">Domanches</w> .i. dechenel dam hic .i. manches bo <cb n="p. 80b"/>
+</p>
+<p xml:id="Irsan.34">
+<w type="hw" lemma="both *">Both</w> dicitur a grece nomine bothus .i. angustia, 7 inde both
+</p>
+<p xml:id="Irsan.35">
+<phr type="hw" lemma="breth">Bret 7 breithem</phr> a nomine ebraico
+</p>
+<p xml:id="Irsan.36">
+<w type="hw" lemma="biad">Biad</w> d<ex>icitur</ex> a nomine grece bia .i. uita
+</p>
+<p xml:id="Irsan.37">
+<w type="hw" lemma="balc">Balc</w> ab ebraico bala .i. inueterata, ł b balach deuorans.
+</p>
+<p xml:id="Irsan.38">
+<w type="hw" lemma="búaile 3">Buaile</w> a nomine bolin .i. consilium.
+</p>
+<p xml:id="Irsan.39">
+<w type="hw" lemma="balamail">Balamuil</w> ab ebraico balam .i. uanus.
+</p>
+<p xml:id="Irsan.40">
+<w type="hw" lemma="bonn 1">Bonn</w> quasi fonn .i. a nomine fundamentum.
+</p>
+<p xml:id="Irsan.41">
+<w type="hw" lemma="bot 1">Bot</w> quasi put a putec; ł fot a uerbo fotuo; ł quasi pot grece .i. a uerbo poio .i. facit.
+</p>
+<p xml:id="Irsan.42">
+<w type="hw" lemma="both 2">Bot</w> quasi bet a nomini ebraico beth
+</p>
+<p xml:id="Irsan.43">
+<w type="hw" lemma="bél">Bel</w> a nomini ebraico bel .i. linga
+</p>
+<p xml:id="Irsan.44">
+<w type="hw" lemma="beith 3">Bete</w> a nomine ebraico beth .í. domus
+</p>
+<p xml:id="Irsan.45">
+<w type="hw" lemma="bairgen">Bairgen</w> a nomine bargos .i. saturitas. 
+</p>
+<p xml:id="Irsan.46">
+<w type="hw" lemma="brestaide">Bresdaide</w> a nomine bresitor .i. locatitas.
+</p>
+<p xml:id="Irsan.47">
+<w type="hw" lemma="bil 3 (cmpd)">Biltengach</w> a nomine broim a brubru a bruma .i. edatitas.
+</p>
+<p xml:id="Irsan.48">
+<phr type="hw" lemma="biniti">Bodra biniti</phr> .i. binoithe .i. othis auris; ł banaittec, ł banaidde <cb n="p. 80c"/>
+</p>
+<p xml:id="Irsan.49">
+<w type="hw" lemma="col">Col</w> dicitur a nomine .i. caligo.
+</p>
+<p xml:id="Irsan.50">
+<w type="hw" lemma="crínna">Crinda</w> dicitur a nomine grece crinimenon .i. iudiciale.
+</p>
+<p xml:id="Irsan.51">
+<w type="hw" lemma="clú 1">Clu</w> dicitur a nomine grece clio .i. fama.
+</p>
+<p xml:id="Irsan.52">
+<w type="hw" lemma="cléirech">Clerech</w> a nomine clericus .i. electus.
+</p>
+<p xml:id="Irsan.53">
+<w type="hw" lemma="ceó 1">Ceu</w> grece ceus .i. nubs, unde bit cé, quia incerta 7 mobilis est.
+</p>
+<p xml:id="Irsan.54">
+<w type="hw" lemma="cáid 1">Cadas</w> ab ebraico cades .i. sanctus.
+</p>
+<p xml:id="Irsan.55">
+<w type="hw" lemma="cúad">Cuad</w> a nomine caus .i. uacus.
+</p>
+<p xml:id="Irsan.56">
+<w type="hw" lemma="cilic">Cilic</w> a nomine cillín .i. mouére
+</p>
+<p xml:id="Irsan.57">
+<w type="hw" lemma="colpthae">Calpda</w> quasi kal-poda .i. bonus peis.
+</p>
+<p xml:id="Irsan.58">
+<w type="hw" lemma="connad">Connad</w> quasi cannud a uerbo candeo .i. cailieo.
+</p>
+<p xml:id="Irsan.59">
+<w type="hw" lemma="clas 2">Clas</w> a grece clasin .i. diuisio
+</p>
+<p xml:id="Irsan.60">
+<w type="hw" lemma="commaid">Comad</w> a uerbo comedo.
+</p>
+<p xml:id="Irsan.61">
+<w type="hw" lemma="cara *">Cara</w> a cura dicitur.
+</p>
+<p xml:id="Irsan.62">
+<w type="hw" lemma="clár">Clar</w> a nomine clarna .i. mensa.
+</p>
+<p xml:id="Irsan.63">
+<w type="hw" lemma="cainnt">Caint</w> .i. cantabatoi grece sentes latine unde dicitur, foruirmed caint meblai fair .i. conguin
+</p>
+<p xml:id="Irsan.64">
+<w type="hw" lemma="clumad">Clumad</w> .i. dochad, ut dicitur, boath cach clumatur cetharchattaib.
+</p>
+<p xml:id="Irsan.65">
+<w type="hw" lemma="cruimme">Cruma</w> grece imunditia latine, unde cruim.
+</p>
+<p xml:id="Irsan.66">
+<w type="hw" lemma="cal *">Cala</w> grece .i. uoco latine unde cailech.
+</p>
+<p xml:id="Irsan.67">
+<w type="hw" lemma="clam">Clam</w> .i. ocultus, unde dicitur ar dofeim claime corp.
+</p>
+<p xml:id="Irsan.68">
+<w type="hw" lemma="craíbechán">Craoibechan</w> .i. caro bechan .i. feoil min ł bec; ł caro dona bechanuib .i. ł dona lenmaib, quia est bechan bec ł lenum.
+</p>
+<p xml:id="Irsan.69">
+<w type="hw" lemma="cléirech">Clereco</w> latine a clero, cleros grece cors latine.
+</p>
+<p xml:id="Irsan.70">
+<w type="hw" lemma="cit 1">Citt</w> ebraice, ouis latine, unde dicitur citen .i. agnus. <cb n="p. 81a"/>
+</p>
+<p xml:id="Irsan.71">
+<w type="hw" lemma="danae">Dan</w> dicitur iudicium.
+</p>
+<p xml:id="Irsan.72">
+<w type="hw" lemma="docho">Doig</w> a uerbo docha .i. puto
+</p>
+<p xml:id="Irsan.73">
+<w type="hw" lemma="didu">Didu</w> a graeco dodis, fortis
+</p>
+<p xml:id="Irsan.74">
+<w type="hw" lemma="díl">Dil</w> a uerbo deleo, 7 deleo mortifico
+</p>
+<p xml:id="Irsan.75">
+<w type="hw" lemma="druinech">Druinech</w> a nomine dorca .i. uidéns
+</p>
+<p xml:id="Irsan.76">
+<w type="hw" lemma="doél">D&aolig;l</w> a graeco dilos formido; inde delofon .i. formido.
+</p>
+<p xml:id="Irsan.77">
+<w type="hw" lemma="dorca *">Dorca</w> .i. uidio, unde dicitur. derc .i. rosc
+</p>
+<p xml:id="Irsan.78">
+<w type="hw" lemma="dobail">Dobal</w> .i. cin bal.
+</p>
+<p xml:id="Irsan.79">
+<w type="hw" lemma="dér">Der</w> dero grece cado latine, quia cadunt lacrime.
+</p>
+<p xml:id="Irsan.80">
+<w type="hw" lemma="dúas 1">Duas</w> do grece tindscra interpretatur
+</p>
+<p xml:id="Irsan.81">
+<phr type="hw" lemma="etur *">Et di ettech 7 iat</phr>, anmann fethal la gentiu, unde dicitur, dotong darsna hiata-co; 7 ut dicitur, fo ainm dom aith is dom iad 7 reliqua.
+</p>
+<p xml:id="Irsan.82">
+<w type="hw" lemma="etig">Etig</w> .i. nemdeitiu .i. ni cruth
+</p>
+<p xml:id="Irsan.83">
+<w type="hw" lemma="etargaire">Etargaire</w> .i. etar-irgair
+</p>
+<p xml:id="Irsan.84">
+<w type="hw" lemma="et(a)im">Etaim</w> .i. eit-tuitim, ondi tarmiteit .i. gell dotuit ar et do buith i tír.
+</p>
+<p xml:id="Irsan.85">
+<w type="hw" lemma="écath">Eeath</w> .i. athamnus.
+</p>
+<p xml:id="Irsan.86">
+<w type="hw" lemma="ér 1">Er</w> sir ł uerum, ut dilla er amiris.
+</p>
+<p xml:id="Irsan.87">
+<w type="hw" lemma="eclais">Eclais</w> .i. d grece congregatio, unde egloge <add place="margin-left"> ł lest fina</add>
+</p>
+<p xml:id="Irsan.88">
+<w type="hw" lemma="emon 2">Emun</w> ebraice, ema grece id est iugum .i. mam, ł dias.
+</p>
+<p xml:id="Irsan.89">
+<w type="hw" lemma="ér 1">Eros</w> .i. trenfer, quasi eras cleon .i. fama uirorum fortium
+</p>
+<p xml:id="Irsan.90">
+<w type="hw" lemma="fricell">Fricell</w> .i. dutracht bid berair do chill.
+</p>
+<p xml:id="Irsan.91">
+<w type="hw" lemma="frecomus">Frecomus</w> .i. imcomarc, ut dicitur, atat da frecomus i cairde.
+</p>
+<p xml:id="Irsan.92">
+<w type="hw" lemma="fithrech">Fithrech</w> .i. arag feda, ut dicitur, Donnainech di Bodbæ bairc.
+</p>
+<p xml:id="Irsan.93">
+<w type="hw" lemma="fethal">Fetal</w> cach cumtach; fetal .i. comdas i ndail.
+</p>
+<p xml:id="Irsan.94">
+<w type="hw" lemma="fí">Fi</w> .i. neim.
+</p>
+<p xml:id="Irsan.95">
+<w type="hw" lemma="fidba 2">Fidbae</w> .i. nemnech rogab credbad.
+</p>
+<p xml:id="Irsan.96">
+<w type="hw" lemma="fuinched">Fuinched</w> .i. dimicin, ut dicitur, fili nís fuincesa <cb n="p. 81b"/>
+</p>
+<p xml:id="Irsan.97">
+<add place="margin-top"><w type="hw" lemma="esert">Esirt</w> .i. ni tualaing .i. feirt.</add>
+</p>
+<p xml:id="Irsan.98">
+<w type="hw" lemma="ele">Eli</w> a nomine grece elis, miseria.
+</p>
+<p xml:id="Irsan.99">
+<w type="hw" lemma="esbaith 1">Esbaid</w> dicitur a nomine ebraico easbaith .i. mearor
+</p>
+<p xml:id="Irsan.100">
+<w type="hw" lemma="eólas">Eolus</w> a nomine eo .i. bunum.
+</p>
+<p xml:id="Irsan.101">
+<w type="hw" lemma="esorr *">Esorr</w> a nomine essebon .i. gin guland
+</p>
+<p xml:id="Irsan.102">
+<w type="hw" lemma="eochair 6">Eochair</w> .i. eo direch, cur a curbo; eochair didiu .i. cromdirech.
+</p>
+<p xml:id="Irsan.103">
+<w type="hw" lemma="élúd">Elud</w> a graeco eluo .i. desero. 
+</p>
+<p xml:id="Irsan.104">
+<w type="hw" lemma="ele">Ele</w> elon grece oleum latine.
+</p>
+<p xml:id="Irsan.105">
+<w type="hw" lemma="ellam 1">Ellam</w> .i. i llaim .i. ni for dail
+</p>
+<p xml:id="Irsan.106">
+<w type="hw" lemma="ela 1">Ela</w> quasi alba, quia alba tota sit.
+</p>
+<p xml:id="Irsan.107">
+<w type="hw" lemma="étan">Etan</w> ebraice, frons latine, ł e-tend, ł é-tinn.
+</p>
+<p xml:id="Irsan.108">
+<w type="hw" lemma="étach 1">Etach</w> a toga toga, quia tegit.
+</p>
+<p xml:id="Irsan.109">
+<w type="hw" lemma="Érainn">Eraind</w> .i. fir erann .i. darind .i. fine daire domtig m<ex>aic</ex> lugdach m<ex>aic</ex> itha m<ex>aic</ex> breguin; na tuata arann-sin, ba dib batar rig ria neoganacht.
+</p>
+<p xml:id="Irsan.110">
+<w type="hw" lemma="erp">Erb</w> ab erba, quia pacitur
+</p>
+<p xml:id="Irsan.111">
+<w type="hw" lemma="es(s) 3">Es</w> ab estu, unde dicitur esccra.
+</p>
+<p xml:id="Irsan.112">
+<w type="hw" lemma="erarsmus *">Erarsmus</w> .i. erso.
+</p>
+<p xml:id="Irsan.113">
+<w type="hw" lemma="Emain">Eomoin</w> .i. eo os moin, crann mor bæ and sin prius.
+</p>
+<p xml:id="Irsan.114">
+<w type="hw" lemma="fíc">Fid</w> ondi as ficus .i. fid; ł uitium corporis; ł a uicio.
+</p>
+<p xml:id="Irsan.115">
+<w type="hw" lemma="pit 1">Fet</w> quasi uit, quia uitat .i. tocuiriud.
+</p>
+<p xml:id="Irsan.116">
+<w type="hw" lemma="feis 2">Fessa</w> a festis idolorum; tri buada l&aolig;chdachta , fesa 7 tana 7 togla.
+</p>
+<p xml:id="Irsan.117">
+<w type="hw" lemma="fír 1">Fer</w> id est a uero.
+</p>
+<p xml:id="Irsan.118">
+<w type="hw" lemma="Femen">Femen</w> .i. foeman grece campus latine; ł is ann robatar da rig na damraidhe .i. fe 7 men ar feib a ngelta
+</p>
+<p xml:id="Irsan.119">
+<w type="hw" lemma="femm">Femm</w> a fimbria .i. o luibniu maris, unde dicitur femair .i. fem-fer.
+</p>
+<p xml:id="Irsan.120">
+<w type="hw" lemma="fiadnaise">Fiadnus</w> .i. fiada ronas in cor.
+</p>
+<p xml:id="Irsan.121">
+<w type="hw" lemma="fés 1">Fess</w> .i. fe ebraice os latine <cb n="p. 81c"/>
+</p>
+<p xml:id="Irsan.122">
+<w type="hw" lemma="fail 1">Fail</w> dicitur a nomine grece falos .i. ornamentum.
+</p>
+<p xml:id="Irsan.123">
+<w type="hw" lemma="faol *">F&aolig;l</w> dicitur a nomine grece falos .i. malum
+</p>
+<p xml:id="Irsan.124">
+<w type="hw" lemma="fag">Faga</w> dicitur a nomine grece fage .i. comedere.
+</p>
+<p xml:id="Irsan.125">
+<w type="hw" lemma="fat *">Fat</w> a nomine ebraico fat .i. iudicium
+</p>
+<p xml:id="Irsan.126">
+<w type="hw" lemma="fál 1">Fal</w> a nomine falech .i. diuisio.
+</p>
+<p xml:id="Irsan.127">
+<w type="hw" lemma="fane *">Fane</w> ab ebraico fane .i. asparcio.
+</p>
+<p xml:id="Irsan.128">
+<w type="hw" lemma="fir *">Fir</w> ab ebraico fines .i. os mutum.
+</p>
+<p xml:id="Irsan.129">
+<w type="hw" lemma="fís">Fuis</w> ab ebraico fison .i. prudencia.
+</p>
+<p xml:id="Irsan.130">
+<w type="hw" lemma="fás 1">Fas</w> a nomine faisin, apparacio.
+</p>
+<p xml:id="Irsan.131">
+<w type="hw" lemma="fó 1">Fo</w> a nomine faton .i. habundasia.
+</p>
+<p xml:id="Irsan.132">
+<phr type="hw" lemma="farad *">Farad 7 forus</phr> a graeco faro .i. uidio.
+</p>
+<p xml:id="Irsan.133">
+<w type="hw" lemma="fáebar">Faobar</w> a fabro <add>.i. on gobaind</add>.
+</p>
+<p xml:id="Irsan.134">
+<w type="hw" lemma="fís">Fis</w> .i. sciencia.
+</p>
+<p xml:id="Irsan.135">
+<w type="hw" lemma="flechud">Flechud</w> quasi flegud a nomine flegmon .i. frigidum.
+</p>
+<p xml:id="Irsan.136">
+<w type="hw" lemma="folam 2">Folam</w> .i. fo laim.
+</p>
+<p xml:id="Irsan.137">
+<w type="hw" lemma="folacht *">Folacht</w> .i. fecht folaig.
+</p>
+<p xml:id="Irsan.138">
+<w type="hw" lemma="folach 1">Folach</w> fulus grece custodia latine
+</p>
+<p xml:id="Irsan.139">
+<w type="hw" lemma="fodb 1">Fodb</w> .i. ondi as food grece .i. utis, 7 fos-ba .i. baaid i fos inti is marb.
+</p>
+<p xml:id="Irsan.140">
+<w type="hw" lemma="fodál">Fodla</w> .i. fo-duile.
+</p>
+<p xml:id="Irsan.141">
+<w type="hw" lemma="fochrus">Fochrus</w> .i. fo cris.
+</p>
+<p xml:id="Irsan.142">
+<w type="hw" lemma="fili">File</w> grece a filo .i. amore scientiæ; ł fíí líí .i. fi fora air 7 li fora molad; ł fial-lí .i. lí uasal na .uii. ngrad filed, ollam anruth cli cana dos mac fuirmid, focloc.
+</p>
+<p xml:id="Irsan.143">
+<w type="hw" lemma="gabat *">Gabat</w> .i. gabata grece uas latine; ł quia cauata est, id est cuæ 
+</p>
+<p xml:id="Irsan.144">
+<w type="hw" lemma="gábud">Gabut</w> .i. gabut nes .i. gigantes grece; ł gaboth .i. bot i ngaib
+</p>
+<p xml:id="Irsan.145">
+<w type="hw" lemma="gabor 1">gabar</w> .i. a capra.
+</p>
+<p xml:id="Irsan.146">
+<w type="hw" lemma="Gabruan">Gabran</w> a quo belut ngabrain .i. gabran mac ailb mic augein aurgnaid mic setnai sithbaic, ut dixit find fili mac rosa .r., pronepos eius .i. a hiarmua. Maicne ailb airme achirbuire buidne deirg din duabair <add>do elga bruan</add> grinne for findabuir. <cb n="p. 82a"/>
+</p>
+<p xml:id="Irsan.147">
+<w type="hw" lemma="gel 1">Gel</w> dicitur a nomine grece gelon .i. album.
+</p>
+<p xml:id="Irsan.148">
+<w type="hw" lemma="glicc">Glic</w> a nomine grece glicin .i. dulce.
+</p>
+<p xml:id="Irsan.149">
+<w type="hw" lemma="grád 1">Grad</w> a nomine grece gradin, dilectio.
+</p>
+<p xml:id="Irsan.150">
+<w type="hw" lemma="gabul">Gabul</w> a nomine sirio gablon .i. diuisio.
+</p>
+<p xml:id="Irsan.151">
+<w type="hw" lemma="gláed 1">Gl&aolig;d</w> quasi kl&aolig;d a uerbo kalo.
+</p>
+<p xml:id="Irsan.152">
+<w type="hw" lemma="gáire">Gari</w> graeco cere .i. gaudium
+</p>
+<p xml:id="Irsan.153">
+<w type="hw" lemma="gol">Gul</w> quasi kal a uerbo kal .i. uoco.
+</p>
+<p xml:id="Irsan.154">
+<w type="hw" lemma="gabul">Gaba</w> a uerbo gobio .i. orno.
+</p>
+<p xml:id="Irsan.155">
+<w type="hw" lemma="gáu">Gai</w> a nomine ebraico gad temptatio; ł a gabio
+</p>
+<p xml:id="Irsan.156">
+<w type="hw" lemma="gemel">Geimel</w> a nomine ebraico gemila .i. infirma.
+</p>
+<p xml:id="Irsan.157">
+<w type="hw" lemma="gae">Gæ</w> enim grece asta latine .i. 
+</p>
+<p xml:id="Irsan.158">
+<w type="hw" lemma="gal 1">gal</w> no galar; galann ebraice .i. transmigratio interpretatur, quia motat mentem
+</p>
+<p xml:id="Irsan.159">
+<w type="hw" lemma="grís">Gris </w>quasi cris, crisis grece iudicium latine 
+</p>
+<p xml:id="Irsan.160">
+<phr type="hw" lemma="gloimm">Glonn ł gloed</phr> a clamore magno
+</p>
+<p xml:id="Irsan.161">
+<w type="hw" lemma="gop">Gob</w> a capite, ar us cenn cach r&aolig;da a gob.
+</p>
+<p xml:id="Irsan.162">
+<w type="hw" lemma="lía 1">Lia</w> a nomine ebraico lia, laboriosa.
+</p>
+<p xml:id="Irsan.163">
+<w type="hw" lemma="lon *">Lon</w> a nomine lonia, linga.
+</p>
+<p xml:id="Irsan.164">
+<w type="hw" lemma="lám">Lam</w> a labore.
+</p>
+<p xml:id="Irsan.165">
+<w type="hw" lemma="límad">Limad</w> a nomine lima.
+</p>
+<p xml:id="Irsan.166">
+<w type="hw" lemma="lachu">Lacha</w> .i. lichiu .i. fliche í quam alie aues
+</p>
+<p xml:id="Irsan.167">
+<w type="hw" lemma="losat">Losad</w> .i. a los uait .i. a cenn
+</p>
+<p xml:id="Irsan.168">
+<w type="hw" lemma="lecc">Lecc</w> .i. ar lectir sis 7 suas; no latine .i. lébith secc.
+</p>
+<p xml:id="Irsan.169">
+<w type="hw" lemma="letrad">Letradh</w> latradh a latraione; no letradh .i. lethar-soadh, soad in lethair
+</p>
+<p xml:id="Irsan.170">
+<w type="hw" lemma="léimm">Leim</w> quasi lú-eim .i. luudh seim i
+</p>
+<p xml:id="Irsan.171">
+<w type="hw" lemma="láigen">Laigin</w> quasi lægir, ar us o loegaire lorc gensetar; ł laigin, quasi lancin a lancis .i. ona gaiib gabsatar la labruid loingsech. <cb n="p. 82b"/>
+</p>
+<p xml:id="Irsan.172">
+<w type="hw" lemma="íath 3">Iath</w> dicitur a nomine ebraico idida .i. dilectus.
+</p>
+<p xml:id="Irsan.173">
+<w type="hw" lemma="ibar">Ibar</w> ab ebore .i. o cnaim elifante, ara suthaine 7 cosmailus a data; ł ibar ab ibernis locis, o locaib imechtraib in domuin.
+</p>
+<p xml:id="Irsan.174">
+<w type="hw" lemma="id 1">Id</w> ercomail, quia equs in eo it .i. imeteit.
+</p>
+<p xml:id="Irsan.175">
+<w type="hw" lemma="ithe">Ite</w> oni is edo
+</p>
+<p xml:id="Irsan.176">
+<phr type="hw" lemma="ilar 1">Ile 7 ilar</phr> quia innumerabilis
+</p>
+<p xml:id="Irsan.177">
+<w type="hw" lemma="ilach">Ilach</w> .i. ilactis grece latratus, ar it cosmaile coin 7 cuana 7 uana 7 ualla 7 ilach .i. aquaticus, unde dicitur mosach
+</p>
+<p xml:id="Irsan.178">
+<w type="hw" lemma="imb">Imb</w> ab imbre, quia praestat melorum ł butiram super flores
+</p>
+<p xml:id="Irsan.179">
+<w type="hw" lemma="Maistiu">Maisdiu</w> .i. mes-du .i. du mesraid ł mesa, unde dicitur, ba fidbad aimsir robui.
+</p>
+<p xml:id="Irsan.180">
+<w type="hw" lemma="Macha 2">Maiche</w> .i. bodb; ł isi in tres morrigan .i. maiche 7 bodb 7 morrigan, unde mesrad maiche .i. cenna d&aolig;ine iarna nairlech, ut dixit dub ruis. Garbæ adbae innon fil. i lomrad fir maiche mes, i nagat laich liu i lles, i lluaiget mna trogain tres.
+</p>
+<p xml:id="Irsan.181">
+<w type="hw" lemma="mes(s) 2">Mes</w> quasi mos, quia in usu lignorum
+</p>
+<p xml:id="Irsan.182">
+<w type="hw" lemma="mescae">Mesci</w> .i. mo do aisc quam in ciall
+</p>
+<p xml:id="Irsan.183">
+<w type="hw" lemma="mac(c) 1">Mac</w> quasi quasi me-aic .i. mea imago; ł quasi max .i. macrall
+</p>
+<p xml:id="Irsan.184">
+<w type="hw" lemma="moch">Moch</w> a graco mocon .i. cito
+</p>
+<p xml:id="Irsan.185">
+<w type="hw" lemma="mullach">Mullach</w> .i. mul-óach .i. cluasach.
+</p>
+<p xml:id="Irsan.186">
+<w type="hw" lemma="muine 1">Muine</w> a uerbo muinio.
+</p>
+<p xml:id="Irsan.187">
+<w type="hw" lemma="mell 2">Mell</w> .i. millid é
+</p>
+<p xml:id="Irsan.188">
+<w type="hw" lemma="móit">Moit</w> .i. ni hait í.
+</p>
+<p xml:id="Irsan.189">
+<w type="hw" lemma="mes(s)án">Mesan</w> .i. en is mesa do conaib é
+</p>
+<p xml:id="Irsan.190">
+<w type="hw" lemma="mílchú">Milcú</w> .i. cu mail .i. rig.
+</p>
+<p xml:id="Irsan.191">
+<w type="hw" lemma="méth">M&aolig;t</w> .i. mo a feth
+</p>
+<p xml:id="Irsan.192">
+<w type="hw" lemma="midach 1">Midach</w> .i. moa do echuib; <cb n="p. 82c"/> ł mait-ech e.
+</p>
+<p xml:id="Irsan.193">
+<w type="hw" lemma="mír">Mir</w> quasi mír onni is múrus
+</p>
+<p xml:id="Irsan.194">
+<w type="hw" lemma="mind 1">Mind</w> quasi munn .i. a mundita
+</p>
+<p xml:id="Irsan.195">
+<w type="hw" lemma="mer 1">Mer</w> .i. mo a fir .i. a ferg
+</p>
+<p xml:id="Irsan.196">
+<w type="hw" lemma="múr 1">Mur</w> .i. mo a uir .i. a talum
+</p>
+<p xml:id="Irsan.197">
+<w type="hw" lemma="merda">M&aolig;rda</w> dicitur a nomine morio .i. onmit.
+</p>
+<p xml:id="Irsan.198">
+<w type="hw" lemma="Mois *">Mois</w> dicitur a nomine ebraico moises.
+</p>
+<p xml:id="Irsan.199">
+<w type="hw" lemma="nasc">Nasc</w> quasi nex a uerbo nexo
+</p>
+<p xml:id="Irsan.200">
+<w type="hw" lemma="náma(e)">Nama</w> .i. non-ama .i. non amatur.
+</p>
+<p xml:id="Irsan.201">
+<w type="hw" lemma="net">Net</w> quasi nit a nido.
+</p>
+<p xml:id="Irsan.202">
+<w type="hw" lemma="nert">Nert</w> quasi uert a uirtute.
+</p>
+<p xml:id="Irsan.203">
+<w type="hw" lemma="not">Not</w> a nomine nota .i. signum.
+</p>
+<p xml:id="Irsan.204">
+<w type="hw" lemma="nél">Ne</w> quasi uel a nomine uelum
+</p>
+<p xml:id="Irsan.205">
+<w type="hw" lemma="nem 1">Nem</w> .i. nemo uidet oculis.
+</p>
+<p xml:id="Irsan.206">
+<w type="hw" lemma="nús">Nus</w> quasi nouus. <add place="margin-right"> ł nus .i. tiug; naus grece piger latine, ar us maille in loim tana.</add>
+</p>
+<p xml:id="Irsan.207">
+<w type="hw" lemma="núa">Nua</w> quasi noua.
+</p>
+<p xml:id="Irsan.208">
+<w type="hw" lemma="nás">Nás</w>. cel. ar us ann fognitis laigin a celmuine; unde dicitur naas on augorans.
+</p>
+<p xml:id="Irsan.209">
+<w type="hw" lemma="nes(s) 4">Nes</w> .i. inis.
+</p>
+<p xml:id="Irsan.210">
+<w type="hw" lemma="nes(s) 4">Nessin</w> grece insola latine
+</p>
+<p xml:id="Irsan.211">
+<phr type="hw" lemma="Mag nAe">Mag n-ae</phr> .i. mag n-aa .i. mag n-ard, ł mag n-uasal ł fermar
+</p>
+<p xml:id="Irsan.212">
+<w type="hw" lemma="mass 1">Mass</w> .i. saidbir, id est masa .i. corus ł multitudo ł colectio.
+</p>
+<p xml:id="Irsan.213">
+<w type="hw" lemma="maigister">Maigister</w> .i. magister .i. maior statior magister oc grece statio dicitur
+</p>
+<p xml:id="Irsan.214">
+<w type="hw" lemma="mer 2">Mer</w> .i. merulus .i. lon ł baoth, unde dicitur meroc a merula .i. glasluin
+</p>
+<p xml:id="Irsan.215">
+<w type="hw" lemma="meirdrech">Merdrech</w> .i. meretrix, meretrix quia pretium libidinis mereatur, unde dicitur 7 meritoriæ tabernæ uirgo{?}
+</p>
+<p xml:id="Irsan.216">
+<w type="hw" lemma="moen *">Moen</w> id est a moenia, murorum ædificia.
+</p>
+<p xml:id="Irsan.217">
+<w type="hw" lemma="medb">Medb</w> .i. serb, unde dicitur, tolcda di coilctib simenn. gáir peinn di dromaib duillenn. lind serb a beluib deip<add>ł</add>enn. mid medb di bratuib cuilenn. mor muman cecinit <cb n="p. 83a"/>
+</p>
+<p xml:id="Irsan.218">
+<w type="hw" lemma="omthand">Omhtend</w> quasi omhtinn .i. tenn frisin om é
+</p>
+<p xml:id="Irsan.219">
+<w type="hw" lemma="ord(d) 2 recte ord(d) 3">Orda</w> .i. ard í .i. calma í
+</p>
+<p xml:id="Irsan.220">
+<w type="hw" lemma="oifrend">Oifrenn</w> a uerbo ofero .i. idbraim.
+</p>
+<p xml:id="Irsan.221">
+<w type="hw" lemma="omousion">Omousion</w> .i. unsí substansiæ
+</p>
+<p xml:id="Irsan.222">
+<w type="hw" lemma="omoeusion">Omoeusion</w> .i. similis substanciæ
+</p>
+<p xml:id="Irsan.223">
+<w type="hw" lemma="omoneusion">Omoneusion</w> .i. disimilis substantiae.
+</p>
+<p xml:id="Irsan.224">
+<w type="hw" lemma="rota">Rota</w> .i. usce 7 rotan on dergi asberar, ar is roth cach derg
+</p>
+<p xml:id="Irsan.225">
+<w type="hw" lemma="rét">Ret</w> a nomine res
+</p>
+<p xml:id="Irsan.226">
+<w type="hw" lemma="remor">remor</w> .i. ro-mor é.
+</p>
+<p xml:id="Irsan.227">
+<w type="hw" lemma="rot">Ret</w> .i. rofada teit tar techta, 7 inde dicitur echrot.
+</p>
+<p xml:id="Irsan.228">
+<w type="hw" lemma="rastal">Rastal</w> .i. risan talmain benas.
+</p>
+<p xml:id="Irsan.229">
+<phr type="hw" lemma="rosc 1">Rosc 7 rusc</phr> on rofased bis furro. <cb n="p. 83b"/>
+</p>
+<p xml:id="Irsan.230">
+<w type="hw" lemma="sab 1">Sab</w> .i. saebta .i. asa a sodh
+</p>
+<p xml:id="Irsan.231">
+<w type="hw" lemma="srían">Srian</w> quasi frian a nomine frenum
+</p>
+<p xml:id="Irsan.232">
+<w type="hw" lemma="srón">Sron</w> .i. sruaim .i. imad ena .i. usce; ł ser-uain.
+</p>
+<p xml:id="Irsan.233">
+<w type="hw" lemma="srenn">srand</w> .i. sron-ann .i. isin sroin bis.
+</p>
+</div>
+
+      </body>   
+   </text>
+</TEI>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dúil Dromma Cetta, version D4</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1287 (H.1.13)</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>P. Russell, ‘Dúil Dromma Cetta and Cormac’s Glossary’, Études celtiques, 32 (1996), 147-74.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div xml:id="D4">
+            <p xml:id="D4.1">
+               <w type="hw" lemma="lés 1a">Leos</w> .i. soillsi idir 7 les. 
+            </p>
+            <p xml:id="D4.2">
+               <w type="hw" lemma="lárac">laarg</w> .i. gabul ut est ath da la<ex>a</ex>rg .i. da gab<ex>al</ex>  
+            </p>
+            <p xml:id="D4.3">
+               <w type="hw" lemma="lúar">luar</w> .i. borb. 
+            </p>
+            <p xml:id="D4.4">
+               <w type="hw" lemma="luis">luis</w> .i. lam. luis nomen do s<ex>ui</ex>l a ebra. am<ex>al</ex> in arait bod -{?} a luis. 
+            </p>
+            <p xml:id="D4.5">
+               <w type="hw" lemma="lang b">lang</w> .i. breg no mebul ut dicitur torpuid bes do languib linib ciall. grian dotaithne tar aigh - uar. direch ndet fri saighid set 7 breg na mbriathair mbuan. 
+            </p>
+            <p xml:id="D4.6">
+               <w type="hw" lemma="locfiach">logfiach</w> .i. comsuidiug<ex>ud</ex> o laitin agus o ghaoidilg .i. locax 7 fiach .i. fiachlabur. 
+            </p>
+            <p xml:id="D4.7">
+               <w type="hw" lemma="lú">lu</w> .i. gach mbecc ut est lulaeg .i. legh mbec. 
+            </p>
+            <p xml:id="D4.8">
+               <w type="hw" lemma="lú">lu</w> .i. olc ut est ni len lu lesug<ex>ud</ex> .i. ni len olc cia tecmad olc acin lesug<ex>ud</ex>. 
+            </p>
+            <p xml:id="D4.9">
+               <w type="hw" lemma="lem 2">lemh</w> .i. ga<ex>ch</ex> maeth ut est .i. <del>tolg</del> lemlacht. 
+            </p>
+            <p xml:id="D4.10">
+               <w type="hw" lemma="lés 1d">leus</w> .i. imd<ex>er</ex>gad. 
+            </p>
+            <p xml:id="D4.11">
+               <w type="hw" lemma="lann 1">lann</w> .i. urgab<ex>ail</ex> .i. tolg ł buinne dognith<ex>er</ex> i <ex>les</ex>tar ume no argit. ut dicitur cuach condib lannuib. 
+            </p>
+            <p xml:id="D4.12">
+               <w type="hw" lemma="luchtar">lu<ex>chtar</ex></w> .i. coite bis for usqi. 
+            </p>
+            <p xml:id="D4.13">
+               <w type="hw" lemma="láu">lau</w> .i. bo. 
+            </p>
+            <p xml:id="D4.14">
+               <w type="hw" lemma="láes">lais</w> .i. laidh. 
+            </p>
+            <p xml:id="D4.15">
+               <w type="hw" lemma="lecht">lecht</w> .i. lighe. 
+            </p>
+            <p xml:id="D4.16">
+               <w type="hw" lemma="lían">lian</w> .i.ailgen. 
+            </p>
+            <p xml:id="D4.17">
+               <w type="hw" lemma="líanchar">liancair</w> .i. caruit algen 7 <ex>cond</ex>airle. 
+            </p>
+            <p xml:id="D4.18">
+               <w type="hw" lemma="Lugnasad">lugnasa</w> .i. snasad ł acobur no ginasa .i. nasad logha ar is lugh doroscel -aenach imarach taite foghmuir 
+            </p>
+            <p xml:id="D4.19">
+               <w type="hw" lemma="láem c">laom</w> .i. aims<ex>er</ex> 
+            </p>
+            <p xml:id="D4.20">
+               <w type="hw" lemma="láem a">laem</w> do-.i. in cliath bis fon arb<ex>ur</ex> ica tiradh. 
+            </p>
+            <p xml:id="D4.21">
+               <w type="hw" lemma="líamain 2">liamuin</w> .i. cach soc<ex>ru</ex>th no cach suidhech. 
+            </p>
+            <p xml:id="D4.22">
+               <w type="hw" lemma="Liugairne">liugharne</w> .i. nomen uiri .i. mac luighdech lugha m<ex>ic</ex> mogha nuadhat ut dicitur cladhar f. f. l. liughairne l. 
+            </p>
+            <p xml:id="D4.23">
+               <w type="hw" lemma="linchuir">lingar</w> .i. tiagh imbi aidhini legha .i.duillinna mina bis i seudh do deiliug<ex>ud</ex> na losa bit innib r cumusc 
+            </p>
+            <p xml:id="D4.24">
+               <w type="hw" lemma="lerg">lerg</w>.i. cach neslind. 
+            </p>
+            <p xml:id="D4.25">
+               <w type="hw" lemma="litor">litor</w> .i. lob<ex>ur</ex>. no cach nimlebur. 
+            </p>
+            <p xml:id="D4.26">
+               <w type="hw" lemma="liber *">lib<ex>er</ex></w> .i. saer. 
+            </p>
+            <p xml:id="D4.27">
+               <w type="hw" lemma="láigen">laegan</w> .i. gai 
+            </p>
+            <p xml:id="D4.28">
+               <w type="hw" lemma="lufe">lufe</w> .i. bandae. 
+            </p>
+            <p xml:id="D4.29">
+               <w type="hw" lemma="luirc">luirc</w> .i. suil 
+            </p>
+            <p xml:id="D4.30">
+               <w type="hw" lemma="luchorp">lucorb</w> .i.oirblocho 
+            </p>
+            <p xml:id="D4.31">
+               <w type="hw" lemma="laime 1">laime</w> .i. biail. 
+            </p>
+            <p xml:id="D4.32">
+               <w type="hw" lemma="ló 3">lo</w> .i. failidh 
+            </p>
+            <p xml:id="D4.33">
+               <w type="hw" lemma="láeb">laeb</w> .i. bo. 
+            </p>
+            <p xml:id="D4.34">
+               <w type="hw" lemma="láes">laés</w> .i. fiach. 
+            </p>
+            <p xml:id="D4.35">
+               <w type="hw" lemma="laime 1">laime</w> .i. deogh 
+            </p>
+            <p xml:id="D4.36">
+               <w type="hw" lemma="leithech 1, 3">letet</w> .i. leth. 
+            </p>
+            <p xml:id="D4.37">
+               <w type="hw" lemma="Linnmaine">linm<ex>ui</ex>ne</w> .i. ainm tipr<ex>ait</ex> as romuidh loch ethach. 
+            </p>
+            <p xml:id="D4.38">
+               <w type="hw" lemma="Líathmaine">liathmuine</w> .i. in mag tarsa tucad ut est in omnt .i. cánan. doraga linmuine tar liethmuine fo leich bada cingid beala trascraid omnu denuid ethra. <del>gabra liath .i. li uath lee recindhe lee .i. muir, ut est mat cab<ex>ur</ex>. Tain siu mannannain mic lir ar lecuib lee</del> denuid ethra. 
+            </p>
+            <p xml:id="D4.39">
+               <w type="hw" lemma="líath">liath</w> .i. li uath. 
+            </p>
+            <p xml:id="D4.40">
+               <w type="hw" lemma="lee *">lee</w> .i. muir ut dicitur mat cabra gebra rem- recindhe tain siu manannain mic lir ar lecuib lee 
+            </p>
+            <p xml:id="D4.41">
+               <w type="hw" lemma="lía 2">lia</w> .i. tole lia <cb n="p. 169"/> lee. 
+            </p>
+            <p xml:id="D4.42">
+               <w type="hw" lemma="lía 2">lia</w> .i. tole. 
+            </p>
+            <p xml:id="D4.43">
+               <w type="hw" lemma="lía 6">lia</w>. comorbu. 
+            </p>
+            <p xml:id="D4.44">
+               <w type="hw" lemma="lúa 1d">lua</w> .i. prep. 
+            </p>
+            <p xml:id="D4.45">
+               <w type="hw" lemma="marc">Marcc</w> .i. ech. 
+            </p>
+            <p xml:id="D4.46">
+               <w type="hw" lemma="marc (cmpd)">marc</w> marcmuil<ex>enn</ex> .i. muilinn imsui eich. 
+            </p>
+            <p xml:id="D4.47">
+               <w type="hw" lemma="Mol">Mol</w> nomen uiri .i. doirsaidh temruch ut est moluch .i. is cosmul fri mol ar ní anad sidhe labra caidqus anus bi-dh sidhe taet ind taet ass. 
+            </p>
+            <p xml:id="D4.48">
+               <w type="hw" lemma="milgetan">Milgotan</w>.i. mol cuitan .i. cuit muil ar is he aighe dob<ex>er</ex>tha do. 
+            </p>
+            <p xml:id="D4.49">
+               <w type="hw" lemma="monach">Monach</w> .i. clesamnach ut dicitur forgall monuch 
+            </p>
+            <p xml:id="D4.50">
+               <w type="hw" lemma="manach 1">monuch</w> .i. onni is monacus .i. a g<ex>rei</ex>c. 
+            </p>
+            <p xml:id="D4.51">
+               <w type="hw" lemma="mancad *">manacad</w> .i. oibiug<ex>ud</ex> lam man .i. lam 
+            </p>
+            <p xml:id="D4.52">
+               <w type="hw" lemma="mandac">manach</w> .i. feoil bruithi .i. manucando .i. o thomuilt. 
+            </p>
+            <p xml:id="D4.53">
+               <w type="hw" lemma="mid 3 I">midh</w> .i. leth .i. midbae .i. grainne. 
+            </p>
+            <p xml:id="D4.54">
+               <w type="hw" lemma="midba(e)">midbae</w> di- .i. lethben no lethuagh<ex>ud</ex> fo bith in torainn bis it<ex>er</ex> indala b<ex>en</ex> d<ex>e</ex>. 
+            </p>
+            <p xml:id="D4.55">
+               <w type="hw" lemma="mann 1">Mann</w> .i. uingi ut est uii. mana oirt forloisce 
+            </p>
+            <p xml:id="D4.56">
+               <w type="hw" lemma="mó 3">Mo</w> .i. moch ut dicitur do luid f<ex>er</ex> mumhan hi crich connacht is forsin cu<ex>ai</ex>rt sin do- ro chuala f<ex>er</ex>m<ex>umhan</ex> .i. immbece<ex>d</ex> ł mecet ingoora insin caillidh it<ex>er</ex> u<ex>a</ex> neill 7 luigniu. foidis f<ex>er</ex> m<ex>umhan</ex> nomen mac becain dus cia romboth inni. do luid mo fis cia fairnicc ol f<ex>er</ex> m<ex>umhan</ex> cuilenn comdoin coll dadib dur. f<ex>er</ex>fatt mol muil. uas boin blosair chúana. 
+            </p>
+            <p xml:id="D4.57">
+               <w type="hw" lemma="meichem *">Meichem</w> .i. gallbr<ex>echt</ex> ut dicitur dimeichem .i. nem oradh. 
+            </p>
+            <p xml:id="D4.58">
+               <w type="hw" lemma="meitech *">Mestech</w> .i. cunntabartach. 
+            </p>
+            <p xml:id="D4.59">
+               <w type="hw" lemma="muirenn">Mirinn</w> .i. gae ut est finn d<ex>er</ex>gaither muirne mblith. 
+            </p>
+            <p xml:id="D4.60">
+               <w type="hw" lemma="meise">Mesi</w> .i. tualuing ut est is mesi rí caisil cip maighen ma tuc a cas- <add>.i. atros-</add>. 
+            </p>
+            <p xml:id="D4.61">
+               <w type="hw" lemma="mem(m)">Memm</w> .i. pocc ut est a mem a meblug<ex>ud</ex>. 
+            </p>
+            <p xml:id="D4.62">
+               <w type="hw" lemma="meile 3">Mele</w> .i. cap<ex>all</ex>. 
+            </p>
+            <p xml:id="D4.63">
+               <w type="hw" lemma="milliud">Milliuth</w> .i. misilliuth .i. feghad olc. 
+            </p>
+            <p xml:id="D4.64">
+               <w type="hw" lemma="meithel 1">Methel</w> .i. buanaidhe .i. oní is meto .i. boingim. 
+            </p>
+            <p xml:id="D4.65">
+               <w type="hw" lemma="mullach">Mulluch</w> .i. seiscend ut est ó siaghail oc tothlug<ex>ud</ex> cairr. slicht a da gae tre gach mull<ex>ach</ex>. culluch <add>.i. loech</add> flesach feruch. am<ex>al</ex> chairr im b<ex>er</ex>ar lamach t<ex>re</ex> <ex>conn</ex>ol fann feruch. 
+            </p>
+            <p xml:id="D4.66">
+               <w type="hw" lemma="melg 1">Melg</w> .i. as 7 melg.i. sugh fo bith aip<ex>erar</ex> melg fri cuirm .i. melg netha. 
+            </p>
+            <p xml:id="D4.67">
+               <w type="hw" lemma="melg 2">Melg</w> .i. bas 7 is do rinn so ut est crin cach ala methus melgteme .i. is im- fil hic. 
+            </p>
+            <p xml:id="D4.68">
+               <w type="hw" lemma="manad *">Manadh</w> .i. sugh. 
+            </p>
+            <p xml:id="D4.69">
+               <w type="hw" lemma="midlach">Midhluch</w> .i. medhon lux .i. leth lux. 
+            </p>
+            <p xml:id="D4.70">
+               <w type="hw" lemma="muad 1">Muadh</w> .i. uasal ł airmitin. 
+            </p>
+            <p xml:id="D4.71">
+               <w type="hw" lemma="mairbill">Mairbhill</w> .i. mairis bellum .i. cath ł imeclo. 
+            </p>
+            <p xml:id="D4.72">
+               <w type="hw" lemma="mitan *">Mithan</w> .i. miaims<ex>er</ex>. 
+            </p>
+            <p xml:id="D4.73">
+               <w type="hw" lemma="mén">Men</w> .i. beul ut dixit C<gap extent="7 letters" reason="?"/>{?} Coigne ger gonus daoine. ni frithe mara marig toich tar roi rena. aidqi mena mic snama 
+            </p>
+            <p xml:id="D4.74">
+               <w type="hw" lemma="meis 2">Meisi</w> .i. aurdraighe <add>.i. aurdracht</add> ł aurcon ut dixit <del>Cúach ndiar</del> sliab mesi .i. don aurdraigib ro dolbu banuu do macaib mil<ex>ed</ex> .i. b<ex>en</ex> mic c<ex>er</ex>matu. 
+            </p>
+            <p xml:id="D4.75">
+               <w type="hw" lemma="maidinn">Maidhind</w>- .i. imerg ut dixit Cuach ndiarmata di bregh bairind bratth ndorar dia meind atar maidhind. 
+            </p>
+            <p xml:id="D4.76">
+               <w type="hw" lemma="Mes Roidai">Mes</w> roid<ex>i</ex>.i. nomen mic dato. 
+            </p>
+            <p xml:id="D4.77">
+               <w type="hw" lemma="morbi *">morbi</w> .i. seghuinn. 
+            </p>
+            <p xml:id="D4.78">
+               <w type="hw" lemma="muad 4">Moad</w> .i. ecosc. 
+            </p>
+            <p xml:id="D4.79">
+               <w type="hw" lemma="mucha *">Mucha</w> .i. sirecht 
+            </p>
+            <p xml:id="D4.80">
+               <w type="hw" lemma="murunn *">Murunn</w> .i. dobor<ex>cu</ex>. 
+            </p>
+            <p xml:id="D4.81">
+               <w type="hw" lemma="mut">Mut</w> .i. cach .i. gach ngeir. 
+            </p>
+            <p xml:id="D4.82">
+               <w type="hw" lemma="moth 3">Moth</w> .i. guth. 
+            </p>
+            <p xml:id="D4.83">
+               <w type="hw" lemma="mengul">Mengai</w> .i. anairt ut est bid noudh mengl<ex>ach</ex>. 
+            </p>
+            <p xml:id="D4.84">
+               <w type="hw" lemma="muinter">Muinnt<ex>er</ex></w> .i. clann. 
+            </p>
+            <p xml:id="D4.85">
+               <w type="hw" lemma="muin 4">Muin</w> .i. menma .i. dimus ut est A logh mo cu<ex>i</ex>l is mo celg marom gab muin mo gach marg. dom .i. domai aruill <add>.i. olc</add> ni duairc intord <add>.i. inomoud</add>. beim ł do dotad <add><gap extent="?" reason="illegible"/>{?}</add> baind ard. 
+            </p>
+            <p xml:id="D4.86">
+               imbas 1<gap extent="?" reason="illegible"/> mill cotl<ex>ud</ex> is ail do. ni dentar ná duigh daigh fo curdis duinu oco. 
+            </p>
+            <p xml:id="D4.87">
+               <w type="hw" lemma="ingraide">Ingruighe</w> .i. erghe inde sa tir. 
+            </p>
+            <p xml:id="D4.88">
+               <w type="hw" lemma="">Inneonn</w> .i. ben ut est innlema indagh do.
+            </p>
+            <p xml:id="D4.89">
+               <w type="hw" lemma="in(n)recht">Indrecht</w> .i. coimitad, no nemrecht ut est indrecht fer fiagh 
+            </p>
+            <p xml:id="D4.90">
+               <w type="hw" lemma="íarus">aris</w> .i. tiagarus .i. iartar ut dicitur i<ex>arus</ex> fis. 
+            </p>
+            <p xml:id="D4.91">
+               <w type="hw" lemma="inbleoga(i)n">Inbleogan</w> .i. inoxul .i. athg<ex>abail</ex> gabus in tren do f<ex>er</ex> fine do gab<ex>ail</ex> inaid in cintaigh. c<ex>o</ex> ro toxlu side air in cintach. 
+            </p>
+            <p xml:id="D4.92">
+               <w type="hw" lemma="indrogach *">indrogach</w> .i. comrannta. combruic is sin din scotic. inind fil i suide isin com. nusrcair rogha din rainn innsin ut dicitur teinn toghain atau ł ota h<ex>er</ex>in indrogach 7rl - 
+            </p>
+            <p xml:id="D4.93">
+               <w type="hw" lemma="bárach">Imbarach</w> .i. imba iubar solis eirgi na gr<ex>e</ex>ini 
+            </p>
+            <p xml:id="D4.94">
+               <w type="hw" lemma="ur(a)id">Inuraid</w> .i. inuu ro paith ł es<gap extent="3 letters" reason="?"/>{?} in anno ro faith .i. isin blia<ex>dnai</ex> tarnaic 
+            </p>
+            <p xml:id="D4.95">
+               <w type="hw" lemma="indles">idees</w> .i. in fo diult<ex>ad</ex> ni
+            </p>
+         </div>
+      
+      </body>   
+   </text>
+</TEI>

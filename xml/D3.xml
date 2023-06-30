@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<!-- 
+
+NB: This transcription is now in the process of being extensively revised.
+
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dúil Dromma Cetta, version D3</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>British Library</repository>
+                  <idno>Egerton 1782</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>P. Russell, ‘Dúil Dromma Cetta and Cormac’s Glossary’, Études celtiques, 32 (1996), 147-74.</bibl>         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         
+         
+         <div xml:id="D3">
+            <p xml:id="D3.1">
+               <w type="hw"><gap reason="damage"/>deimm</w> .i.<gap reason="damage"/>irbo meb<gap reason="damage"/> 
+            </p>
+            <p xml:id="D3.2">
+               <w type="hw"><gap reason="damage"/>dee</w> .i. scr<gap reason="damage"/> 
+            </p>
+            <p xml:id="D3.3">
+               <w type="hw">deiscell</w> <gap reason="damage"/>G<gap reason="damage"/>tarnic <gap reason="damage"/><cb n="fol. 15va"/>
+            </p>
+            <p>
+               Leos .i. soillsi idm est li<add>o</add>s
+            </p>
+            <p xml:id="D3.4">
+               <w type="hw">Laarg</w> .i. gabul ut est ath <lb/> da laarg .i. da gabul.
+            </p>
+            <p xml:id="D3.5">
+               <w type="hw">Luar</w> .i. borb 
+            </p>
+            <p xml:id="D3.6">
+               <w type="hw">luis</w> .i. lám. <lb/> luis. nomen do ṡ<gap extent="1 letter" reason="illegible"/>l. a ebra. amail ader in arait brodh <lb/> a luis. 
+            </p>
+            <p xml:id="D3.7">
+               <w type="hw">Lang</w> .i. breg. no mebul. ut dicitur torpuid <lb/>Bes do languib línib ciall. grian do taithne t<lb/>ar aig— uar. direch ndet fri saighi{n?}d set 7 breg na<lb/> mbriathar mbuan.
+            </p>
+            <p xml:id="D3.8">
+               <w type="hw">Logfiach</w> .i. comsuidiug<ex>ud</ex><lb/> locax 7 fiach .i. fiach 
+            </p>
+            <p xml:id="D3.9">
+               <w type="hw"><gap reason="damage"/>mbecc</w> ut est lulaeg .i. leg 
+            </p>
+            <p xml:id="D3.10">
+               <w type="hw"><gap reason="damage"/>ni</w> len lu lesug<ex>ud</ex> .i. ni len <gap reason="damage"/>olc acin lesug<ex>ud</ex>. 
+            </p>
+            <p xml:id="D3.11">
+               <w type="hw">lem</w> .i. ga<ex>ch</ex> ma 
+            </p>
+            <p xml:id="D3.12">
+               <w type="hw"><gap reason="damage"/>s</w> .i. imd<ex>er</ex>gad. 
+            </p>
+            <p xml:id="D3.13">
+               <w type="hw">lann</w> .i. ur <gap reason="damage"/>tolg<gap reason="damage"/>e dognith<ex>er</ex> i l<ex>estar</ex> ume no <gap reason="damage"/>nuib. 
+            </p>
+            <p xml:id="D3.14">
+               <w type="hw">lu<ex>chtar</ex></w> .i. co 
+            </p>
+            <p xml:id="D3.16">
+               <w type="hw"><gap reason="damage"/>lais</w> .i. laid. 
+            </p>
+            <p xml:id="D3.17">
+               <w type="hw">lecht</w> 
+            </p>
+            <p xml:id="D3.19">
+               <w type="hw"><gap reason="damage"/>liancar</w> .i. caruit algen <gap reason="damage"/>cobar ł <gap reason="damage"/>s<gap reason="damage"/> 
+            </p>
+            <p xml:id="D3.20">
+               <w type="hw"><gap reason="damage"/></w> .i. nasad loga ar is lug <gap reason="damage"/>marach taite fogmair 
+            </p>
+            <p xml:id="D3.22">
+               <w type="hw"><gap reason="damage"/>aem</w> dano .i. in cliath bis fon arb<ex>ur</ex> 
+            </p>
+            <p xml:id="D3.23">
+               <w type="hw"><gap reason="damage"/></w> .i. ca<ex>ch</ex> soc<ex>ru</ex>th no ca<ex>ch</ex> suid 
+            </p>
+            <p xml:id="D3.24">
+               <w type="hw"><gap reason="damage"/></w> .i. m<ex>ac</ex> luigdech laga m<ex>ic</ex> <gap reason="damage"/>cladhar f.f.l. liughairne 
+            </p>
+            <p xml:id="D3.25">
+               <w type="hw"><gap reason="damage"/></w> i mbi aidh<gap reason="damage"/>e lega .i. duillinna m ina bis i sed do deilliug<ex>ud</ex> na losa bid innib n 
+            </p>
+            <p xml:id="D3.26">
+               <w type="hw"><gap reason="damage"/>rg</w> .i.<gap reason="damage"/>lind. 
+            </p>
+            <p xml:id="D3.27">
+               <w type="hw">litor</w> .i. lob<ex>ur</ex> no ca<ex>ch</ex> <gap reason="damage"/>bar. 
+            </p>
+            <p xml:id="D3.28">
+               <w type="hw">lib<ex>er</ex></w> .i. saer. 
+            </p>
+            <p xml:id="D3.29">
+               <w type="hw">laegan</w> .i. <gap reason="damage"/>
+            </p>
+            <p xml:id="D3.30">
+               <w type="hw">lufe</w> 
+            </p>
+            <p xml:id="D3.31">
+               <w type="hw"><gap reason="damage"/>luirc</w> .i. suil. 
+            </p>
+            <p xml:id="D3.32">
+               <w type="hw">lucorb</w> .i. oirb locha 
+            </p>
+            <p xml:id="D3.33">
+               <w type="hw"><gap reason="damage"/>ail</w> 
+            </p>
+            <p xml:id="D3.34">
+               <w type="hw">lo</w> .i. <gap reason="damage"/>
+            </p>
+            <p xml:id="D3.35">
+               <w type="hw">laeb</w> .i. bo. 
+            </p>
+            <p xml:id="D3.36">
+               <w type="hw">laes</w> 
+            </p>
+            <p xml:id="D3.38">
+               <w type="hw"><gap reason="damage"/></w> .i. leth 
+            </p>
+            <p xml:id="D3.39">
+               <w type="hw">linm<gap reason="damage"/></w> <cb n="fol. 15vb"/>
+            </p>
+            <p xml:id="D3.40">
+               <w type="hw"><gap reason="damage"/></w> .i. ech. 
+            </p>
+            <p xml:id="D3.41">
+               <w type="hw">Marcmuil<ex>enn</ex></w> .i. muil<ex>enn</ex> imsui ech. 
+            </p>
+            <p xml:id="D3.42">
+               <w type="hw"><gap reason="damage"/>ri</w> .i. dorsaidh temrach ut dicitur <gap reason="damage"/>smuil fri mol ar ni anad side di <gap reason="damage"/>ed side taed ind taed ass 
+            </p>
+            <p xml:id="D3.43">
+               <w type="hw">Mil<gap reason="damage"/>dan</w> .i. mol cuitan .i. cuit moil ar is he a <gap reason="damage"/> do b<ex>er</ex>ta do. 
+            </p>
+            <p xml:id="D3.44">
+               <w type="hw">Monach</w> .i. clesamnach ut est <gap reason="damage"/>monuch. 
+            </p>
+            <p xml:id="D3.45">
+               <w type="hw">Manach</w> .i. onni is monacus .i. 
+            </p>
+            <p xml:id="D3.46">
+               <w type="hw"><gap reason="damage"/>cad</w> .i. oibriug lam man .i. lam. 
+            </p>
+            <p xml:id="D3.47">
+               <w type="hw">Mana</w> <gap reason="damage"/> feoil bruithi .i. manducando .i. o thomuilt 
+            </p>
+            <p xml:id="D3.48">
+               <w type="hw"><gap reason="damage"/></w> .i. leth .i. midbae .i. gr<ex>ai</ex>ne. 
+            </p>
+            <p xml:id="D3.49">
+               <w type="hw">Midbae</w> di- .i. leth <gap reason="damage"/>no lethuag<ex>ud</ex> fobith in torainn bis it<ex>er</ex> indala ben<gap reason="damage"/>
+            </p>
+            <p xml:id="D3.50">
+               <w type="hw">Mann</w> .i. uingi ut dicitur .uii. manna oir f<ex>or</ex>loisce. 
+            </p>
+            <p xml:id="D3.51">
+               <w type="hw">Mo</w> .i. mo ch ut dicitur do luid f<ex>er</ex> Mumhan hi c<ex>ri</ex>ch conn<ex>acht</ex> is f<ex>or</ex>sin cu<ex>air</ex>t <add>.i. inmbeced ł mecet</add> sin do- ro chuala fer m<ex>uman</ex> ingodra insin caillid it<ex>er</ex> u<ex>i</ex> neill 7 lu<ex>i</ex>gniu. foidis f<ex>er</ex> m<ex>uman</ex>. no<ex>men</ex> m<ex>a</ex>c becain dus cia romboth inni. do luid mo f<ex>i</ex>s. cia fairnicc ol f<ex>ir</ex> m<ex>uman</ex>. cuilenn comdoin coll c<ex>on</ex>a dib dur f<ex>e</ex>rsatt mol muil. uas boin blosar<gap reason="damage"/> 
+            </p>
+            <p xml:id="D3.52">
+               <w type="hw">Meichem</w> .i. ga llbre<ex>cht</ex> ut dicitur di me<ex>i</ex>chem <gap reason="damage"/>rad. 
+            </p>
+            <p xml:id="D3.53">
+               <w type="hw">Mestech</w> .i. cuntabartach. 
+            </p>
+            <p xml:id="D3.54">
+               <w type="hw">Mirinn</w> .i. gae ut est finn d<ex>er</ex>gaither muirne mblith. 
+            </p>
+            <p xml:id="D3.55">
+               <w type="hw">Mesi</w> .i. tualaing ut est is mesi ri caisil cip maigin ma tuc a cas. <add>.i. atros-</add> 
+            </p>
+            <p xml:id="D3.56">
+               <w type="hw">Mem</w> .i. pocc ut est a mem a meblug<ex>ud</ex>. 
+            </p>
+            <p xml:id="D3.57">
+               <w type="hw">Mele</w> .i. cap<ex>all</ex>. 
+            </p>
+            <p xml:id="D3.58">
+               <w type="hw">Milliuth</w> .i. mi silliuth .i. feghadh olc. 
+            </p>
+            <p xml:id="D3.59">
+               <w type="hw">Methel</w> .i. buanaidhe .i. oni is meto .i. boingim. 
+            </p>
+            <p xml:id="D3.60">
+               <w type="hw">Mulluch</w> .i. seiscend ut est o siagail oc tothlug<ex>ud</ex> car. Sli<ex>cht</ex> a da gae tre g<ex>ach</ex> mull<ex>ach</ex>. culluch <add>.i. loech</add> flesach ferach am<ex>al</ex> cairr im b<ex>er</ex>ar lamach tre c<ex>onn</ex>oll fann ferach. 
+            </p>
+            <p xml:id="D3.61">
+               <w type="hw">Melg</w> .i. as 7 melg .i. sugh fo bith aip<ex>erar</ex> melg fri cuirm .i.melg netha. 
+            </p>
+            <p xml:id="D3.62">
+               <w type="hw">Melg</w> .i. bas 7 is do rinn so ut est c<ex>ri</ex>n cach ala methus melgtemhe .i. is im- fil hic. 
+            </p>
+            <p xml:id="D3.63">
+               <w type="hw">Manadh</w> .i. sugh. 
+            </p>
+            <p xml:id="D3.64">
+               <w type="hw">Midluch</w> .i. medhonlux .i. lethlax. 
+            </p>
+            <p xml:id="D3.65">
+               <w type="hw">Muad</w> uasal ł <ex>air</ex>mitin. 
+            </p>
+            <p xml:id="D3.66">
+               <w type="hw">Mairbill</w> .i. mairis bellum .i. cath ł imeclo. 
+            </p>
+            <p xml:id="D3.67">
+               <w type="hw">Mithan</w> .i. miaims<ex>er</ex>. 
+            </p>
+            <p xml:id="D3.68">
+               <w type="hw">Men</w> .i. beul ut dicitur Coigne ger gonus daoine ni fr<ex>i</ex>the mara mairg toich tar roi rena aidhch<ex>i</ex> mena mic snama. 
+            </p>
+            <p xml:id="D3.69">
+               <w type="hw">Meisi</w> .i. aurdraighe <add>.i. aurdra<ex>cht</ex></add> ł aurcon ut dicitur sliab mesi don aurd<ex>r</ex>ighib ro dolba banuu do m<ex>a</ex>cuib mil<ex>ed</ex> .i. b<ex>en</ex> m<ex>ic</ex> c<ex>er</ex>matu. 
+            </p>
+            <p xml:id="D3.70">
+               <w type="hw">Maidhinn</w> .i. imerg ut dicitur Cuach diar mata di bregh bairind brath ndorar dia memdh atar maidhind. 
+            </p>
+            <p xml:id="D3.71">
+               <w type="hw">Mes roidhi</w> .i. nom<ex>en</ex> m<ex>ic</ex> dato. 
+            </p>
+            <p xml:id="D3.72">
+               <w type="hw">Morbi</w> .i. segainn. 
+            </p>
+            <p xml:id="D3.73">
+               <w type="hw">Moadh</w><gap reason="damage"/>cosc. 
+            </p>
+            <p xml:id="D3.74">
+               <w type="hw">Mucha</w> .i. sire<ex>cht</ex>. 
+            </p>
+            <p xml:id="D3.75">
+               <w type="hw">M</w> urunn .i. dobur<ex>cu</ex>. 
+            </p>
+            <p xml:id="D3.76">
+               <w type="hw">Mut</w> .i. cach <gap reason="damage"/>ge<ex>i</ex>r. 
+            </p>
+            <p xml:id="D3.77">
+               <w type="hw">Moth</w> .i. guth. 
+            </p>
+            <p xml:id="D3.78">
+               <w type="hw">Mengal</w> .i. anart ut est bid noud mengl<ex>ach</ex>. 
+            </p>
+            <p xml:id="D3.79">
+               <w type="hw">Muint<ex>er</ex></w> .i. clann. 
+            </p>
+            <p xml:id="D3.80">
+               <w type="hw">Muin</w> .i. menma .i. dimus ut est A log mo <gap reason="damage"/>is mo chelg marom gab muin mo gach mairg dom aruill ni<gap reason="damage"/>ł do dotad bainn ard. 
+            </p>
+         </div>
+      
+      
+      
+      </body>   
+   </text>
+</TEI>

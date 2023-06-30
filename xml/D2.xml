@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dúil Dromma Cetta, version D2</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1337 (H.3.18)</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>D. A. Binchy (ed.), Corpus Iuris Hibernici, 6 vols. (Dublin, 1978), II, 1069.21–1078.14</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+<div xml:id="D2">
+<p xml:id="D2.1">
+<w type="hw" lemma="bil 2">Bil</w> .i. soinmech. ut est biltene .i. tene thṡoinmeach 
+</p>
+<p xml:id="D2.2">
+<w type="hw" lemma="berr">Bearr</w> .i. gairit. ut dicitur bearr cach bel<ex>ach</ex> ben. 
+</p>
+<p xml:id="D2.3">
+<w type="hw" lemma="bir 2">Bir</w> .i. tipra. ut est biror .i. mong thiprat. 
+</p>
+<p xml:id="D2.5">
+<w type="hw" lemma="Birra">Birra</w> .i. in cheall for imad tiprat indi .i. tibratach. 
+</p>
+<p xml:id="D2.6">
+<w type="hw" lemma="bus 4">Bus</w> .i. bél. ut est tri bus .i. tri beil. 
+</p>
+<p xml:id="D2.7">
+<w type="hw" lemma="búan 2">Buan</w> .i. bonus. ut est geinidh búan o ambuan .i. maith 
+</p>
+<p xml:id="D2.8">
+<w type="hw" lemma="braccaille">Bracille</w> .i. brac lamh 7 cail coimmét .i. coimét láime. 
+</p>
+<p xml:id="D2.9">
+<w type="hw" lemma="bot 2">Bot</w> .i. tene. ut est bot aine ui luidech loisce{?}. 
+</p>
+<p xml:id="D2.10">
+<w type="hw" lemma="ba(i)slec 4">Baislec</w> .i. a baisilca .i. grec .i. æcl<ex>esi</ex>a .i. tech. 
+</p>
+<p xml:id="D2.11">
+<w type="hw" lemma="buiresc">Bairesc</w> .i. forceann mbratha 
+</p>
+<p xml:id="D2.12">
+<w type="hw" lemma="briar">Brier</w> .i. dealg co tocbháil fora chinn .i. brí tulach. 
+</p>
+<p xml:id="D2.13">
+<w type="hw" lemma="buicell">Buitella</w> .i. eill mbo .i. boda a aicned .i. borb. 
+</p>
+<p xml:id="D2.14">
+<w type="hw" lemma="blúsar">Blusur</w> .i. nuall ard égóir, ut Flann <add place="margin"> .r.</add> Uisci sleibhe nim sasadh. coibhchi gu ngéire ngnusa. deogh daim duinn techtus blusar, bes lusar cinis lusa. 
+</p>
+<p xml:id="D2.15">
+<w type="hw" lemma="bras (cmpd)">Brasach</w> .i. bras-odhach .i. óa mora lethna lee .i. cluasa. 
+</p>
+<p xml:id="D2.16">
+<w type="hw" lemma="bréisiu">Breisidh</w> .i. diubairsi. ut est aornait a caineth laidhgnein. Dethbir <add place="margin"> .r.</add> dā ce iuntais, imma brat di breisiu, ni ḟaghadh failti laidcnen clamh. cidh é marus tar meisi. 
+</p>
+<p xml:id="D2.17">
+<w type="hw" lemma="Bé Néit">Bé</w> néit .i. néit nomen uiri, nemon a bean, ba neimhnech in lanamain. 
+</p>
+<p xml:id="D2.18">
+<w type="hw" lemma="bang 3">Baṅg</w> .i. cnú. ut est crobang 
+</p>
+<p xml:id="D2.19">
+<w type="hw" lemma="bacur">Bachar</w> .i. mucderc .i. bruches imitiaghait muca. 
+</p>
+<p xml:id="D2.20">
+<w type="hw" lemma="borr">Borr</w> .i. a borra .i. eilifaint.<cb n="p. 633b"/> 
+</p>
+<p xml:id="D2.21">
+<w type="hw" lemma="baiscell">Boscell</w> .i. gealtán. 
+</p>
+<p xml:id="D2.22">
+<w type="hw" lemma="beillid">Billid</w> .i. loc. 
+</p>
+<p xml:id="D2.23">
+<w type="hw" lemma="belletus">Billitus</w> .i. loccath. 
+</p>
+<p xml:id="D2.24">
+<w type="hw" lemma="bill">Bill</w> .i. lobar. 
+</p>
+<p xml:id="D2.25">
+<w type="hw" lemma="birbill">Birbill</w> .i. brat. 
+</p>
+<p xml:id="D2.26">
+<w type="hw" lemma="ballán">Ballan</w> .i. ian billi .i. lobuir. 
+</p>
+<p xml:id="D2.27">
+<w type="hw" lemma="brí 1">Bri</w> .i. tulach. 
+</p>
+<p xml:id="D2.28">
+<w type="hw" lemma="bríán">Brian</w> .i. tulachán. 
+</p>
+<p xml:id="D2.29">
+<w type="hw" lemma="bladrad">Bladhreth</w> .i. buaidhred. 
+</p>
+<p xml:id="D2.30">
+<w type="hw" lemma="billóc">Bilóc</w> .i. tiagh lobuir. 
+</p>
+<p xml:id="D2.31">
+<w type="hw" lemma="bran 1 (cmpd)">Branorgain</w> .i. branguin dogní fiach. 
+</p>
+<p xml:id="D2.32">
+<w type="hw" lemma="bertrach">Bertrech</w> .i. aire no fidchell. 
+</p>
+<p xml:id="D2.33">
+<w type="hw" lemma="buiresc">Bairesc</w> .i. forcenn mbratha. 
+</p>
+<p xml:id="D2.34">
+<w type="hw" lemma="bóige">Boige</w> .i. ballan .i. coire sainnti. 
+</p>
+<p xml:id="D2.35">
+<w type="hw" lemma="bath 2">Bath</w> .i. saile. 
+</p>
+<p xml:id="D2.36">
+<w type="hw" lemma="bocthach">Bocthach</w> .i. moin no seiscenn. 
+</p>
+<p xml:id="D2.37">
+<w type="hw" lemma="bres 1 c">Breis</w> .i. dibruindeth. 
+</p>
+<p xml:id="D2.38">
+<w type="hw" lemma="búas 1 b">Bues</w> .i. sofis. 
+</p>
+<p xml:id="D2.39">
+<w type="hw" lemma="buasamain">Buasamain</w> .i. toltnaighthe. 
+</p>
+<p xml:id="D2.40">
+<w type="hw" lemma="báire 2">Bar</w> .i. mair. 
+</p>
+<p xml:id="D2.41">
+<w type="hw" lemma="bár">Bar</w> .i. suí. 
+</p>
+<p xml:id="D2.42">
+<w type="hw" lemma="breth (g)">Breut</w> .i. fuidell. 
+</p>
+<p xml:id="D2.43">
+<w type="hw" lemma="boarucht">Boarucht</w> .i. banna .c.guine. 
+</p>
+<p xml:id="D2.44">
+<w type="hw" lemma="búas 1 b">Buss</w> .i. aí. 
+</p>
+<p xml:id="D2.45">
+<w type="hw" lemma="Bergna">Bergna</w> .i. boind. 
+</p>
+<p xml:id="D2.46">
+<w type="hw" lemma="bannach">Bamach</w> .i. sinnach. 
+</p>
+<p xml:id="D2.47">
+<w type="hw" lemma="baccat">Baccat</w> .i. otrach. 
+</p>
+<p xml:id="D2.48">
+<w type="hw" lemma="bacat">Baccat</w> .i. braighe. 
+</p>
+<p xml:id="D2.49">
+<w type="hw" lemma="bol">Bol</w> .i. ecis. bud a reim. 
+</p>
+<p xml:id="D2.50">
+<w type="hw" lemma="Boígliu">Boighliu</w> .i. buachail. 
+</p>
+<p xml:id="D2.51">
+<w type="hw" lemma="barn">Bárn</w> .i. rechtaire.<cb n="p. 633c"/> 
+</p>
+<p xml:id="D2.52">
+<w type="hw" lemma="cathlac">Catlach</w> .i. cathoilucus. grec .i. uineuersalis a laitin .i. an airbertach .i. inpite. 
+</p>
+<p xml:id="D2.53">
+<w type="hw" lemma="cáid 1">Cadh</w> .i. a greco cadus .i. s<ex>an</ex>c<ex>tu</ex>s. 
+</p>
+<p xml:id="D2.54">
+<w type="hw" lemma="cais 1">Cass</w> .i. caingen .i. a cuasa. 
+</p>
+<p xml:id="D2.55">
+<w type="hw" lemma="caingel">Caingella</w> .i. cancella .i. cliath ut dicitur crann caingel .i. crand cliath .i. cliatha isin crunnsin .i. iter na cleirchibh 7 na hocu fo cosmailis rombi fial tempuill, ar is cliath a ainm conidh focrarae claraigh. ut dicitur cro caingel .i. cro cliath. muna bé cleithiu fair. 
+</p>
+<p xml:id="D2.56">
+<w type="hw" lemma="cléithe">Cleithiu</w> .i. á .i. mullach cliath. 
+</p>
+<p xml:id="D2.57">
+<w type="hw" lemma="celt 1">Celt</w> .i. uestis. ut dicitur decelt .i. brat 7 brat lene. 
+</p>
+<p xml:id="D2.58">
+<w type="hw" lemma="celtair 1">Celtair</w> .i. etach núa .i. ni maith contui co tucar a loth ass. <add place="margin-top"> ł ar a la</add>
+</p>
+<p xml:id="D2.59">
+<w type="hw" lemma="cumcomla">Cumcumla</w> .i. baile sentæ laisna geinti a comriceth días. 
+</p>
+<p xml:id="D2.60">
+<w type="hw" lemma="cuifre">Cuifre</w> .i. coinnircle no comsoilgi. ut dicitur <add>.i. m.</add> muna dóa cuifre. 
+</p>
+<p xml:id="D2.61">
+<w type="hw" lemma="fern 3">Cusfer</w> nóe .i. cach cosmail is maith dia imradh. 
+</p>
+<p xml:id="D2.62">
+<w type="hw" lemma="caimper">Camper</w> .i. comlonnithi .i. fer is gnath ag imghuin i cain. 
+</p>
+<p xml:id="D2.63">
+<w type="hw" lemma="caimprius *">Campus</w> .i. magh, quasi campus. 
+</p>
+<p xml:id="D2.64">
+<w type="hw" lemma="cáe d">Cae</w> .i. tech. ut dicitur ceardcae .i. tech cearda. 
+</p>
+<p xml:id="D2.65">
+<w type="hw" lemma="crescae">Créscae</w> .i. tech mbec nderoil. <cb n="p. 633d"/>
+</p>
+<p xml:id="D2.66">
+<w type="hw" lemma="cail 1">Caile</w> .i. coimet. ut dicitur caile .i. bean coiméta. 
+</p>
+<p xml:id="D2.67">
+<w type="hw" lemma="cúl">Cul</w> .i. carput. 
+</p>
+<p xml:id="D2.68">
+<w type="hw" lemma="culmaire">Culmaire</w> .i. sær denma carput. 
+</p>
+<p xml:id="D2.69">
+<w type="hw" lemma="cicht">Cicht</w> .i. gebere .i. rinnaire. 
+</p>
+<p xml:id="D2.70">
+<w type="hw" lemma="cacht 1">Cacht</w> .i. cumul .i. bantraill. 
+</p>
+<p xml:id="D2.71">
+<w type="hw" lemma="cútha(i)l">Cuthal</w> .i. tlaith. ut est in fili <add place="margin"> .r.</add> Diam cuthal craidhe tlaith. rombathadh for mortuinn muaidh. madain mir dochoidh ba moch. graidh maic lir ar loch fa tuaidh. 
+</p>
+<p xml:id="D2.72">
+<w type="hw" lemma="clóe 1">Cló</w> .i. gaeth. ut est curcaibh tar sal septus cloa .i. seitius gaeth. 
+</p>
+<p xml:id="D2.73">
+<w type="hw" lemma="coicell">Coiceill</w> .i. imradhuth. ut est i mbreithir, a coiceill, i ngnim
+</p>
+<p xml:id="D2.74">
+<w type="hw" lemma="coic 2">Coic</w> .i. comairli. ut ailius dobruicim cuan 7 dombruc, fo bithin is inann cuic donuc 7 dotnuice. 
+</p>
+<p xml:id="D2.75">
+<w type="hw" lemma="crú 1">Cró</w> .i. bás. ut dixit Cormac. Pecadh buan oll brath cach bí. nirob flaith im cri com cro. im daennacht a maic dé bí. cid tú bu rí nibu ró. 
+</p>
+<p xml:id="D2.76">
+<w type="hw" lemma="cuindbech">Cuinnfech</w> .i. fás .i. imechtar seiche laigh ar is fas ón. ut dixit cuinnbech ni co .c. churu. 
+</p>
+<p xml:id="D2.77">
+<w type="hw" lemma="cutal">Cutall</w> .i. fas. 
+</p>
+<p xml:id="D2.78">
+<w type="hw" lemma="cutal">Cuetoll</w> .i. cnú chaech. 
+</p>
+<p xml:id="D2.79">
+<w type="hw" lemma="cros">Cros</w> .i. onní is crux. 
+</p>
+<p xml:id="D2.80">
+<w type="hw" lemma="cochmae">Cochmen</w> .i. ballán 
+</p>
+<p xml:id="D2.81">
+<w type="hw" lemma="cochmíne">Cochmeine</w> .i. balláin beacca. 
+</p>
+<p xml:id="D2.82">
+<w type="hw" lemma="cennaithe">Cinaithi</w> .i. cinadh aithi .i. luagh a cinaidh in duine. 7rl 
+</p>
+<p xml:id="D2.83">
+<w type="hw" lemma="coindelg">Cuindiulg</w> .i. cumaidh da brathas for ænorba; Cuindiulg di<ex>diu</ex> .i. comaith, ar ní ḟetar cia dé fofaiceba alaile 
+</p>
+<p xml:id="D2.84">
+<w type="hw" lemma="coindfe">Cuindisem</w> .i. coindfe arisma .i. dun co trebaib.<cb n="p. 634a"/> 
+</p>
+<p xml:id="D2.85">
+<w type="hw" lemma="corc 3">Corc</w> .i. clann. ut dicitur Corco Luighdech .i. clann .l. luide 
+</p>
+<p xml:id="D2.86">
+<w type="hw" lemma="crésen">Cresen</w> .i. cleirech .i. creando 
+</p>
+<p xml:id="D2.87">
+<w type="hw" lemma="coibche 1">Coibchi</w> .i. cennach. ut est tulach na coibche. 
+</p>
+<p xml:id="D2.88">
+<w type="hw" lemma="cruith">Cruith</w> .i. glic ł crodha. ut dixit <add place="margin"> .r.</add> A mail duin, a natberim friut a ruin, imatrubairt cailg co cruich, rodamar do lobar buith. 
+</p>
+<p xml:id="D2.89">
+<w type="hw" lemma="coach">Coach</w> .i. ruathar. ut est coach diarmada do bri baraind. 
+</p>
+<p xml:id="D2.90">
+<w type="hw" lemma="celtair 2">Celtair</w> .i. gæ. ut dixit diceltair .i. crann cin gæ. 
+</p>
+<p xml:id="D2.91">
+<w type="hw" lemma="coimgne">Coimgne</w> .i. fis cach rí robui a comaimsir fria cheile .i. comgheine. 
+</p>
+<p xml:id="D2.92">
+<w type="hw" lemma="coth">Coth</w> .i. biadh. ut est cothugud na nindile. 
+</p>
+<p xml:id="D2.93">
+<w type="hw" lemma="cotach 1">Cothach</w> .i. cæmna. 
+</p>
+<p xml:id="D2.94">
+<w type="hw" lemma="creithir">Creitir</w> .i. airdech, a cratera <add>.i. lan</add>. ut dixit dodaileth fin i cretir .i. fin i nairdig. 
+</p>
+<p xml:id="D2.95">
+<w type="hw" lemma="cob">Cob</w> .i. buaidh. 
+</p>
+<p xml:id="D2.96">
+<w type="hw" lemma="cobthai">Cobtha</w> .i. cæmu. ut est deg a gena rochæm on cobtha .i. buadhchu .i. coemu. 
+</p>
+<p xml:id="D2.97">
+<w type="hw" lemma="caimmse">Caimsi</w> .i. leine .i. a camisia. 
+</p>
+<p xml:id="D2.98">
+<w type="hw" lemma="cuin(n)siu">Coinnsi</w> .i. drech. ut dixit cearndadon cidh cnedach a coinnsi. 
+</p>
+<p xml:id="D2.99">
+<w type="hw" lemma="cathach 3">Caichidh</w> .i. anruth <cb n="p. 634b"/> bís oc digail greisi a coiccrich. 
+</p>
+<p xml:id="D2.100">
+<w type="hw" lemma="coinsiud">Coinsiud</w> .i. leastar coimsightha coimoil. 
+</p>
+<p xml:id="D2.101">
+<w type="hw" lemma="clumad">Clumat</w> .i. dochtad. ut dixit, baeth cor clmtar cethrechtaibh. 
+</p>
+<p xml:id="D2.102">
+<w type="hw" lemma="crothal">Crothal</w> .i. croch adhnuall dognithar i naimsir in crochta. 
+</p>
+<p xml:id="D2.103">
+<w type="hw" lemma="cú (cmpd)">Conel</w> .i. ben teit i cuanricht. 
+</p>
+<p xml:id="D2.104">
+<w type="hw" lemma="Cíanach">Cianach</w> .i. ingin fergusa forcraidh. Brigh ambui a mathair. 
+</p>
+<p xml:id="D2.105">
+<w type="hw" lemma="cumla">Cumla</w> .i. laithi fleidh. 
+</p>
+<p xml:id="D2.106">
+<w type="hw" lemma="cingciges">Cingis</w> .i. qinqagisiumus, 7 subaudiuit dieis, in coecmadh lá o chaisc. 
+</p>
+<p xml:id="D2.107">
+<w type="hw" lemma="Críth Gablach">Crich</w> gablach .i. aighech .i. arinní concerta gabla na ngradh. 
+</p>
+<p xml:id="D2.108">
+<w type="hw" lemma="cuirrech">Currach</w> .i. a curribus .i. o cairpthib. 
+</p>
+<p xml:id="D2.109">
+<w type="hw" lemma="cáinte">Cainti</w> .i. o coin, ar is inann dan frisgniat .i. aursaire. 
+</p>
+<p xml:id="D2.110">
+<w type="hw" lemma="cepóc">Cébboche</w> .i. ceu bache .i. dia fina .i. ba hé sollomain bachi leo-som samon; ceu bache di<ex>diu</ex> .i. mórúar a bachi, ł dirsain a bache. 
+</p>
+<p xml:id="D2.111">
+<w type="hw" lemma="crábud">Crabedh</w> .i. im fer, cró imbí riaghlad ar día. 
+</p>
+<p xml:id="D2.112">
+<w type="hw" lemma="curson">Curson</w> .i. suí. 
+</p>
+<p xml:id="D2.113">
+<w type="hw" lemma="cadb *">Cadhb</w> .i. cain. 
+</p>
+<p xml:id="D2.114">
+<w type="hw" lemma="cartóit">Cardot</w> .i. craibdech 
+</p>
+<p xml:id="D2.115">
+<w type="hw" lemma="cast">Cast</w> .i. genmnaid. <cb n="p. 634c"/>
+</p>
+<p xml:id="D2.116">
+<w type="hw" lemma="causal">Causul</w> .i. rinne. 
+</p>
+<p xml:id="D2.117">
+<w type="hw" lemma="capall 3">Capull</w> .i. lestar nuisci 
+</p>
+<p xml:id="D2.118">
+<w type="hw" lemma="cim 1">Cim</w> .i. airgit. 
+</p>
+<p xml:id="D2.119">
+<w type="hw" lemma="cim 2">Cim</w> .i. cuing. 
+</p>
+<p xml:id="D2.120">
+<w type="hw" lemma="cil">Cil</w> .i. cutrime. 
+</p>
+<p xml:id="D2.121">
+<w type="hw" lemma="cuife">Cufe</w> .i. tulcumae. 
+</p>
+<p xml:id="D2.122">
+<w type="hw" lemma="cuime 2">Cume</w> .i. crǽs. 
+</p>
+<p xml:id="D2.123">
+<w type="hw" lemma="crett">Cret</w> .i. carpat. 
+</p>
+<p xml:id="D2.124">
+<w type="hw" lemma="cám 2">Cainim</w> .i. cainti.
+</p>
+<p xml:id="D2.125">
+<w type="hw" lemma="car 2">Car</w> .i. cach mbrisc. 
+</p>
+<p xml:id="D2.126">
+<w type="hw" lemma="Cera">Cera</w> .i. ainm don daghda. 
+</p>
+<p xml:id="D2.127">
+<w type="hw" lemma="cerb 1">Cerb</w> .i. airgid. 
+</p>
+<p xml:id="D2.128">
+<w type="hw" lemma="cúachnaidm">Cuachnaidm</w> .i. tuadhnaidm. Cuachdunadh .i. tuaghdunadh. 
+</p>
+<p xml:id="D2.129">
+<w type="hw" lemma="cuimlecht">Cuimliucht</w> .i. cach suiligh. 
+</p>
+<p xml:id="D2.130">
+<w type="hw" lemma="cuicliunn">Cuicliunn</w> .i. u. lethuingi. 
+</p>
+<p xml:id="D2.131">
+<w type="hw" lemma="caut">Caut</w> .i. cenn. 
+</p>
+<p xml:id="D2.132">
+<w type="hw" lemma="crimall">Crumall</w> .i. fæbar. 
+</p>
+<p xml:id="D2.133">
+<w type="hw" lemma="cícce">Coicce</w> .i. feóil. 
+</p>
+<p xml:id="D2.134">
+<w type="hw" lemma="conar">Conar</w> .i. cen fer, ł cen ár. 
+</p>
+<p xml:id="D2.135">
+<w type="hw" lemma="coscath">Coscadh</w> .i. gú-scath 
+</p>
+<p xml:id="D2.136">
+<w type="hw" lemma="cúad">Cuadh</w> .i. fidhchuadh. 
+</p>
+<p xml:id="D2.137">
+<w type="hw" lemma="clen">Clen</w> .i. toil.
+</p>
+<p xml:id="D2.138">
+<w type="hw" lemma="dag 1">Dagh</w> .i. maith; droch .i. olc. ut est droch do druithib, dagh do daghaibh. 
+</p>
+<p xml:id="D2.139">
+<w type="hw" lemma="droch 2">Droch</w> d<ex>an</ex>o .i. roth carpait. ut dixit Mor Muman <add place="margin"> .r.</add> IS annamh iar nimrim, iter chaisil 7 loch, inid aithend finnabhrach, ferass arán frim da da droch. <cb n="p. 634d"/>
+</p>
+<p xml:id="D2.140">
+<w type="hw" lemma="deach">Déach</w> .i. défuach .i. comrac da sillæb .i. traig; 7 gip lín sillæbh conrisidh and iar sin, is deach a ainm beos. 
+</p>
+<p xml:id="D2.141">
+<w type="hw" lemma="dibeóil">Dibeóil</w> .i. cin urlabra. 
+</p>
+<p xml:id="D2.142">
+<w type="hw" lemma="dein *">Dein</w> .i. tiprat .i. dí-domhuin .i. adhbul a doimne. 
+</p>
+<p xml:id="D2.143">
+<w type="hw" lemma="día 4">Die</w> .i. cuí. ut dixit Colman a mbarn<ex>ad</ex> cuimine Ni maidh craidhe ce chie, mairbh teime coch bé a die. innar eimdetar iar clíu, oa beoa iar cuiminiu. 
+</p>
+<p xml:id="D2.144">
+<w type="hw" lemma="duibel(l)">Dubell</w> .i. dub dia neibil .i. saighnen. 
+</p>
+<p xml:id="D2.145">
+<w type="hw" lemma="doilgius">Doilches</w> .i. dlomaith chess naineolais connacha bí fair. 
+</p>
+<p xml:id="D2.146">
+<w type="hw" lemma="darba 2">Darb</w> .i. cumal .i. bantraill. 
+</p>
+<p xml:id="D2.147">
+<w type="hw" lemma="daithen">Daithen</w> .i. soillsi ł taithnem. ut dixit roghabh daithne guth alla .i. soillsiug<ex>ud</ex>. 
+</p>
+<p xml:id="D2.148">
+<w type="hw" lemma="doglus">Doghlus</w> .i. drochsoillsi .i. glus soillsi iarsanní dombeir nech i cuma 7 in bron fora suile. 
+</p>
+<p xml:id="D2.149">
+<w type="hw" lemma="dúar">Duar</w> .i. rann. ut dixit cia duar donesa .n<ex>ath</ex>.
+</p>
+<p xml:id="D2.150">
+<w type="hw" lemma="dorbc(e)as">Dorbchass</w> .i. debaid no dormainecht. 
+</p>
+<p xml:id="D2.151">
+<w type="hw" lemma="dormaine 1">Dormuine</w> .i. doar-duine. 
+</p>
+<p xml:id="D2.152">
+<w type="hw" lemma="dor 2">Dor</w> .i. duini muine ł muirne 
+</p>
+<p xml:id="D2.153">
+<w type="hw" lemma="di- 1">Di</w>, cach la gein .i. ar diultadh bís, in cein .ii. is aidhbliugud. 
+</p>
+<p xml:id="D2.154">
+<w type="hw" lemma="díbad">Dibath</w> .i. adhbul-bás .i. iarsaní na facaib nech dia eis. 
+</p>
+<p xml:id="D2.155">
+<w type="hw" lemma="diamuin">Dimain</w> .i. idhan .i. main diaga. <cb n="p. 635a"/>
+</p>
+<p xml:id="D2.156">
+<w type="hw" lemma="deidel">Dedeil</w> .i. lægh bó. ut est finn dx. deinech. Ailigh isind cuitich imnid int ath oca ruibe airli. atbat denend melthe deil. 
+</p>
+<p xml:id="D2.157">
+<w type="hw" lemma="dath 4">Dath</w> .i. uaire. ut dixit dath nonmolfa .i. uair nonmolum. 
+</p>
+<p xml:id="D2.158">
+<w type="hw" lemma="daithmed *">Dath</w> ined .i. uair aisneidh. 
+</p>
+<p xml:id="D2.159">
+<w type="hw" lemma="dobrach 2">Dobrach</w> .i. fliuchaidhe, ut dixit Fear Muman i nduain in meirlid. <add place="margin"> .r.</add> Ulcha dobrach i ndomnach. a luan a mairt mac feirnech. fo btraach senrech soimlech, sruamach maighnech mil merlech. 
+</p>
+<p xml:id="D2.160">
+<w type="hw" lemma="dobrit(h)">Dobrith</w> .i. dobur 7 itha .i. uisce 7 arbar. 
+</p>
+<p xml:id="D2.161">
+<w type="hw" lemma="dífoichid">Difoicidh</w> .i. cin foichidh naccrai. 
+</p>
+<p xml:id="D2.162">
+<w type="hw" lemma="dínim">Deinim</w> .i. mebal ł aisc, ut dicitur nirbu deinim .i. nirbu mebul. 
+</p>
+<p xml:id="D2.163">
+<w type="hw" lemma="dísert">Disert</w> .i. desertum .i. derechtæ. 
+</p>
+<p xml:id="D2.164">
+<w type="hw" lemma="daig">Daigh</w> .i. tene .i. inghgnis
+</p>
+<p xml:id="D2.165">
+<w type="hw" lemma="discell">Deiscell</w> .i. debaidh .i. ciall diss. 
+</p>
+<p xml:id="D2.166">
+<w type="hw" lemma="díburdud">Diburduth</w> .i. bru eitiudh broc dethha. Dibrud di<ex>diu</ex> .i. diebru eitiudh .i. ni araghara in mbroc na debtha. 
+</p>
+<p xml:id="D2.167">
+<w type="hw" lemma="deistiu">Deistiudh</w> .i. doruethad. ut dixit diam deistenaib athair andan .i. masa ingin nama doruairteit di cloinn in athar. 
+</p>
+<p xml:id="D2.168">
+<w type="hw" lemma="duillend">Duilleán</w> .i. gæ. ut dixit Fer Muman. <add place="margin"> .r.</add> IS dana drech daimine, iter ocaib eirichtæ. is a sithmbruigh <cb n="p. 635b"/> suidithe, leicidh duilleán ndeilighthi. 
+</p>
+<p xml:id="D2.169">
+<w type="hw" lemma="dallbach 2">Dallbach</w> .i. airbhire tre cuibhdhis, 7 ni fes cia da ndentar .i. dall-fuach. 
+</p>
+<p xml:id="D2.170">
+<w type="hw" lemma="debroth">Debrath</w> .i. brath innsce. Debrath di<ex>diu</ex> .i. dei labr<add place="infralinear"> a</add>th. 
+</p>
+<p xml:id="D2.171">
+<w type="hw" lemma="dígas">Diggais</w> .i. di-coiss .i. ni indula do coiss. 
+</p>
+<p xml:id="D2.172">
+<w type="hw" lemma="dírím">Dirim</w> .i. reim tire, ł diarim. 
+</p>
+<p xml:id="D2.173">
+<w type="hw" lemma="díaisc">Diaissc</w> .i. ni aussu aisc dé. 
+</p>
+<p xml:id="D2.174">
+<w type="hw" lemma="der">Der</w> .i. ingin. 7 ainder .i. bean. ut est der 7 ainder. 
+</p>
+<p xml:id="D2.175">
+<w type="hw" lemma="der-">Der</w> .i. adhbal. ut dicitur dermár .i. adhbul-mór. 
+</p>
+<p xml:id="D2.176">
+<w type="hw" lemma="domanchess">Domanchess</w> .i. mainchess bo, ar is coitcheann dicheiniul aní as bóss q<ex>uon</ex>dam{?}. 
+</p>
+<p xml:id="D2.177">
+<w type="hw" lemma="dorblus">Dorblus</w> .i. quasi dobur-lux .i. solus dorchu .i. iterscaradh læi 7 aidche.
+</p>
+<p xml:id="D2.178">
+<w type="hw" lemma="dedól">Dédol</w> similiter .i. de .i. laithi. Dol .i. dorcha .i. solus dolus .i. dubia lúx. 
+</p>
+<p xml:id="D2.179">
+<w type="hw" lemma="dorte">Dorthe</w> .i. doltach. 
+</p>
+<p xml:id="D2.180">
+<w type="hw" lemma="dobur 1">Dobar</w> .i. duabuais. 
+</p>
+<p xml:id="D2.181">
+<w type="hw" lemma="díing">Ding</w> .i. decmaic. 
+</p>
+<p xml:id="D2.182">
+<w type="hw" lemma="dom">Doim</w> liac .i. teghais chlach 
+</p>
+<p xml:id="D2.183">
+<w type="hw" lemma="do-oggell">Diucliter</w> .i. crenaider. 
+</p>
+<p xml:id="D2.184">
+<w type="hw" lemma="donn 2">Donn</w> .i. rí. 
+</p>
+<p xml:id="D2.185">
+<w type="hw" lemma="dee 3">Dée</w> .i. screpal. 
+</p>
+<p xml:id="D2.186">
+<w type="hw" lemma="deiche">Deche</w> .i. déde. 
+</p>
+<p xml:id="D2.187">
+<w type="hw" lemma="deimdel*">Deindil</w> .i. trebar. 
+</p>
+<p xml:id="D2.188">
+<w type="hw" lemma="da 1">Doe</w> duine .i. dechduine. 
+</p>
+<p xml:id="D2.189">
+<w type="hw" lemma="daif">Daif</w> .i. deogh. 
+</p>
+<p xml:id="D2.190">
+<w type="hw" lemma="druim(m) (cmpd)">Druimmden</w> .i. ind irmeimint. 
+</p>
+<p xml:id="D2.191">
+<w type="hw" lemma="demal">Demal</w> .i. deman. 
+</p>
+<p xml:id="D2.192">
+<w type="hw" lemma="Deimne *">Deimre</w> .i. din amrae. <cb n="p. 635c"/>
+</p>
+<p xml:id="D2.193">
+<w type="hw" lemma="eimde">Emde</w> .i. fomnae. no bith do menma. ut dixit <add place="margin"> .r.</add> A mic ni maith an dogní, innredh thire muscraidhe. emde na tairset ócca, duib tíre da ghlas fóta. 
+</p>
+<p xml:id="D2.194">
+<w type="hw" lemma="imscing">IMsging</w> .i. tech bec a talla imdai. 
+</p>
+<p xml:id="D2.195">
+<w type="hw" lemma="airchaire">IRchaire</w> .i. iarchairdius .i. cara écnairce. ut dixit IRdar cach finecar. 
+</p>
+<p xml:id="D2.196">
+<w type="hw" lemma="indbe">INnbe</w> .i. inne caelan .i. biadh ninnibh .i. isna caelanaibh. 
+</p>
+<p xml:id="D2.197">
+<w type="hw" lemma="intliucht">Indtliucht</w> .i. latine .i. intellectus .i. tuicsin. 
+</p>
+<p xml:id="D2.198">
+<w type="hw" lemma="inidil">Inithil</w> .i. inmedonach .i. intreb tige i medon. 
+</p>
+<p xml:id="D2.199">
+<w type="hw" lemma="indlat">Indlat</w> .i. lat oní is labo .i. dognim. Indlat di .i. diundach ninn .i. petum 7 manum. 
+</p>
+<p xml:id="D2.200">
+<w type="hw" lemma="indile">Indtile</w> tire .i. inet i talla in comarba. Indtile da<ex>no</ex> .i. leastar mbec i talla digh. 
+</p>
+<p xml:id="D2.201">
+<w type="hw" lemma="íath 1">Iath</w> nanann .i. eiriu .i. anu mater deorum, ut geintileis fingunt. 
+</p>
+<p xml:id="D2.202">
+<w type="hw" lemma="imbas 1">IMbass</w> .i. dicetul foceird in fili ina bosa, 7 contuil iarum 7 a di bhois ime dí leicniu co tabanar dó ina codlud inní is áil do ina codlud. Ni dentar nach daigh daigh focuirdís demna occa. 
+</p>
+<p xml:id="D2.203">
+<w type="hw" lemma="ingraide">Ingrege</w> .i. erge indi sa tir. <cb n="p. 635d"/>
+</p>
+<p xml:id="D2.204">
+<w type="hw" lemma="in(n)recht">Innrecht</w> .i. comdiubairt ł nemrecht.. ut dicitur Indrecht fir fiadhain. 7rl.
+</p>
+<p xml:id="D2.205">
+<w type="hw" lemma="íarus">Iarus</w> .i. iartar. ut dicitur iarfiss. 7rl.
+</p>
+<p xml:id="D2.206">
+<w type="hw" lemma="escland">Esclond</w> .i. uisci luath eistibh .i. sisiub luath.
+</p>
+<p xml:id="D2.207">
+<w type="hw" lemma="inbleoga(i)n">Inblegon</w> .i. in-toxul .i. athgabail gabhus in trebaire do fis fine do gabail a cinaidh in cintaidh co rotoxla-sidhe arin cintach. 
+</p>
+<p xml:id="D2.208">
+<w type="hw" lemma="in(n)tech 2">Intech</w> .i. s., conaire. 
+</p>
+<p xml:id="D2.209">
+<w type="hw" lemma="lés 1a">Loes</w> .i. soillsi. idem 7 les. 
+</p>
+<p xml:id="D2.210">
+<w type="hw" lemma="lárac">Laarg</w> .i. gabul. ut est ath da laarg .i. da gabul. 
+</p>
+<p xml:id="D2.211">
+<w type="hw" lemma="lang b">Lang</w> .i. brég no mebhul, ut dixit Torpaidh; Bes do langaibh linibh ciall. grian do taithneth tar aigh uar. direch ndet fri saighe sét. 7 bréc na briathar mbuain. 
+</p>
+<p xml:id="D2.212">
+<w type="hw" lemma="locfiach">Locfiach</w> .i. comsuididhugh o laitin 7 o gaeidilig .i. locax 7 fiach .i. fiach labar. 
+</p>
+<p xml:id="D2.213">
+<w type="hw" lemma="lú">Lú</w> .i. cach mbec. ut est laulaegh .i. l. mbec. 
+</p>
+<p xml:id="D2.214">
+<w type="hw" lemma="lú">Lau</w> .i. olc. ut dicitur ni len lú lesugud .i. ni len olc cia tecma olc ocin lesugud. 
+</p>
+<p xml:id="D2.215">
+<w type="hw" lemma="lem 2">Lem</w> cach maeth. ut est leamnacht .i. lacht maeth. 
+</p>
+<p xml:id="D2.216">
+<w type="hw" lemma="lés 1d">Leuis</w> .i. imdergadh. 
+</p>
+<p xml:id="D2.217">
+<w type="hw" lemma="lann 1">Lann</w> .i. urghabail .i. tlog no buinne dognithar a leastar uma ł airgit. ut dicitur cuach co ndibh lannaibh. <cb n="p. 636a"/>
+</p>
+<p xml:id="D2.218">
+<w type="hw" lemma="luchtar">Luchtar</w> .i. coiti bis for uisci. 
+</p>
+<p xml:id="D2.219">
+<w type="hw" lemma="lían">Lían</w> .i. ailgen. ut est 
+</p>
+<p xml:id="D2.220">
+<w type="hw" lemma="líanchar">liancar</w> .i. carait ailgen 7 condarcle. 
+</p>
+<p xml:id="D2.221">
+<w type="hw" lemma="Lugnasad">Lughnasa</w> .i. snassad ł accobuir no gnais. 
+</p>
+<p xml:id="D2.222">
+<w type="hw" lemma="Lugnasad">Lughnasa</w> .i. nassadh logha, ar is lugh doroiscela aenach i marach taiti foghmuir. 
+</p>
+<p xml:id="D2.223">
+<w type="hw" lemma="láem c">Loem</w> .i. aimsir. 
+</p>
+<p xml:id="D2.224">
+<w type="hw" lemma="láem a">Laem</w> da<ex>no</ex> .i. in chliath bis fon arbar aga tiradh. 
+</p>
+<p xml:id="D2.225">
+<w type="hw" lemma="Liugairne">Lighuirne</w> .i. nomen uiri .i. mac Luighdech Lagha maic Mogha Nuagad. ut dicitur Cladhair fed, fuirmithar liagh, liughairne .l.
+</p>
+<p xml:id="D2.226">
+<w type="hw" lemma="linchuir">Linghur</w> .i. tiagh a mbí aidhme leaga .i. duillinna mina bis i seud do deiliugud na lossa biti innibh na rocumascait. 
+</p>
+<p xml:id="D2.227">
+<w type="hw" lemma="litor">Litor</w> .i. lobar ł cach nimlebar. 
+</p>
+<p xml:id="D2.228">
+<w type="hw" lemma="liber *">Lib</w><ex>er</ex> .i. soer. 
+</p>
+<p xml:id="D2.229">
+<w type="hw" lemma="Linnmaine">Linmuine</w> .i. ainm tiprat as romoidh loch netach 
+</p>
+<p xml:id="D2.230">
+<w type="hw" lemma="Líathmaine">Liathmuine</w> .i. in magh tarsa tuctha. ut dixit in oinmit .i. curnan <add place="margin"> .r.</add> Doraga linmuine tar liathmuine. fo leich bada cuinghi beala trascraidh omnae denaidh ethra. 
+</p>
+<p xml:id="D2.231">
+<w type="hw" lemma="lúar">Luar</w> .i. borb. 
+</p>
+<p xml:id="D2.232">
+<w type="hw" lemma="luis">Luis</w> .i. lam. <cb n="p. 636b"/> 
+</p>
+<p xml:id="D2.233">
+<w type="hw" lemma="luchtar">Luchtar</w> .i. coiti bis for uisci.
+</p>
+<p xml:id="D2.234">
+<w type="hw" lemma="láu">Laú</w> .i. bó. 
+</p>
+<p xml:id="D2.235">
+<w type="hw" lemma="láes">Lais</w> .i. laidh. 
+</p>
+<p xml:id="D2.236">
+<w type="hw" lemma="lecht">Lecht</w> .i. lighe. 
+</p>
+<p xml:id="D2.237">
+<w type="hw" lemma="líamain 2">Liamain</w> cach sochruth no cach suidech. 
+</p>
+<p xml:id="D2.238">
+<w type="hw" lemma="lerg">Lerg</w> .i. cach neislinn. 
+</p>
+<p xml:id="D2.239">
+<w type="hw" lemma="láigen">Laeghan</w> .i. gæ. 
+</p>
+<p xml:id="D2.240">
+<w type="hw" lemma="lufe">Lufe</w> .i. bandæ. 
+</p>
+<p xml:id="D2.241">
+<w type="hw" lemma="luirc">Luirc</w> .i. suil. 
+</p>
+<p xml:id="D2.242">
+<w type="hw" lemma="luchorp">Lucorb</w> .i. oirb locha. 
+</p>
+<p xml:id="D2.243">
+<w type="hw" lemma="laime 2">Laime</w> .i. biail. 
+</p>
+<p xml:id="D2.244">
+<w type="hw" lemma="ló 3">Ló</w> .i. failith. 
+</p>
+<p xml:id="D2.245">
+<w type="hw" lemma="láeb">Laeb</w> .i. bó. 
+</p>
+<p xml:id="D2.246">
+<w type="hw" lemma="láes">Laes</w> .i. fiach. 
+</p>
+<p xml:id="D2.247">
+<w type="hw" lemma="laime 1">Laime</w> .i. deogh 
+</p>
+<p xml:id="D2.248">
+<w type="hw" lemma="leithech 1, 3">Lethchet</w> .i. leth. 
+</p>
+<p xml:id="D2.250">
+<w type="hw" lemma="marc">Marc</w> .i. ech. 
+</p>
+<p xml:id="D2.251">
+<w type="hw" lemma="marc (cmpd)">Marcmuilenn</w> .i. muilenn imsuí ech. 
+</p>
+<p xml:id="D2.252">
+<w type="hw" lemma="Mol">Mol</w> .i. nomen uiri .i. dorsaidh temrach. ut dicitur Molach .i. is cosmail fri mol, ar ni anaidhside dí labra caichi in isberethsidhe, tait inn, tait ais. 
+</p>
+<p xml:id="D2.253">
+<w type="hw" lemma="milgetan">Milgedan</w> .i. molchuidan .i. cuit moil, ar is é aighe dobertha dó. 
+</p>
+<p xml:id="D2.254">
+<w type="hw" lemma="manach 1">Manach</w> .i. oní is monachus .i. a grec. 
+</p>
+<p xml:id="D2.255">
+<w type="hw" lemma="mandac">Manach</w> .i. feoil bruithe .i. a manuucando .i. o tomailt. 
+</p>
+<p xml:id="D2.256">
+<w type="hw" lemma="mid 3 I">Midh</w> .i. leth .i. midhbae .i. grainne. 
+</p>
+<p xml:id="D2.257">
+<w type="hw" lemma="midba(e)">Midhbæ</w> di .i. lethben ł lethuag.<cb n="p. 636c"/> Fo bith in torainn bis taran dala ben de. 
+</p>
+<p xml:id="D2.258">
+<w type="hw" lemma="mann 1">Mann</w> .i. uinge. ut dicitur .uii. manna oir for .l. 
+</p>
+<p xml:id="D2.259">
+<w type="hw" lemma="meichem *">Meichem</w> .i. gallbrecht. ut dicitur dimeichem .i. nemmoradh 
+</p>
+<p xml:id="D2.260">
+<w type="hw" lemma="muirenn">Mírind</w> .i. gæ. ut dixit Finn dergaider muirnne mlith. 
+</p>
+<p xml:id="D2.261">
+<w type="hw" lemma="milliud">Milliuth</w> .i. mí-silliud .i. feghadh olc. 
+</p>
+<p xml:id="D2.262">
+<w type="hw" lemma="meithel 1">Methel</w> .i. buanaidhe .i. oni is meto .i. so boingim. 
+</p>
+<p xml:id="D2.263">
+<w type="hw" lemma="mullach">Maullach</w> .i. seis .i.. ut dixit úa Siagail ag tothlugud cairr. <add place="margin"> .r.</add> Slicht a da ghæ tre cach muallach, cullach flescach ferach, amal charr a mberar lamach, tre condull fann ferach. 
+</p>
+<p xml:id="D2.264">
+<w type="hw" lemma="melg 1">Melg</w> .i. ass 7 melg .i. sugh, fo bith asberar cidh fri cuirm mellgg netha. 
+</p>
+<p xml:id="D2.265">
+<w type="hw" lemma="midlach">Midlach</w> .i. medhon lax. .i. lethlax. 
+</p>
+<p xml:id="D2.266">
+<w type="hw" lemma="muad 1">Muadh</w> .i. uasal no airmidin 
+</p>
+<p xml:id="D2.267">
+<w type="hw" lemma="mairbill">Mairbill</w> .i. mairis bellum .i. cath ł imeccla. 
+</p>
+<p xml:id="D2.268">
+<w type="hw" lemma="mén">Men</w> .i. bel. ut dictum est, <add place="margin"> .r.</add> Coicne ger gonus daine ni frita mára mairg troich tar roi rena adchi mena maicc snama. <cb n="p. 636d"/> 
+</p>
+<p xml:id="D2.269">
+<w type="hw" lemma="meis 2">Meissi</w> .i. aurdraigi aurdracht ł aurcon, ut est sliabh miss .i. sliahh meissi .i. dina urdraigib rodolbai banba do macaib miled. banba .i. per<ex>sona</ex>{?} .i. ben meic cermata 
+</p>
+<p xml:id="D2.270">
+<w type="hw" lemma="maidinn">Maidinn</w> .i. imerec. ut est <add place="margin"> .r.</add> Cuach nDiarmada di breg bairinn, brath ndorar diamemdatar madinn. 
+</p>
+<p xml:id="D2.271">
+<phr type="hw" lemma="Mes Roidai">Mes roidhida</phr> .i. nomen mic da thó. 
+</p>
+<p xml:id="D2.272">
+<w type="hw" lemma="mengul">Mengul</w> .i. anart. ut dicitur biadh nodh menglach. 
+</p>
+<p xml:id="D2.273">
+<w type="hw" lemma="monach">Monach</w> .i. cleasamnach. 
+</p>
+<p xml:id="D2.274">
+<w type="hw" lemma="mó 3">Mó</w> .i. moch. 
+</p>
+<p xml:id="D2.275">
+<w type="hw" lemma="meitech *">Meistech</w> .i. cuntabartach. 
+</p>
+<p xml:id="D2.276">
+<phr type="hw" lemma="meise">IS meisi</phr> .i. is tualaing 
+</p>
+<p xml:id="D2.277">
+<w type="hw" lemma="mem(m)">Memm</w> .i. poc. 
+</p>
+<p xml:id="D2.278">
+<w type="hw" lemma="meile 3">Meile</w> .i. capull.
+</p>
+<p xml:id="D2.279">
+<del><w type="hw">Mann</w> .i. sega</del> 
+</p>
+<p xml:id="D2.280">
+<w type="hw" lemma="manad *">Manad</w> .i. sugh.
+</p>
+<p xml:id="D2.281">
+<w type="hw" lemma="mitan *">Mitan</w> .i. miaimsir. 
+</p>
+<p xml:id="D2.282">
+<w type="hw" lemma="morbi *">Morbi</w> .i. seghaind. 
+</p>
+<p xml:id="D2.283">
+<w type="hw" lemma="muad 4">Moadh</w> .i. écosc. 
+</p>
+<p xml:id="D2.284">
+<w type="hw" lemma="mucha *">Mucha</w> .i. sirecht. 
+</p>
+<p xml:id="D2.285">
+<w type="hw" lemma="murunn *">Murunn</w> .i. doburchú. 
+</p>
+<p xml:id="D2.286">
+<w type="hw" lemma="mut">Mut</w> .i. cach ngearr. 
+</p>
+<p xml:id="D2.287">
+<w type="hw" lemma="moth 3">Moth</w> .i. guth 
+</p>
+<p xml:id="D2.288">
+<w type="hw" lemma="nocht 1">Nocth</w> {sic} .i. adhaidh .i. quasi nox. 
+</p>
+<p xml:id="D2.289">
+<w type="hw" lemma="nimb">Nimb</w> .i. braen, oni is nimbus. ut est aengus fo oiblibh iumais. 
+</p>
+<p xml:id="D2.290">
+<w type="hw" lemma="Nairne 4">Nairne</w> i temair .i. di anmaim in foraid robuí innte. <cb n="p. 637a"/>
+</p>
+<p xml:id="D2.291">
+<w type="hw" lemma="nairne 1">Nairne</w> .i. aislingte. ut est nairne Fingin maic Luchta.
+</p>
+<p xml:id="D2.292">
+<w type="hw" lemma="nár 1">Nár</w> .i. uasal. ut dicitur mac Guaire.
+</p>
+<p xml:id="D2.293">
+<w type="hw" lemma="néit">Neit</w> .i. dia catha.
+</p>
+<p xml:id="D2.294">
+<w type="hw" lemma="néit">Nemon</w> a ben. ut dicitur Bé Néit.
+</p>
+<p xml:id="D2.295">
+<w type="hw" lemma="néit">Néit</w> .i. guin duine
+</p>
+<p xml:id="D2.296">
+<w type="hw" lemma="néit">Néit</w> .i. gaisced.
+</p>
+<p xml:id="D2.297">
+<w type="hw" lemma="noll">Nall</w> .i. adhbul ł mor
+</p>
+<p xml:id="D2.298">
+<w type="hw" lemma="noll">Nall</w> amáe .i. is mór in ní
+</p>
+<p xml:id="D2.299">
+<w type="hw" lemma="neóite">Neute</w> .i. cailti .i. da ochtaighed. ut dicitur Cormac conbuich neoit .i. robris for cailti.
+</p>
+<p xml:id="D2.300">
+<w type="hw" lemma="nangtha">Nangthe</w> .i. annsae no diardain.
+</p>
+<p xml:id="D2.301">
+<w type="hw" lemma="nonamain">Nonomain</w> .i. ainm imarta cúil dogníat sair.
+</p>
+<p xml:id="D2.302">
+<w type="hw" lemma="Nóindruimm">Nændruim</w> .i. ainm cille .i. nóe tulcha isinn innsi ina fuil.
+</p>
+<p xml:id="D2.303">
+<w type="hw" lemma="nacc">Nac</w> .i. diultadh, quasi nec. Nac d<ex>an</ex>o .i. tairisem fri forrngaire sruithe. ut dicitur cen nac cen dichmairc.
+</p>
+<p xml:id="D2.304">
+<w type="hw" lemma="nin 3">Ninfoss</w> .i. fos toinne.
+</p>
+<p xml:id="D2.305">
+<w type="hw" lemma="noínden 1">Noidin</w> ulad. quasi nouim dieis, ar isí re laithi bídis isin chess
+</p>
+<p xml:id="D2.306">
+<w type="hw" lemma="nát">Nat</w> .i. ton. ut dixit Fer Mumhun, Asbeir fiach goblom grac, a creim nat namhat anocht
+</p>
+<p xml:id="D2.307">
+<phr type="hw" lemma="nemain">Nemain dega</phr> .i. uible tenedh. ut dixit Fer Muman. nemain degha deirge airethait berbtha biadh ndeoil. <cb n="p. 637b"/> 
+</p>
+<p xml:id="D2.308">
+<w type="hw" lemma="nós 1">Noss</w> .i. fis nonbuir .i. tri righ, tri hespuic, tri filid 
+</p>
+<p xml:id="D2.309">
+<w type="hw" lemma="nes(s) 2">Nes</w> .i. aurnisi criadh; leighi Sanais Cormaic .7rl. 
+</p>
+<p xml:id="D2.310">
+<w type="hw" lemma="nes(s) 3">Nes</w> .i. crécht. 
+</p>
+<p xml:id="D2.311">
+<w type="hw" lemma="nes(s) 1">Ness</w> .i. ainimal. 
+</p>
+<p xml:id="D2.312">
+<w type="hw" lemma="necht 2">Necht</w> .i. glan 
+</p>
+<p xml:id="D2.313">
+<w type="hw" lemma="necht 1">Necht</w> .i. ingin. 
+</p>
+<p xml:id="D2.314">
+<w type="hw" lemma="oí">Oi</w> .i. ouis .i. curu seisc. 
+</p>
+<p xml:id="D2.315">
+<w type="hw" lemma="osmenad">Osmennadh</w> .i. sgrudun o meanmain 7 a mebrugud dogni. ut dixit int éicsine i farradh thṡeancáin. <add place="margin"> .r.</add> Ni mongenar fil anniu, oc raith colgan ina fiu, ari meinci asberar fris, osmentæ a drocheicis. 
+</p>
+<p xml:id="D2.316">
+<w type="hw" lemma="oíd">Oid</w> .i. ouidens .i. aurlaiti. ut dicitur isin Amrad Coluim .C. Ba uidh ba uasal a bas 
+</p>
+<p xml:id="D2.317">
+<w type="hw" lemma="oráit">Orait</w> .i. oraitio .i. aurnaighthi. 
+</p>
+<p xml:id="D2.318">
+<w type="hw" lemma="oraet *">Oraet</w> .i. brat tæbraidh 
+</p>
+<p xml:id="D2.319">
+<w type="hw" lemma="ochsad (b)">Ocsad</w> .i. cumsanadh. ut dicitur cin uarad cin ocsadh 
+</p>
+<p xml:id="D2.320">
+<w type="hw" lemma="ochsad (a)">Ocsa</w> .i. anal. ut dicitur ni fil <ex>acht</ex> oxadh. 
+</p>
+<p xml:id="D2.321">
+<w type="hw" lemma="ong 1">Ong</w> .i. bron ł imnedh. ut dicitur nír ongadh .i. ni thainic foichidh co se, I Temel cach ongthae .i. faiteach cach foichedhach. <cb n="p. 637c"/>
+</p>
+<p xml:id="D2.322">
+<w type="hw" lemma="oscrad *">Oscrad</w> .i. os 7 cuiriuth .i. tochuiriuth o ghin. 
+</p>
+<p xml:id="D2.323">
+<w type="hw" lemma="aistire">Aistreoir</w> .i. dorsaidh. 
+</p>
+<p xml:id="D2.324">
+<w type="hw" lemma="oar">Oar</w> .i. guth  
+</p>
+<p xml:id="D2.325">
+<w type="hw" lemma="Patraic">Padraig</w> .i. ainm graidh la romanu. 
+</p>
+<p xml:id="D2.326">
+<w type="hw" lemma="puincern">Poncernd</w> .i. medh fairbech. 
+</p>
+<p xml:id="D2.327">
+<w type="hw" lemma="puincne">Puincre</w> .i. screpal. 
+</p>
+<p xml:id="D2.328">
+<w type="hw" lemma="pún">Pan</w> .i. ponus .i. di uingi dec. 
+</p>
+<p xml:id="D2.329">
+<w type="hw" lemma="pont 2">Pont</w> .i. borb 
+</p>
+<p xml:id="D2.330">
+<w type="hw" lemma="pardus">Pardus</w> .i. paradisus .i. loc bidh 7 airir. 
+</p>
+<p xml:id="D2.331">
+<w type="hw" lemma="plet">Plet</w> .i. no<ex>men</ex> rinda dogníat ceard<ex>a</ex>. 
+</p>
+<p xml:id="D2.332">
+<w type="hw" lemma="bó">Po</w> .i. bos 
+</p>
+<p xml:id="D2.333">
+<w type="hw" lemma="patu">Pattu</w> .i. po í thó .i. is tó a bois .i. ar etruime a reatha. 
+</p>
+<p xml:id="D2.334">
+<w type="hw" lemma="pónair">Ponair</w> quasi fonair, ar is ag imorchor bairgin bís 
+</p>
+<p xml:id="D2.335">
+<w type="hw" lemma="púr">Pur</w> .i. glan .i. oní is purus. ut est <add place="margin"> .r.</add> INtí charus crabhadh ngúr, is dignadh lais uisci púr. ibaidh cailech betha buain, i flaith iar ndol uisci uair. ut est Púran .i. uaire nad brechtar do illdathaib acht aendath. 
+</p>
+<p xml:id="D2.336">
+<w type="hw" lemma="preit">Pred</w> .i. indile creiche. 
+</p>
+<p xml:id="D2.337">
+<w type="hw" lemma="peiriacail">Perecul</w> .i. cubus. 
+</p>
+<p xml:id="D2.338">
+<w type="hw" lemma="sanct">Sanct</w> .i. naem. 
+</p>
+<p xml:id="D2.339">
+<w type="hw" lemma="sín 2">Sín</w> .i. muinci. ut est sin Morainn maic Main 
+</p>
+<p xml:id="D2.340">
+<w type="hw" lemma="Sinand *">Sinann</w> .i. slabhrad 
+</p>
+<p xml:id="D2.341">
+<w type="hw" lemma="segais">Seghais</w> .i. ainm ind sida a fil in tiprat asa tæt in boind. <cb n="p. 637d"/> 
+</p>
+<p xml:id="D2.342">
+<w type="hw" lemma="sartan">Sartan</w> .i. sart .i. cnoe 7 anda .i. bliadhain .i. oland bliadhna bís for cairibh. 
+</p>
+<p xml:id="D2.343">
+<w type="hw" lemma="smér 2">Smer</w> .i. tene. ut dicitur smer fuait .i. fuigell teneth. 
+</p>
+<p xml:id="D2.344">
+<w type="hw" lemma="sól">Sul</w> .i. grian. ut dicitur darí sulut 
+</p>
+<p xml:id="D2.345">
+<w type="hw" lemma="sogen *">Sogen</w> .i. find. ut dixit Sogen mac Conaill Cearndaigh. 
+</p>
+<p xml:id="D2.346">
+<w type="hw" lemma="serbán">Serpan</w> .i. cenel arbha, 7 ba doigh bid é in corcai. 
+</p>
+<p xml:id="D2.347">
+<w type="hw" lemma="seichill">Seichill</w> .i. foxul. ut dicitur cú seichill focoisliter a muinnter fein. 
+</p>
+<p xml:id="D2.348">
+<w type="hw" lemma="síthboth">Sithboth</w> .i. tech sidhe, .t. righ. 
+</p>
+<p xml:id="D2.349">
+<w type="hw" lemma="Seithir">Seithir</w> .i. nomin mulieris .i. ingin Feargusa maic Leiti ri Ulad roboí i farradh annluain maic Maghach di feinibh, 7 a mac dó .i. nie mac anluain; 7 de illa dr. inloilig seichir selbh. 7rl. 
+</p>
+<p xml:id="D2.350">
+<w type="hw" lemma="srúamach 1">Sruamach</w> .i. brothrach. 
+</p>
+<p xml:id="D2.351">
+<w type="hw" lemma="sundelb">Sumdelb</w> .i. borb. 
+</p>
+<p xml:id="D2.352">
+<w type="hw" lemma="sideng">Sidhis</w> .i. dam allaid. 
+</p>
+<p xml:id="D2.353">
+<w type="hw" lemma="sideng">Sidhin</w> .i. oisfeoil. 
+</p>
+<p xml:id="D2.354">
+<w type="hw" lemma="sorb">Sorb</w> .i. locht. 
+</p>
+<p xml:id="D2.355">
+<w type="hw" lemma="tríath 1 2 3">Triath</w> .i. rí. 
+</p>
+<p xml:id="D2.356">
+<w type="hw" lemma="tiug 1">Tig</w> .i. cach forceann ndeiridh. ut dicitur Tighail .i. crich deigenach tairic in bó feich. 
+</p>
+<p xml:id="D2.357">
+<w type="hw" lemma="tiugradus">Tigradus</w> .i. cin deiginach in .s. <cb n="p. 638a"/>
+</p>
+<p xml:id="D2.358">
+<w type="hw" lemma="tiuglomrad">Tiughlomradh</w> .i. in lomradh deigenach iar mbás in cheile. 
+</p>
+<p xml:id="D2.359">
+<w type="hw" lemma="taman II b">Tomon</w> .i. fogradh filed fo chosmuilis tamain .i. crand dia mbenar a bharr. sic ille cin manchuine, ni dligh dire <ex>acht</ex> aithgin. 
+</p>
+<p xml:id="D2.360">
+<w type="hw" lemma="turtugud 2">Turtadh</w> .i. coméigniugud. 
+</p>
+<p xml:id="D2.361">
+<w type="hw" lemma="turba">Turmu</w> .i. mor mó. ut dicitur dobertha dot gilla turmu deit uodein 
+</p>
+<p xml:id="D2.362">
+<w type="hw" lemma="timairle *">Timairle</w> .i. airli tim, <add place="margin"> .r.</add> Domic timairle indiuliter fedaibh fidhmuiniu, beirthium dubrón bes ogus, in cunnradh dorigenus. 
+</p>
+<p xml:id="D2.363">
+<w type="hw" lemma="tellair">Tellur</w> .i. talam .i. óní is tellus .i. tellrach a reim. 
+</p>
+<p xml:id="D2.364">
+<w type="hw" lemma="turalch">Torlach</w> .i. luagh toire dobeir fine dia tuisech ara tóir. 
+</p>
+<p xml:id="D2.365">
+<w type="hw" lemma="troichit">Troicit</w> .i. corp. ut dicitur fothrucudh, troicit fó .i. fon uisci, ł fó .i. maith don chorp. 
+</p>
+<p xml:id="D2.366">
+<w type="hw" lemma="toth 2">Toth</w> .i. sugh. ut dicitur toth eithlinne .i. sugh eithlinne. 
+</p>
+<p xml:id="D2.367">
+<w type="hw" lemma="art 2">Art</w> .i. uasal .i. deus. Art d<ex>ano</ex> .i. cloch ut dixit Gaire <add place="margin"> .r.</add> docelat mor namra nán in airtirec, bítí for lighu mair cein, mic Aeda mic Maircire. <cb n="p. 638b"/>
+</p>
+<p xml:id="D2.368">
+<w type="hw" lemma="ainbthen">Anfen</w> .i. ingnadh. ut dicitur fri fail moir. 
+</p>
+<p xml:id="D2.369">
+<w type="hw" lemma="anmain">Anmuin</w> .i. anacul. 
+</p>
+<p xml:id="D2.371">
+<w type="hw" lemma="ainbthen">Arco</w> fuine .i. dom día. 
+</p>
+<p xml:id="D2.372">
+<w type="hw" lemma="arcu">Arco</w> .i. cuingim fuin 7 .i. finim .i. arcio finim deó .i. timairgim mo crich deóa, do día. ł dom día, amail atbert Colum .C., dereth mo betha riam iss ed dob ail lium dom día. 
+</p>
+<p xml:id="D2.373">
+<w type="hw" lemma="allmuir">Allmuire</w> .i. fri muir anall. 
+</p>
+<p xml:id="D2.374">
+<w type="hw" lemma="all 2">Alla</w> .i. ad alligatioine .i. o cuimrech. 
+</p>
+<p xml:id="D2.375">
+<w type="hw" lemma="aithirne">Aithrinne</w> .i. lægh bó .i. aith fri rinne .i. sine. ut dixit gin gert fearba fora nasa aithrinne .7rl. 
+</p>
+<p xml:id="D2.376">
+<w type="hw" lemma="arfeith *">Arfeich</w> .i. airitiu 7 lessugud. ut dicitur arfeich cenn a meamra. 
+</p>
+<p xml:id="D2.377">
+<w type="hw" lemma="aire 4">Aire</w> .i. cora éisc. ut est aire éisc 
+flatha .7rl. </p>
+</div>
+
+      </body>   
+   </text>
+</TEI>

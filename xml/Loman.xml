@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loman</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Trinity College</repository>
+                  <idno>1337 (H.3.18)</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>W. Stokes (ed.), ‘Irish Glosses’, Transactions of the Philological Society (1859), pp. 197-206</bibl>
+            <bibl>D. A. Binchy (ed.), Corpus Iuris Hibernici, 6 vols. (Dublin, 1978), II, 622.13–627.35</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<div xml:id="Loman">
+<p xml:id="Loman.1">
+<w type="hw">Lomhon</w> .i. luamain bis fuirre; no lu .i. bec in manu.
+</p>
+<p xml:id="Loman.2">
+<w type="hw">Leim</w> .i. lú-eim .i. lúud séim é
+</p>
+<p xml:id="Loman.3">
+<w type="hw">Lesg</w> .i. leis a aisc, no quasi losg .i. bacach.
+</p>
+<p xml:id="Loman.4">
+<w type="hw">Lenn</w> .i. lée find .i. lóe find, 7 ainm do brut find.
+</p>
+<p xml:id="Loman.5">
+<w type="hw">Loscuirn</w> .i. la hos í, ar is os in buaball ara mbi; no la huais í.
+</p>
+<p xml:id="Loman.6">
+<w type="hw">Lorg</w> .i. lui-airg .i. laich hi; no lar-ric.
+</p>
+<p xml:id="Loman.7">
+<w type="hw">Lurga</w> .i. le urgabail in cuirp .i. a togbail.
+</p>
+<p xml:id="Loman.8">
+<w type="hw">Lobar</w>, quasi lebor, a lepra latine. 
+</p>
+<p xml:id="Loman.9">
+<w type="hw">Lepaid</w> .i. faídh nech lé
+</p>
+<p xml:id="Loman.10">
+<w type="hw">Lite</w> .i. lot-te .i. lotan ar tige í 7 tess indti.
+</p>
+<p xml:id="Loman.11">
+<w type="hw">Leco</w> .i. le co hó .i. co cluais. 
+</p>
+<p xml:id="Loman.12">
+<w type="hw">Leine</w> .i. leínis latine, no lin í
+</p>
+<p xml:id="Loman.13">
+<w type="hw">Loscad</w> .i. soadh cuige conid losg é de .i. bacach; no quasi lesgugud nech é
+</p>
+<p xml:id="Loman.14">
+<w type="hw">Long</w> .i. saxanberla sin .i. lang .i. gac fada uile, 7 inde long dicitur.
+</p>
+<p xml:id="Loman.15">
+<w type="hw">Luachair</w> .i. liuch in úir imbi.
+</p>
+<p xml:id="Loman.16">
+<w type="hw">Letrad</w>, quasi latratio; no lethar-soad .i. soud in lethair é
+</p>
+<p xml:id="Loman.17">
+<w type="hw">Lon</w> .i. báoth
+</p>
+<p xml:id="Loman.18">
+<w type="hw">Letir</w> .i. tirim a leath 7 fliuch a leat aile.
+</p>
+<p xml:id="Loman.19">
+<w type="hw">Lotar</w> a mbi braichlis .i. tinol ar tinol na lennann cuici, ut dicitur. lotar <add>.i. comtinol</add> na fuair iar ndib rigaib rath.
+</p>
+<p xml:id="Loman.20">
+<w type="hw">Lon</w> .i. torc. <add>.i. craide</add> 
+</p>
+<p xml:id="Loman.21">
+<w type="hw">Lon</w> .i. báoth
+</p>
+<p xml:id="Loman.22">
+<w type="hw">Lorg</w>: lorcon enim grece auidus deuorator; .l. lorc didiu angbaidh ł laind fordiuglantaid; ł lagin a laginis, lagon graece asta .i. .l. dogairdis do o trib anmannuib .i. domnaind, galeoin, lagin; galeoin roaltsat labraid fora longas. IT galeoin autem batar iar naimsir icobuir ailella maic rosa a mbrathar for tain bo cuailgne; unde dicitur. xxx. c. na ngaleon; 7 nidat gailenga, ar us cian már re cormac galeng roferad tain bo cuailnge. <cb n="p. 76b"/>
+</p>
+<p xml:id="Loman.23">
+<w type="hw">Mullach</w> .i. mul-óach .i. cluasach.
+</p>
+<p xml:id="Loman.24">
+<w type="hw">Mala</w> .i. moo a lloig oldas int édan.
+</p>
+<p xml:id="Loman.25">
+<w type="hw">Mallann</w> .i. na malach; ł fainde oldas in mala féin.
+</p>
+<p xml:id="Loman.26">
+<phr type="hw">Muad mullaig</phr> .i. medon in mullaig
+</p>
+<p xml:id="Loman.27">
+<w type="hw">Mell</w> .i. milliud e, ł millti
+</p>
+<p xml:id="Loman.28">
+<w type="hw">Muine</w> .i. a muinio .i. daingnigim.
+</p>
+<p xml:id="Loman.29">
+<w type="hw">Mesan</w> .i. &aolig;n as mesa do conaib é.
+</p>
+<p xml:id="Loman.30">
+<w type="hw">Molt</w> .i. mó a folt ł a ailt ł a sult .i. a féth.
+</p>
+<p xml:id="Loman.31">
+<w type="hw">Méth</w> .i. mó a féth. 
+</p>
+<p xml:id="Loman.32">
+<w type="hw">M&aolig;th</w> .i. mo cis meth.
+</p>
+<p xml:id="Loman.33">
+<w type="hw">Maotal</w> .i. m&aolig;t 7 fuil.
+</p>
+<p xml:id="Loman.34">
+<w type="hw">Más</w> .i. mó a fás, ł mo tig as.
+</p>
+<p xml:id="Loman.35">
+<w type="hw">Mennat</w> .i. mian-ait .i. ait is míanach la cach.
+</p>
+<p xml:id="Loman.36">
+<w type="hw">Midach</w> .i. mó do eachaib é, ł maith-ech.
+</p>
+<p xml:id="Loman.37">
+<w type="hw">Muindter</w> .i. muin-toir .i. maine toirit do nech.
+</p>
+<p xml:id="Loman.38">
+<w type="hw">Mias</w> .i. mó is fois í. 
+</p>
+<p xml:id="Loman.39">
+<w type="hw">Mecon</w> .i. mo cinis as.
+</p>
+<p xml:id="Loman.40">
+<w type="hw">Meng</w> .i. mi-engna í .i. drochenigh 
+</p>
+<p xml:id="Loman.41">
+<w type="hw">Mong</w> .i. mo a hong .i. a fochaide .i. maíle ł léithi ł<w type="hw"> </w>cudum fora tí. 
+</p>
+<p xml:id="Loman.42">
+<w type="hw">Mang</w> .i. mo is eng; 7 inde dicitur luaiti mang ina a mathair .i. derb.
+</p>
+<p xml:id="Loman.43">
+<w type="hw">Muit</w> quasi mútus .i. amlabar
+</p>
+<p xml:id="Loman.44">
+<w type="hw">Maide</w> .i. mo a faide oldas a letfad, ł mo uait é
+</p>
+<p xml:id="Loman.45">
+<w type="hw">Moit</w> .i. mí-ait.
+</p>
+<p xml:id="Loman.46">
+<w type="hw">Miscais</w> .i. mo is cais í .i. casus tuitim; ł mó sgis neich oca deicsin. <cb n="p. 76c"/>
+</p>
+<p xml:id="Loman.47">
+<w type="hw">Mun</w> quasi mo is &aolig;n; ł quasi min a uerbo mingo latine.
+</p>
+<p xml:id="Loman.48">
+<w type="hw">Mir</w> quasi mur a nomine mursum latine
+</p>
+<p xml:id="Loman.49">
+<w type="hw">Mart</w> quasi mortus .i. marb.
+</p>
+<p xml:id="Loman.50">
+<w type="hw">Mant</w> .i. mó a saint bídh.
+</p>
+<p xml:id="Loman.51">
+<w type="hw">Mag</w> .i. mo is ághasda é ol in fid; ł mó a áighe .i. a graifne each.
+</p>
+<p xml:id="Loman.52">
+<w type="hw">Muinel</w> .i. mo in feoil bis fair oldas forin cenn; ł mo in eolach ata é fon cind.
+</p>
+<p xml:id="Loman.53">
+<w type="hw">Mind</w> qmsi mund a munditia .i. on glaine
+</p>
+<p xml:id="Loman.54">
+<w type="hw">Minarba</w> quasi minuitur.
+</p>
+<p xml:id="Loman.55">
+<w type="hw">Medg</w> quasi moidg .i. mo deog de quam de cuingtis.
+</p>
+<p xml:id="Loman.56">
+<w type="hw">Muc</w> .i. mucna a aigned .i. ni geib a munad o neoch sicut canes
+</p>
+<p xml:id="Loman.57">
+<w type="hw">Meta</w> .i. mo a faiti .i. a faitchius uime fein.
+</p>
+<p xml:id="Loman.58">
+<w type="hw">Mer</w> quasi mur .i. imad, quia fit mur .i. imat .i. id imda na mera; ł ł da mo iuir cáich dib ar.ii.
+</p>
+<p xml:id="Loman.59">
+<w type="hw">Mall</w> quasi mollis .i. m&aolig;th .i. amail na bet cnaim ann.
+</p>
+<p xml:id="Loman.60">
+<w type="hw">Mer</w> .i. mo a ir .i. a ferg.
+</p>
+<p xml:id="Loman.61">
+<w type="hw">Meinic</w> .i. mó tic .i. meticc bud cert ann, 7 cendfochrus uil i medon and.
+</p>
+<p xml:id="Loman.62">
+<w type="hw">Mor</w> .i. mo a úir .i. a feoil
+</p>
+<p xml:id="Loman.63">
+<w type="hw">Murduine</w> .i. mó a ur .i. a talum.
+</p>
+<p xml:id="Loman.64">
+<w type="hw">Mi</w> quasi me .i. a indsce.
+</p>
+<p xml:id="Loman.65">
+<w type="hw">Munchilli</w>. i. man-caille .i. man .i. lam, id est manus, 7 cail .i. coiméd.
+</p>
+<p xml:id="Loman.66">
+<w type="hw">Muir</w> a nómine máre.
+</p>
+<p xml:id="Loman.67">
+<w type="hw">Miltiuch</w> .i. teach mellis.
+</p>
+<p xml:id="Loman.68">
+<w type="hw">Mescan</w> .i. do mescad irt loma ásas.
+</p>
+<p xml:id="Loman.69">
+<w type="hw">Meisce</w> .i. mo de aisg í oldas a ciall aige.
+</p>
+<p xml:id="Loman.70">
+<w type="hw">Mes</w> quasi mo in usu lignorum fructus. <cb n="p. 77a"/>
+</p>
+<p xml:id="Loman.71">
+<w type="hw">Nert</w> quasi uirt a uirtute
+</p>
+<p xml:id="Loman.72">
+<w type="hw">Net</w> quasi nit, a ninda latine.
+</p>
+<p xml:id="Loman.73">
+<w type="hw">Nia</w> .i. trenfer, unde dicitur nasc níadh
+</p>
+<p xml:id="Loman.74">
+<w type="hw">Not</w> .i. nota .i. signum .i. foillsiugud neich, 7 unde dicitur. Notul .i. nod-uaill, .i. comarta uaille é.
+</p>
+<p xml:id="Loman.76">
+<w type="hw">Nasc</w> quasi nex .i. oní as necso .i. imnaiscim.
+</p>
+<p xml:id="Loman.77">
+<w type="hw">Nama</w> .i. non am .i. non amatur
+</p>
+<p xml:id="Loman.78">
+<w type="hw">Nathan</w> .i. erdairc .i. nath .i. ainm coitcenn dona huilib aistib eicsib; unde dicitur natan, quasi nath in an .i. in olloman.
+</p>
+<p xml:id="Loman.79">
+<w type="hw">Nare</w> .i. ’na rei bis .i. in ruidiud tic isin gruaid, 7 is do sein as nomen nare. Feile imorro ainm don einech bunaid.
+</p>
+<p xml:id="Loman.80">
+<w type="hw">Naithir</w> quasi noithir .i. erdarcaithir ara olc; ł quasi aithir .i. ath-air; ł nader acher tonadma herre.
+</p>
+<p xml:id="Loman.81">
+<w type="hw">Nai</w> a naue dicitur.
+</p>
+<p xml:id="Loman.82">
+<w type="hw">Naisciu</w> .i. deilidind fil .i. in ne is en; nescu didiu .i. en usce í
+</p>
+<p xml:id="Loman.83">
+<w type="hw">Nenaid</w> quasi non fid í acht lus; ł is cennfocrus uil ann .i. tein-faid .i. faid in teinead bis aicce.
+</p>
+<p xml:id="Loman.84">
+<w type="hw">Nes</w> .i. anmanna .i. ni fos acht udmail.
+</p>
+<p xml:id="Loman.85">
+<w type="hw">Nel</w> quasi uel a nomine uelum, ar us fial é edruind 7 grian. 
+</p>
+<p xml:id="Loman.86">
+<w type="hw">Neim</w> .i. e-fim .i. ni deogh í, quia fim dicitur deogh.
+</p>
+<p xml:id="Loman.87">
+<w type="hw">Nem</w> .i. nemo uisit oculis.
+</p>
+<p xml:id="Loman.88">
+<w type="hw">Noin</w> .i. anna.
+</p>
+<p xml:id="Loman.89">
+<w type="hw">Nonbar</w> a nomine nouim
+</p>
+<p xml:id="Loman.90">
+<w type="hw">Nus</w> quasi nouis
+</p>
+<p xml:id="Loman.91">
+<w type="hw">Nua</w> quasi nouo.
+</p>
+<p xml:id="Loman.92">
+<w type="hw">Nin</w> .i. litir, ut dicitur dar mu ninu neide.
+</p>
+<p xml:id="Loman.93">
+<w type="hw">Nen</w> .i. tonn, ut est reim nena .i. dar na tonda. <cb n="p. 77b"/>
+</p>
+<p xml:id="Loman.94">
+<w type="hw">Occ</w> quasi ac, id est iuuenis isin aicciue.
+</p>
+<p xml:id="Loman.95">
+<w type="hw">Odor</w> quasi fodar .i. dath foalda
+</p>
+<p xml:id="Loman.96">
+<w type="hw">Oe</w> .i. fæ bid.
+</p>
+<p xml:id="Loman.97">
+<w type="hw">Oge</w> .i. comlainius cin truailled i curp.
+</p>
+<p xml:id="Loman.98">
+<w type="hw">O</w> .i. cluas.
+</p>
+<p xml:id="Loman.99">
+<w type="hw">Ola</w> ab oleo.
+</p>
+<p xml:id="Loman.100">
+<w type="hw">Olann</w> .i. uile-findfad.
+</p>
+<p xml:id="Loman.101">
+<w type="hw">Omthund</w> .i. teind é frisinn om.
+</p>
+<p xml:id="Loman.102">
+<w type="hw">Omna</w> .i. fuamna .i. morfuaim gaithe fria.
+</p>
+<p xml:id="Loman.103">
+<w type="hw">Onna</w> .i. b&aolig;th.
+</p>
+<p xml:id="Loman.104">
+<w type="hw">Onmit</w> .i. muit onda .i. amlabur 7 b&aolig;th.
+</p>
+<p xml:id="Loman.105">
+<w type="hw">Orda</w> .i. ard .i. calma, 7 inde ordlach dicitur.
+</p>
+<p xml:id="Loman.106">
+<w type="hw">Oscar</w> .i. cur dar ess.
+</p>
+<p xml:id="Loman.107">
+<w type="hw">Oscar</w> .i. leim.
+</p>
+<p xml:id="Loman.108">
+<w type="hw">Osar</w> .i. fer is ó.
+</p>
+<p xml:id="Loman.109">
+<w type="hw">Otrach</w> a trachtu.
+</p>
+<p xml:id="Loman.110">
+<w type="hw">Otan</w> .i. uaid rucad a fot.
+</p>
+<p xml:id="Loman.111">
+<w type="hw">Othrus</w> quasi fo-toir-uais .i. a toir fo uaisle.
+</p>
+<p xml:id="Loman.112">
+<w type="hw">Osnad</w> .i. on snuad .i. snim.
+</p>
+<p xml:id="Loman.113">
+<w type="hw">Óin</w> .i. o inde tic do neoch.
+</p>
+<p xml:id="Loman.114">
+<w type="hw">Oifrenn</w> .i. ondi as ofero .i. edbairt cuirp crist.
+</p>
+<p xml:id="Loman.115">
+<w type="hw">Ongad</w> id est ab ungerito. <cb n="p. 77c"/>
+</p>
+<p xml:id="Loman.116">
+<w type="hw">Pit</w> a puteo .i. on cuite dicitur put.
+</p>
+<p xml:id="Loman.117">
+<w type="hw">Putrall</w> .i. fait-trall, id est faitbed do traillib hi; ł pedar-sill .i. ar silliud for pedar apstal.
+</p>
+<p xml:id="Loman.118">
+<w type="hw">Pait</w> quasi fu-ait .i. ait fuail, 7 dichned derid uil ann.
+</p>
+<p xml:id="Loman.119">
+<w type="hw">Pur</w> quasi purus, ar derride in tige hi-sin
+</p>
+<p xml:id="Loman.120">
+<w type="hw">Purgadoir</w> ar purgad pecatum.
+</p>
+<p xml:id="Loman.121">
+<w type="hw">Pundann</w> quasi bun-find .i. bun aice, 7 ind í budein; no ben-de-ind .i. a barr benar de.
+</p>
+<p xml:id="Loman.122">
+<w type="hw">Pellecc</w> .i. bel-ecc .i. eccda ina bel; no pell-set .i. set 7 a pellis impi .i. a croicenn.
+</p>
+<p xml:id="Loman.123">
+<w type="hw">Peist</w> quasi beistis .i. teidm
+</p>
+<p xml:id="Loman.124">
+<w type="hw">Pistal</w> .i. bis-toll .i. toll bis indte.
+</p>
+<p xml:id="Loman.125">
+<w type="hw">Partcuine</w> .i. partem canis; ł a part gontair í; ł a partu commuine.
+</p>
+<p xml:id="Loman.126">
+<w type="hw">Pullo</w> quasi bullo .i. a uerbó buillio .i. bolgaigim.
+</p>
+<p xml:id="Loman.127">
+<w type="hw">Ponc</w> .i. a puncto latine.
+</p>
+<p xml:id="Loman.128">
+<w type="hw">Pláe</w> .i. ainm inaid réidh, a platea .i. on faitche
+</p>
+<p xml:id="Loman.129">
+<w type="hw">Plutad</w> .i. brisiud .i. a plutone .i. pluton .i. gaba ifrind.
+</p>
+<p xml:id="Loman.130">
+<w type="hw">Poll</w> quasi toll, cendfochrus tosaig uil ann.
+</p>
+<p xml:id="Loman.131">
+<w type="hw">Pinginn</w> quasi pan-ung .i. pars in unctio; ł benn-ing .i. a ningnais a benn ata .i. cruinn.
+</p>
+<p xml:id="Loman.132">
+<w type="hw">Poll</w> .i. a paulo latine. <cb n="p. 78a"/>
+</p>
+<p xml:id="Loman.133">
+<w type="hw">Rer</w> r .i. lon .i. baoth, ut est : uindsi cugat in gillgugan, mac rergugain <add>.i. mac l.</add> bid gac mait agut ara cindgucan, a cenngucain .i. a cind gegain.
+</p>
+<p xml:id="Loman.134">
+<w type="hw">Raibced</w> cethra .i. robeicedh; beiced didiu .i. bo-gut <add>.i. gut bo</add>
+</p>
+<p xml:id="Loman.135">
+<w type="hw">Rind</w> i crand, ar us do rind sceine donither.
+</p>
+<p xml:id="Loman.136">
+<w type="hw">Renna</w> .i. re-nua, id est gac re i tecuid, ar ni do gres adcither acht anaill i llo 7 anaill i naidche
+</p>
+<p xml:id="Loman.137">
+<w type="hw">Rota</w> <add>.i. uisce</add> 7 rotan .i. on dergi asberar, ar us rot gac nderg.
+</p>
+<p xml:id="Loman.138">
+<w type="hw">Ruis</w> .i. agaid.
+</p>
+<p xml:id="Loman.139">
+<w type="hw">Rosir</w> quasi risir a risu .i. on gaire
+</p>
+<p xml:id="Loman.140">
+<w type="hw">Ruice</w> .i. náire; ł ruice .i. ruad-ceo, ł ruitige.
+</p>
+<p xml:id="Loman.141">
+<w type="hw">Rait</w> on rota a mbi a hinas.
+</p>
+<p xml:id="Loman.142">
+<w type="hw">Roga</w> quasi toga, ut dicitur, toga de rannuib 7 cumal senorba laisin s&aolig;r <add>ł la sindser</add>.
+</p>
+<p xml:id="Loman.143">
+<w type="hw">Remor</w> .i. ro-mor; ł reim-aire, ar is aire a imarcraid.
+</p>
+<p xml:id="Loman.144">
+<w type="hw">Ron</w> .i. on rosnam doni asberar de.
+</p>
+<p xml:id="Loman.145">
+<w type="hw">Ronna</w> quasi sron-unna .i. tunna srona, quia est unna .i. tonn.
+</p>
+<p xml:id="Loman.146">
+<w type="hw">Riasc</w> .i. ro-uisce, ł re-uisce, ł eisc riam.
+</p>
+<p xml:id="Loman.147">
+<w type="hw">Rath</w> .i. baile, on rathes asberar.
+</p>
+<p xml:id="Loman.148">
+<phr type="hw">Rind sceine</phr> .i. ro-ind .i. ind gac barr.
+</p>
+<p xml:id="Loman.149">
+<w type="hw">Rod</w> .i. ro-fada teit tar techta, 7 inde dicitur echrod.
+</p>
+<p xml:id="Loman.150">
+<w type="hw">Rastall</w> .i. ris talmuin benas; uel quasi trastall .i. tris-toll bis a cos
+</p>
+<p xml:id="Loman.151">
+<phr type="hw">Rosc 7 ros</phr> .i. on ro-aisced bis orra asberar.
+</p>
+<p xml:id="Loman.152">
+<w type="hw">Rebad</w> quasi ribad .i. rib doberar tairis <cb n="p. 78b"/>
+</p>
+<p xml:id="Loman.153">
+<w type="hw">Rondaire</w> .i. ranna don {crossed out: don} biud; 7 aire ainm coitcenn gac graid flatha i tuaith.
+</p>
+<p xml:id="Loman.154">
+<w type="hw">Saeghlonn</w> breithem 7 senoir 7 coloman, ut dicitur, Saeghlonn breithem gin brath, sæghlonn senoir sírsæghlach, saeghlonn gach ri fora du, 7 sæghlonn colomu.
+</p>
+<p xml:id="Loman.155">
+<w type="hw">Sab</w> .i. co-s&aolig;bta é, id est assa soudh
+</p>
+<p xml:id="Loman.156">
+<w type="hw">Sop</w> a sopinis, ar is fuidel tuiged é.
+</p>
+<p xml:id="Loman.157">
+<w type="hw">Srian</w> quasi frian a nomine frenum
+</p>
+<p xml:id="Loman.158">
+<w type="hw">Sron</w> .i. sruaim .i. imat ena .i. uisce.
+</p>
+<p xml:id="Loman.159">
+<w type="hw">Srathar</w> .i. ar sreith na nesnad bís.
+</p>
+<p xml:id="Loman.160">
+<w type="hw">Srann</w> .i. sron ann .i. ann isin sroin bis.
+</p>
+<p xml:id="Loman.161">
+<w type="hw">Sruth</w> .i. sruaim etha .i. imat eisc indte
+</p>
+<p xml:id="Loman.162">
+<w type="hw">Stat</w> a uerbo sta .i. tairisim.
+</p>
+<p xml:id="Loman.163">
+<w type="hw">Stab</w> a stando .i. ara comnairte.
+</p>
+<p xml:id="Loman.164">
+<w type="hw">Stiall</w> .i. is di íall hidi .i. di leinid; ł quasi sdiad .i. is di iadtair in muincille
+</p>
+<p xml:id="Loman.165">
+<w type="hw">Scian</w> .i. is gæ a h&aolig;n .i. a h&aolig;nur hí; uel a uerbo scinde .i. dluige neich
+</p>
+<p xml:id="Loman.166">
+<w type="hw">Scuit</w> .i. genaige .i. as coi faitciusa fora mbi; ł coi faitbiuda do cách e
+</p>
+<p xml:id="Loman.167">
+<w type="hw">Scailp</w> .i. a uerbo scalpo .i. lomruim.
+</p>
+<p xml:id="Loman.168">
+<w type="hw">Ses</w> ethair, quasi sos in fir imruma e
+</p>
+<p xml:id="Loman.169">
+<w type="hw">Srub</w> .i. rub a uerbo ruo <cb n="p. "/> .i. srainim
+</p>
+<p xml:id="Loman.170">
+<w type="hw">Siur</w> a nomine sorur laitine.
+</p>
+<p xml:id="Loman.171">
+<w type="hw">Sail</w> .i. sofillti í ara maithe.
+</p>
+<p xml:id="Loman.172">
+<w type="hw">Sindach</w> .i. sen-nech .i. neach as sine do conaib e .i. ar fat a rée.
+</p>
+<p xml:id="Loman.173">
+<w type="hw">Sicc</w> quasi secc a nomine sicus .i. tirim.
+</p>
+<p xml:id="Loman.174">
+<w type="hw">Saltair</w> a nomine salterium latine.
+</p>
+<p xml:id="Loman.175">
+<w type="hw">Scatan</w> .i. scuit <add>.i. genaige</add> in ena é .i. in uisce.
+</p>
+<p xml:id="Loman.176">
+<w type="hw">Suine</w> .i. sommata, ut ailius dixit, testa d’immudh ar saine <add place="margin-right">ł u</add>, a rí duile ni deine, nimda febach fuaim naine, rogab legad ’ma leine
+</p>
+<p xml:id="Loman.177">
+<w type="hw">Sodaing</w> .i. suabais. ainm doilidh do mathair maic miled
+</p>
+<p xml:id="Loman.178">
+<w type="hw">Traig</w> .i. a tractu; ł quasi .t. rig .i. rig terrum, ar asi benus fri lar.
+</p>
+<p xml:id="Loman.179">
+<w type="hw">Truit</w> .i. on treot i mbí asberar; ł on traite .i. on luas doní.
+</p>
+<p xml:id="Loman.180">
+<w type="hw">Tru</w> quasi do-ru .i. doig a tuitim, a uerbo ruo; ł tí rú .i. ar ti a tutma ata; ł a troia dicitur .i. ara mince a hair-sen. 
+</p>
+<p xml:id="Loman.181">
+<w type="hw">Truag </w>.i. tru-ag .i. agasta do a beith gurab tru.
+</p>
+<p xml:id="Loman.182">
+<w type="hw">Torsi</w> .i. tor gac trom .i. tromsi hí.
+</p>
+<p xml:id="Loman.183">
+<w type="hw">Truaill</w> .i. dir uaille hí.
+</p>
+<p xml:id="Loman.184">
+<w type="hw">Tell</w> a tellure.
+</p>
+<p xml:id="Loman.185">
+<w type="hw">Tarathar</w> .i. dair-uath-air .i. uath na darach fair ara sicci-sein.
+</p>
+<p xml:id="Loman.186">
+<w type="hw">Tonn</w> a uerbo tunno; a tonndeo .i. ar berraig in fer din murbach.
+</p>
+<p xml:id="Loman.187">
+<w type="hw">Tairesc</w> .i. táir-esc .i. tairis tescus gach ni; ł direch tescus <cb n="p. 79a"/>
+</p>
+<p xml:id="Loman.188">
+<w type="hw">Tulach</w> .i. tul-uach .i. uacht indti 7 hí ’na tul .i. nocht, ar us nocht <add place="inline"></add> gac tul <note>'gac tul' transposed</note>.
+</p>
+<p xml:id="Loman.189">
+<w type="hw">Tairseach</w> .i. tairis asdeach tíaghar.
+</p>
+<p xml:id="Loman.190">
+<w type="hw">Tenga</w> .i. te i ngabann sí .i. an bel tall.
+</p>
+<p xml:id="Loman.191">
+<w type="hw">Troid</w> .i. obunn í ł luath, 7 inde dicitur, ticfa traide .i. co lúath; ł quasi tru-ait .i. ait í la troich
+</p>
+<p xml:id="Loman.192">
+<w type="hw">Traill</w> a nomine trulla .i. losud .i. ar doire a fognama
+</p>
+<p xml:id="Loman.193">
+<w type="hw">Tocad</w> .i. ti-caid .i. ar ti cádhus bis; ł ar ti cuadh ata.
+</p>
+<p xml:id="Loman.194">
+<w type="hw">Tir</w> a terra.
+</p>
+<p xml:id="Loman.195">
+<w type="hw">Tuindti</w> lin .i. a uerbo tundo.
+</p>
+<p xml:id="Loman.196">
+<w type="hw">Traigle</w> .i. traig a letfad; ł da raigled doberar fair oca beim fein dia t&aolig;buib. ł trog-iall é .i. a ialla fein as e a trog .i. a clann.
+</p>
+<p xml:id="Loman.197">
+<w type="hw">Tast</w> .i. tæ astus é.
+</p>
+<p xml:id="Loman.198">
+<w type="hw">Tiag</w> .i. on toga, ar us toga .s. bis indte; ł a tego
+</p>
+<p xml:id="Loman.199">
+<w type="hw">Tonn</w> a tonitruo .i. on toraind bis indte; ł a tono fograidim.
+</p>
+<p xml:id="Loman.200">
+<w type="hw">Tarrach</w> .i. uamnach, quia fit tor .i. ecla
+</p>
+<p xml:id="Loman.201">
+<w type="hw">Timpan</w> .i. tim .i. bocc .i. sail, 7 ban .i. uma bis indti; ł quasi simpan a simfonio .i. on bindus.
+</p>
+<p xml:id="Loman.202">
+<w type="hw">Tagra</w> quasi da grad .i. dana grad bis ann.
+</p>
+<p xml:id="Loman.203">
+<w type="hw">Tastall</w> .i. ar tus toltar ri asin leim.
+</p>
+<p xml:id="Loman.204">
+<w type="hw">Termonn</w> .i. tirma a maine cin a fliuchad amuich
+</p>
+<p xml:id="Loman.205">
+<w type="hw">Tin</w> .i. meith ł bocc ł math, ut dicitur : frisbert tinu a t&aolig;ib, 7 ni bi fri coilced tinca.
+</p>
+<p xml:id="Loman.206">
+<w type="hw">Tin</w> toscach ł bunad, tindrem, unde dicitur tindscetal.
+</p>
+<p xml:id="Loman.207">
+<w type="hw">Tathut</w> .i. ata acut.
+</p>
+<p xml:id="Loman.208">
+<w type="hw">Tathum</w> .i. ata agum.
+</p>
+<p xml:id="Loman.209">
+<w type="hw">Taigdi</w> .i. biadh laithe
+</p>
+<p xml:id="Loman.210">
+<w type="hw">Toisg</w> .i. tosga .i. causa.
+</p>
+<p xml:id="Loman.211">
+<w type="hw">Tafonn</w> a uerbo tafan foon .i. coruptio ł efusio sangunis. <cb n="p. 79b"/>
+</p>
+<p xml:id="Loman.212">
+<w type="hw">Uasal</w> .i. uasa fil.
+</p>
+<p xml:id="Loman.213">
+<w type="hw">Ua</w> .i. óo he oldas in mac, ar us taisce mac 7 athair inda ua.
+</p>
+<p xml:id="Loman.214">
+<w type="hw">Uath</w> .i. sceach ar imad a dealg.
+</p>
+<p xml:id="Loman.215">
+<w type="hw">Uaitne</w> .i. uaid suidigtar in deilb.
+</p>
+<p xml:id="Loman.216">
+<w type="hw">Uall</w> .i. o adle asberar.
+</p>
+<p xml:id="Loman.217">
+<w type="hw">Uair</w> ab ora latine.
+</p>
+<p xml:id="Loman.218">
+<w type="hw">Uillenn</w> .i. uille na fil ann .i. da cnaim 7 da fid.
+</p>
+<p xml:id="Loman.219">
+<w type="hw">Uth</w> .i. on tsuth <add>.i. on loim</add> asbar
+</p>
+<p xml:id="Loman.220">
+<w type="hw">Ulchæ</w> .i. cai <add>.i. tech</add> na hoile í
+</p>
+<p xml:id="Loman.221">
+<w type="hw">Ulu</w> .i. uille, ł int adnacul eile.
+</p>
+<p xml:id="Loman.222">
+<w type="hw">Usca</w> quasi súsce .i. geir suis .i. na muice.
+</p>
+<p xml:id="Loman.223">
+<w type="hw">Urgal</w> .i. togbail.
+</p>
+<p xml:id="Loman.224">
+<w type="hw">Unach</w> quasi a-nech .i. nighe in á .i. in cinn, ar us á gach ard.
+</p>
+<p xml:id="Loman.225">
+<w type="hw">Urnaigti</w> .i. ab ore nigeas neach .i. o gin intí canus.
+</p>
+<p xml:id="Loman.226">
+<w type="hw">Uaran</w> .i. uar a en .i. a uisge.
+</p>
+<p xml:id="Loman.227">
+<w type="hw">Urla</w> .i. ciab, ar us for ur lues hí .i. tosach, quia fit ur gac toísech 7 iar gac ndeidinach.
+</p>
+<p xml:id="Loman.228">
+<w type="hw">Unga</w> .i. ab ungsia latine
+</p>
+<p xml:id="Loman.229">
+<w type="hw">Ugdar</w> ab augmento, ar doní fein ní núa
+</p>
+<p xml:id="Loman.230">
+<w type="hw">Ustaing</w> .i. na huaisle ’ca toinge ima comall.
+</p>
+<p xml:id="Loman.231">
+<w type="hw">Ugga</w> .i. aige a &aolig;nar ata sé.
+</p>
+<p xml:id="Loman.232">
+<w type="hw">Udbairt</w> .i. uad berar, 7 ni haige bis.
+</p>
+<p xml:id="Loman.233">
+<w type="hw">Umal</w> quasi umilis latine; umilis uero quasi umo clinis.
+</p>
+<p xml:id="Loman.234">
+<w type="hw">Umæ</w> id est ab umo, ar us de uir donither <cb n="p. 79c"/>
+</p>
+<p xml:id="Loman.235">
+<w type="hw">Umdaim</w> .i. ab umbilico .i. imlecan
+</p>
+<p xml:id="Loman.236">
+<w type="hw">Ucing</w> .i. cabhlach, ut est ucing la sesur for muir.
+</p>
+</div>
+
+      </body>   
+   </text>
+</TEI>

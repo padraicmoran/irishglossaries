@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml [
+<!ENTITY aolig "AO-LIG">
+<!ENTITY aoligacute "ÁO-LIG">
+]>
+<?oxygen RNGSchema="eigp.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sanas Cormaic (Cormac's Glossary), version B</title>
+            <respStmt>
+               <resp>Early Irish Glossaries Project</resp>
+               <name>Paul Russell</name>
+               <name>Sharon Arbuthnot</name>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <funder>Arts and Humanities Research Council</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition prepared by the Early Irish Glossaries Project</edition>
+            <respStmt>
+               <resp>First draft</resp>
+               <name>Pádraic Moran</name>
+            </respStmt>
+            <!--
+               <respStmt>
+               <resp>Proofing</resp>
+               <name>TO FOLLOW</name>
+               </respStmt>
+            -->
+         </editionStmt>
+         <publicationStmt>
+            <publisher><ref target="http://www.asnc.cam.ac.uk/irishglossaries/">Early Irish Glossaries Project</ref></publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <address>
+               <addrLine>Department of Anglo-Saxon, Norse and Celtic</addrLine>
+               <addrLine>University of Cambridge</addrLine>
+               <addrLine>9 West Road</addrLine>
+               <addrLine>Cambridge CB3 9DP</addrLine>
+               <addrLine>England</addrLine>
+            </address>
+            <date>July 2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Dublin</settlement>
+                  <repository>Royal Irish Academy</repository>
+                  <idno>23 P 16</idno>
+                  <msName>Leabhar Breac</msName>
+               </msIdentifier>
+            </msDesc>
+            <bibl>W. Stokes (ed.), Three Irish Glossaries (London, 1862 (repr. Felinfach 2000)), pp. 1–44</bibl>
+            <bibl>J. O’Donovan and W. Stokes (transl. and eds.), Cormac’s Glossary (Calcutta, 1868).</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc><p>Encoded for the Early Irish Glossaries Project. </p></projectDesc>
+         <editorialDecl><p>For detail of editorial practices, see document ‘Transcription Notes’ available on the <ref target="http://www.asnc.cam.ac.uk/irishglossaries/">project website</ref>.</p></editorialDecl>
+         <refsDecl><p>References number are keyed to entries in a MySQL database running on the project website, which is used to generate concordance tables.</p></refsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gle">Irish (mostly Old and Middle)</language>
+            <language ident="lat">Latin (often medieval orthography, sometimes corrupt)</language>
+            <language ident="grc">Ancient Greek (Latin script, sometimes corrupt)</language>
+            <language ident="heb">Hebrew (Latin script, often corrupt)</language>
+            <language ident="cym">Welsh (or possibly other Brittonic)</language>
+            <language ident="non">Old Norse</language>
+            <language ident="eng">Old English</language>
+            <language ident="qpi">Pictish</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+<div xml:id="B">
+<p xml:id="B.1">
+<w type="hw" lemma="Ádam">Adam</w> .i. homo uel terrigena. 
+</p>
+<p xml:id="B.2">
+<w type="hw" lemma="Adamnán">Adomnan</w> .i. homunculus. 
+</p>
+<p xml:id="B.3">
+<w type="hw" lemma="ard 1">Ard</w> ab arduo. 
+</p>
+<p xml:id="B.4">
+<w type="hw" lemma="adrad 1">Adradh</w> ab adoratione. 
+</p>
+<p xml:id="B.5">
+<w type="hw" lemma="ascalt">Asgalt</w> .i. eisgeilt ł ascolt. colt .i. biad. 
+</p>
+<p xml:id="B.6">
+<w type="hw" lemma="asclang">Asgland</w> ł asglang .i. huasglaind. gland ł glang, guala. 
+</p>
+<p xml:id="B.7">
+<w type="hw" lemma="árad">Arad</w> .i. rith ł riad ł arad fri a. A .i. cach n-ard ł cach n-uasal .i. a. ard. 
+</p>
+<p xml:id="B.8">
+<w type="hw" lemma="adaltair">Adaltrach</w> .i. ab adulterio. 
+</p>
+<p xml:id="B.9">
+<w type="hw" lemma="asclang">Adaltair</w> ab adultero. 
+</p>
+<p xml:id="B.10">
+<w type="hw" lemma="accais">Acais</w> .i. a causa. 
+</p>
+<p xml:id="B.11">
+<w type="hw" lemma="altram(m)">Altrom</w> id est ab eo quod est alo. 
+</p>
+<p xml:id="B.12">
+<w type="hw" lemma="aicher">Aicher</w> ab eo quod est acer .i. laind ł tind ł tren. 
+</p>
+<p xml:id="B.13">
+<w type="hw" lemma="amus">Amḟos</w> ł anfos .i. inti na bi foss <corr>air</corr> acht ho locc do locc <add>de loco ad locum</add>. 
+</p>
+<p xml:id="B.14">
+<w type="hw" lemma="ar 4">Ar</w> ab eo quod est aro <add>airim</add>. 
+</p>
+<p xml:id="B.15">
+<w type="hw" lemma="áinne">Anne</w> .i. cuaird. ueteres enim ponebant an pro circum unde dicitur annus. 
+</p>
+<p xml:id="B.16">
+<w type="hw" lemma="airches 1">Airches</w> .i. ab arceo .i. iarsinni dothimairges <add>ł dothimairg</add> indí focherd innte. 
+</p>
+<p xml:id="B.17">
+<w type="hw" lemma="ainsherc">Andseirg</w> .i. andsa <add>ł anusa</add> aṡeirc. 
+</p>
+<p xml:id="B.18">
+<w type="hw" lemma="argat">Airged</w> .i. quasi airgeinnti ab argentó. 
+</p>
+<p xml:id="B.19">
+<w type="hw" lemma="arcu">Arco</w> .i. fitir. dom dia arco .i. postulo ueniam. arco fuin .i. dom día atlocor uel peto ueniam a deo uel gratias ago uel tothluchur dilgud a deo post peccatum. aliter arco ab arceo finem deo .i. timarchim mo crich deo quamuis primo peccaui. 
+</p>
+<p xml:id="B.20">
+<w type="hw" lemma="arcu">Atlochar</w> .i. dilgud dom ḋia. 
+</p>
+<p xml:id="B.21">
+<w type="hw" lemma="arseo *">Arseo</w> .i. fitirum. 
+</p>
+<p xml:id="B.22">
+<w type="hw" lemma="astal">Asdol</w> ab asdula .i. slissean ł gæ liubair. 
+</p>
+<p xml:id="B.23">
+<w type="hw" lemma="ascae">Ascaid</w> .i. scáil unde asgæte <add>.i. laechda ł scalta arunthmaire inlaich amail scal ł amail scath</add>. 
+</p>
+<p xml:id="B.24">
+<w type="hw" lemma="an-">An</w> am .i. diultad gædelgi amail rogab nath 7 annath em 7 aneim <add>nert 7 amnert</add>. 
+</p>
+<p xml:id="B.25">
+<w type="hw" lemma="adamrae">Adamra</w> ab admiratione. 
+</p>
+<p xml:id="B.26">
+<w type="hw" lemma="airdam">Aurdam</w> .i. aurdoim .i. aurtegdais <add>.i. fri thtegdais</add>. 
+</p>
+<p xml:id="B.27">
+<w type="hw" lemma="almsa">Almsan</w> .i. quasi elimsan ab elimosyna. <add place="margin-right">almsan quasi almusson .i. arisard fogur na halmsaine</add> 
+</p>
+<p xml:id="B.28">
+<w type="hw" lemma="ard 1">Art</w> tréide fordongair. art .i. uasal. unde dicitur fine airt <add>ł art fine</add>, art .i. dia undo dicitur <add>Eochaid find</add> fuath n-airt .i. fuath dee .i. ar cæime <add>in fir sin</add>. Item Cúchulainn <add>post mortem</add> dicere perhibetur domemaidh art uasal .i. dia uasal. ocus art .i. cloch <add>ł lec lige cuius diminutiuum</add> arteine .i. clocheni unde uel inde dixit Guaire Aidne dochelit mor n-ámra indairtine bede forlige Marcáin <add>ł Maircini</add> maic Æda maic Marceine. 
+</p>
+<p xml:id="B.29">
+<w type="hw" lemma="arg 1">Arg</w> tréde fordongair. arg .i. bainne. unde dicitur <add>argda</add> ruarc .i. robanna .i. snige mor doḟleochud. arg din .i. lœch. unde dicitur <add>argda .i. laechda</add> cuius uxor argeind. argeind din .i. is gein do arg .i. do læch abeth aige <add>7 is maith do</add>. uel argcuin <add>.i. is arg .i. laech</add> .i. cuiniu .i. bean. Arg din airdhairc unde dicitur airchedul <add>.i. argcetul</add> .i. cedul orrdhairc ara mence conchanair. is aire din nícedul lœch atberar. arní do lœchu <add>tantum</add> .i. náma dognithear. 
+</p>
+<p xml:id="B.30">
+<w type="hw" lemma="ap 1">Ab</w> ab eo quod est pápás uel a nomine hebraico quod est abba <add>id est pater</add>. 
+</p>
+<p xml:id="B.31">
+<w type="hw" lemma="athair 1">Athair</w> hoc ater primitus dicebatur quasi pater. 
+</p>
+<p xml:id="B.32">
+<w type="hw" lemma="ailt 3">Alt</w> ab altitudine. 
+</p>
+<p xml:id="B.33">
+<w type="hw" lemma="Ana">Ana</w> .i. m<ex>ate</ex>r deeorum hibernenncium. robumaith didiu nosbiathadsi na dee <add>deos. de cuius nomine anæ dicitur, ímbed 7 de</add> c<ex>uiu</ex>s no<ex>min</ex>e da cich <add>n</add>Anainne iar Luach<ex>air</ex> no<ex>min</ex><gap extent="3 letters" reason="erasure"/>antur ut fabulauerunt <add>uel fertur</add>. uel ana quod <add>est</add> ann<add place="infralinear">i</add>o <add>ł anind</add> grece quod interpretatur dapes. 
+</p>
+<p xml:id="B.34">
+<w type="hw" lemma="ánrad">Anruth</w> nomen secundi gradus poetarum. 
+</p>
+<p xml:id="B.35">
+<w type="hw" lemma="amrath 2">Amrath</w> .i. nemrath .i. ni tabar rath dia hessi doridise uair is iarmbas duine dogníther. Aliter bidomus <add place="margin-left">ł bidammós</add> .i. éc. <add>anam din is donní as amóss</add>. amrath din écrath rath iarnecaib doberair o muinntir intí diaṅdéntar lógairecht furri sed huius postremum non tam laudo. 
+</p>
+<p xml:id="B.36">
+<w type="hw" lemma="áed">Ae<add>dh</add></w> .i. tene. tri<add place="infralinear">a</add> impúd in anmma is <add>æd</add> dea .i. bandee <add>tened</add> quod ipsa est ue<del>t</del>usta .i. bandee thene<add place="infralinear">a</add>d et quod Uestam illam deem œguis <add>ł esse ígnis</add> fabala u<add>ł f</add>er<del>u</del>t<ex>ur</ex>, Uesta ipsa ingnis dicitur .i. aed. 
+</p>
+<p xml:id="B.37">
+<w type="hw" lemma="amnas">Amnas</w> quasi amnes. ab eo quod est amnestia .i. uli <add>ł uile ł ogh</add> dilgend. 
+</p>
+<p xml:id="B.38">
+<w type="hw" lemma="airsa">Aursa</w> .i. airisiu <add>ł arsisiu</add> iarsinni airises inteach furri. <add place="margin-left">{?} aliter aursa .i. or sin .i. alanor fri teg anaill tri sin</add> 
+</p>
+<p xml:id="B.39">
+<w type="hw" lemma="aititiu">Aiditiu</w> .i. aitdetiu .i. detiu iterum iarnadítiu lanech n-aile prius. 
+</p>
+<p xml:id="B.40">
+<w type="hw" lemma="anart 1">Anart</w> .i. hinirt .i. hirt hás. ut dixit Moran mac Main <add>.i. amal rogab isin tig anail Morainn maic Main</add> dath don dig hirt <add>ł dic irt</add> .i. doudig báis. anart <add>din</add> .i. inbáis arabainni. is cosmail fri ali bais arnísbi <add>ni do</add> dergi and. quasi exsanguis mortuus. 
+</p>
+<p xml:id="B.41">
+<w type="hw" lemma="aidacht">Audacht</w> .i. huathḟecht .i. intan téit induine fri fecht ṅeca <add>ł ṅuatha</add> .i. inbais. 
+</p>
+<p xml:id="B.42">
+<w type="hw" lemma="anamain 1">Anomain</w> .i. ainmm airchedail .i. ánsomain <add>.i. nomen na nar{?}asomaine</add> .i. for meit aluaiġe 7 agráid. 7 is é dan inollaman. unde dicitur inloing anoman ollam. 
+</p>
+<p xml:id="B.43">
+<w type="hw" lemma="ánrad">Anruth</w> <add>.i. nomen secundi gradus poetarum</add> .i. sruth án inna cáinmolta uad la sruth na máine chuige dia hessi. 
+</p>
+<p xml:id="B.44">
+<w type="hw" lemma="anair 1">Ana</w>.ir .i. ainmm airchedail. is e <add>dan</add> doní cli .i. anáir. ni háir acht as molad. cidsamlaid son din dicach comurg molta is dilsiu don alt airchitail issiu ar is fuirmed na ḟileadh romidair na hanmannasa dona haircheatlaib dia sloindead na nilalt 7 ni haigned romidir leosum. 
+</p>
+<p xml:id="B.45">
+<w type="hw" lemma="anfobracht">Anforbracht</w> .i. ainm duine bís asirg 7 timairgeas galur conabí beoil nasúg and. bracht din enim nomen béoil uocatur. 
+</p>
+<p xml:id="B.46">
+<w type="hw" lemma="adart">Adart</w> .i. <add>quasi</add> adirt .i. adæ mbáis arisarbás adrimther codlud. is ainm dono irt do bas 7 is ainm bas dont ṡuan. {?} telcud fri hadart <corr>7 is airde codalta</corr>. unde dicitur descaid chodulta freslige. 
+</p>
+<p xml:id="B.47">
+<w type="hw" lemma="adart">Adart</w> .i. athard árisairde oldás aniumdha olchena. 
+</p>
+<p xml:id="B.48">
+<w type="hw" lemma="ara 2">Airæ</w> <add>.i. cind</add> .i. araui. fri hó anair arfhás. Aire din da cach ard is ainm. 
+</p>
+<p xml:id="B.49">
+<w type="hw" lemma="aithle">Aithle</w> .i. athfhola. asméssa hí oldás fola. 
+</p>
+<p xml:id="B.50">
+<w type="hw" lemma="axal">Axal</w> ł <w type="hw" lemma="">Axail</w> ab auxilio quod angeli hominibus praebent. 
+</p>
+<p xml:id="B.51">
+<w type="hw" lemma="arathar">Arathar</w> ab aratro. 
+</p>
+<p xml:id="B.52">
+<w type="hw" lemma="án 3">Ana</w> .i. sdaba beca bidís forsna tibradaib isna cánaib dlúthaib. unde dicitur damaid ána for lindib. 7 bá doargad badís mence ut Mac da Cherda dixit for Cnucc Rafand, INráith morsa <add>ł hisa</add> forsna mfil, ambid tibran fo án gil, babínd gáir choille loinche, umráith Fiachach maic Moinche <add>.i. Muilaethan</add>. Fri hól do dháinib scítha estib nofácbatis imorro uasu forsna tibratib 7 ba ho rígaib dobertís forru dofromad a cána. 
+</p>
+<p xml:id="B.53">
+<w type="hw" lemma="athgabáil">Athgabail</w> .i. na teora ba toisechu <cb n="p. 263b"/> rogab Assal ar Mog mac Nuadhat. Athgabail din iar<corr>sinní</corr> adgaib cách aleass trethi. Athgabail din .i. na .ui. ba namairech. lege hi Fenchus már. 
+</p>
+<p xml:id="B.54">
+<w type="hw" lemma="aithech 2">Aithech</w> .i. áith 7 aech .i. náma aith. Aithech din náma aith. ní ainm acht do dheglæch. 
+</p>
+<p xml:id="B.55">
+<w type="hw" lemma="aithches 1">Aithches</w> .i. uxor eius quomodo laiches a laico. 
+</p>
+<p xml:id="B.56">
+<w type="hw" lemma="ó 3 (compd)">Aunasc</w> <add>.i. nasc aue</add> .i. órnasc nobíd umdoitib ł agluassaib mac na særchland. 
+</p>
+<p xml:id="B.57">
+<w type="hw" lemma="aigen 1">Aighean</w> .i. hógfaen amail bid leathnuiġe. 
+</p>
+<p xml:id="B.58">
+<w type="hw" lemma="aittenn">Aitteand</w> .i. aiththeand acht <add>ł sech</add> is áith is teand. unde dixit mac Samain, Ni hinmain fid furigin, fil hitaeban toriġin, romráin co brath adhuille, nim aincend a ḟidruinne.
+</p>
+<p xml:id="B.59">
+<w type="hw" lemma="airdún">Aurduine</w> .i. ar dórrsib na ndúine fogníd lasin æs cerde. 
+</p>
+<p xml:id="B.60">
+<w type="hw" lemma="airber 1">Airber</w> .i. fritt anair munabire <add>ł nombere</add> iter dó di láim ar is fort aniar dombere na haire árchena. Air din cach ṅairther ut est Airmhuṁa .i. ir cach ní is híre uat ut est Irṁuma .i. Muma is ire asesside asi rmhuṁa{?}. 7 ut dicitur Ara airther ar attatt na teora hAirne and .i. Ára airther as nessa do Eirinn. Ára irther din esside is iram ho Eirinn siar. acht is esside in Ara iarthair betha. 
+</p>
+<p xml:id="B.61">
+<w type="hw" lemma="Áine">Aine</w> a nomine Aine ingeine Eogabail. 
+</p>
+<p xml:id="B.62">
+<w type="hw" lemma="apartu">Abarta</w> .i. sechtmad furirid induine gabar isin abartain. isi abartain techta. is ara aipert din namá atobair in duine di araile sin níarárullad chena acht epert dó fri a cheile nodgebim in abartain. archobli <add>ł ar cobele</add> din doberair. 
+</p>
+<p xml:id="B.63">
+<w type="hw" lemma="áilges">Ailges</w> din .i. geis ġuide, is aráil din nama doberar inġuidesin. 7 ní ar molad. uii mad loige enig intí cusacuindigar inailġes <add>isi inailges</add> techta. 
+</p>
+<p xml:id="B.64">
+<w type="hw" lemma="athaba">Athaubhæ</w> quasi bath .i. bas. 
+</p>
+<p xml:id="B.65">
+<w type="hw" lemma="oíbind">Aimind</w> ab eo quod est amoenum. 
+</p>
+<p xml:id="B.66">
+<w type="hw" lemma="airchinnech">Airchindech</w> .i. archennach. arcos grece excelsus latine dicitur. Airchindech din .i. uasalcheand. 
+</p>
+<p xml:id="B.67">
+<w type="hw" lemma="ambuae">Ambuæ</w> .i. ní bunadach. buæ cach bunadach din. 
+</p>
+<p xml:id="B.68">
+<w type="hw" lemma="ada(e)">Adae</w> .i. ad dee .i. dír do dia. 
+</p>
+<p xml:id="B.69">
+<w type="hw" lemma="altan">Allan</w> .i. ail teind mad dia tecma. 
+</p>
+<p xml:id="B.70">
+<w type="hw" lemma="adann">Adand</w> .i. æn hitharna. ut poeta Hitharna, mad dia tecma hi tlithadba, ar dia ni radluathadna, arluathlabra nitharba. ut dixit Colman mac Lénín. Luin ho celaib uinge hoc dírnai, crotha banaithech occ rothaib rignai, rig hoc Domnall dord ocaibsi, adand oc cainnill colg ac mo choilgsi.
+</p>
+<p xml:id="B.71">
+<w type="hw" lemma="á 1">A</w> .i. fén ł carr ł carpat. item Fer Muman a quibusdam plebilibus audiuit in aquius parte ut dixerunt INnéssar dam thá, tó mana mó mo a, árataire mo a mó, maini má do á tó.
+</p>
+<p xml:id="B.72">
+<w type="hw" lemma="aitire">Aitire</w> .i. iter adé .i. iter da ḟéchemain. 
+</p>
+<p xml:id="B.73">
+<w type="hw" lemma="aingel 1">Aingel</w> .i. angelus .i. bonus nuntius .i. dagthechtaire. unde Scoti dicunt aingel solas .i. grianda .i. failid. 
+</p>
+<p xml:id="B.74">
+<w type="hw" lemma="áige 2 (cmpd)">Aigrere</w> .i. aige rere .i. breitheam. 
+</p>
+<p xml:id="B.75">
+<w type="hw" lemma="aigne">Aighne</w> .i. fer aiges aí .i. airchedul ł caingean. 
+</p>
+<p xml:id="B.76">
+<w type="hw" lemma="airndel">Airndel</w> .i. air indeal .i. indeal namra hi. 
+</p>
+<p xml:id="B.77">
+<w type="hw" lemma="aithinne">Aithinne</w> .i. <corr>áithténe ł aithle</corr> thenead. 
+</p>
+<p xml:id="B.78">
+<w type="hw" lemma="apstal">Apstal</w> .i. ab posdulo .i. ad dominum posdulo .i. tóchuirimm. 
+</p>
+<p xml:id="B.79">
+<w type="hw" lemma="ainder">Ainder</w> .i. bean .i. ni deir ni hingen. der enim filia uel uirgo uocatur. 
+</p>
+<p xml:id="B.80">
+<w type="hw" lemma="ainidan">Anidan</w> .i. an fó diultad. hidan imorro .i. hidon ab eo quod est idoneus .i. tairise. 
+</p>
+<p xml:id="B.81">
+<phr type="hw" lemma="adba 1">Adba othnoe</phr> .i. adba uath onæ <add>ł uinde</add>. uath uir 7 ond cloch .i. ádba úire 7 chloiche ut dixit IShé inlia lith rolass, iarsrethaib suad is senchass, issed hond iarnaignead ail, inchloch issí iarrastair.
+</p>
+<p xml:id="B.82">
+<w type="hw" lemma="aicill(n)e">Aigillne</w> .i. áugo gillnæ .i. hodhorand in fer sét taurchlotha di araile .i. lóg a eniġ arairidin <add>ł arairitin</add> sét uad isaugo dó iarom gillnnæ don firsin 7 airitiu sét uad arbes naircenda. Cid adlaic do din airitiu sét oneoch aile nichumaing acht anairitiu ho fir ombeir seodu taurchlothu. cid iarnairitin tra sét arbes naircenda onaib ceilib dona flathib is ainm aigille donaib célib 7 is improprie son imorro proprie autem aigille dicere dona feraib gabait seodu taurclotha ceniberat taurcrec arimḟógnam ṅairchendchaide.
+</p>
+<p xml:id="B.83">
+<w type="hw" lemma="bennacht">Bendacht</w> quasi benedicht a benedictione. 
+</p>
+<p xml:id="B.84">
+<w type="hw" lemma="Búanann">Buanand</w> muimme na fiann .i. be nAnand cosmaile diblínib. amail robu máthair dee indí Ánu sic Buanand crat máthair na fian .i. dagmathair. <corr>Aliter Buanand</corr> am buan .i. is bón .i. dendi is bonum. amail dicitur genither buan o ambuan .i. maith o ulc. an and fil isin ní is Buanand <add>is mater</add> is <corr>ed fil</corr> inni is Anu .i. mater deorum. Buanand din .i. dáġmathair oc forcedul gaiscid dona fianaib. 
+</p>
+<p xml:id="B.85">
+<w type="hw" lemma="bran 1">Bran</w> .i. fiach. unde dicitur brandæ .i. fiachda arduibe 7 scothim. 7 brandub .i. fiach dub. unde dicitur branorgain arinní <add>.i.</add> foirgges fiach iudsin .i. branorgain. <cb n="p. 264a"/>
+</p>
+<p xml:id="B.86">
+<w type="hw" lemma="bíast">Beist</w> .i. a bestia. 
+</p>
+<p xml:id="B.87">
+<w type="hw" lemma="bárc 1">Bárc</w> .i. a barca. 
+</p>
+<p xml:id="B.88">
+<w type="hw" lemma="bés 1">Bés</w> .i. ab eo quod est besus .i. bés. 
+</p>
+<p xml:id="B.89">
+<w type="hw" lemma="breth">Breth</w> .i. fuigell. ar is fuigell neich ele inbreth ar rouc nech ele inbreth remi. 
+</p>
+<p xml:id="B.90">
+<w type="hw" lemma="bráth">Brath</w> .i. combrec din donni is braut .i. iudex. is labrethemain din a ænur inlaethesin inbrátha .i. Iesu Christi. 
+</p>
+<p xml:id="B.91">
+<w type="hw" lemma="bráthair">Brathair</w> din quasi fratair ar frater rotruaillned ind. Frater quasi frauter eo quod fraudat ter .i. patrem et matrem et fratrem. 
+</p>
+<p xml:id="B.92">
+<w type="hw" lemma="bachall">Bachall</w> quasi bacul id est a baculo. ł bachall ut poeta dicit Iath ainm do chlug conaḟǽid nocochelad inglanġaith, bach buain inadhorus tall, bricht ocus bacc is bachall.
+</p>
+<p xml:id="B.93">
+<w type="hw" lemma="bádud">Bádudh</w> .i. ondí is bath .i. muir. 
+</p>
+<p xml:id="B.94">
+<w type="hw" lemma="baten">Baten</w> .i. bath aitin .i. éc oband .i. muirtchend adbail aænur. arinní asbath intan timorta ised indso bas fordingair. 
+</p>
+<p xml:id="B.95">
+<w type="hw" lemma="baircne">Baircne</w> .i. catt boineand ar <add>fobíth</add> is ambairc dosfucad. 
+</p>
+<p xml:id="B.96">
+<w type="hw" lemma="Bablúan">Babluan</w> .i. nomen mulieris. quasi Babilón id est confussio .i. dochumasc in ænberla a Miġ Shennáir oc an tur a n-ilberlaib. 
+</p>
+<p xml:id="B.97">
+<w type="hw" lemma="bablóir">Babloir</w> .i. ainm do Patraic. 
+</p>
+<p xml:id="B.98">
+<w type="hw" lemma="babb">Bab</w> interiecht aidbligthe de nomine bainb Breiss maic Elathan. arniboi an Erinn muc budgrátu. Babgither <add>ł Bóbgither</add> din aainmside. 
+</p>
+<p xml:id="B.99">
+<w type="hw" lemma="brosna">Brossnai</w> .i. brissni <add>insin do chrinach 7 do</add> minbach fedai iarsinni brister heláim 7 nibíail gabar dó. 
+</p>
+<p xml:id="B.100">
+<w type="hw" lemma="boll">Boll</w> quasi bull de nomine bulla, bolg uisce. 
+</p>
+<p xml:id="B.101">
+<w type="hw" lemma="birar">Biror</w> .i. bir tipra ł sruth. hor .i. mong. biror din mong thiprat ł srothai. 
+</p>
+<p xml:id="B.102">
+<w type="hw" lemma="Bel(l)taine">Belltaine</w> .i. bil tene .i. tene ṡoinmech .i. dáthene dognítis druidhe tria thaircedlu <add>ł cotinchetlaib</add> móraib combertis na cethrai arthedmannaib cacha bliadna cusnaténdtibsin <add place="margin-left">eictis na cethra etarru</add>. 
+</p>
+<p xml:id="B.103">
+<w type="hw" lemma="braccaille">Braccille</w> bracc lam 7 cáil coimét .i. lámand. 
+</p>
+<p xml:id="B.104">
+<w type="hw" lemma="brocóit">Brócoit</w> .i. combréc. braccat din ised la Bretnu. bracc iarom ainm do braich. braccat imorro sainlind .i. lind sæinmech brócoit .i. sainlind dognither do braich. 
+</p>
+<p xml:id="B.105">
+<w type="hw" lemma="binit">Binit</w> .i. benait .i. benaidh inas conad tiug 7 conad techt. 
+</p>
+<p xml:id="B.106">
+<w type="hw" lemma="braracht">Braracht</w> .i. breath .i. partus. 
+</p>
+<p xml:id="B.107">
+<w type="hw" lemma="bíail">Biáil</w> .i. bithail .i. bí fæbar. 
+</p>
+<p xml:id="B.108">
+<w type="hw" lemma="barad 1">Barad</w> .i. bás. 
+</p>
+<p xml:id="B.109">
+<w type="hw" lemma="bómlacht">Bomlacht</w> .i. bó 7 lacht. 
+</p>
+<p xml:id="B.110">
+<w type="hw" lemma="búachaill">Buachail</w> .i. cail coimétaige na mbó. 
+</p>
+<p xml:id="B.111">
+<w type="hw" lemma="búarach 1">Buarach</w> .i. bó 7 árach .i. fosta. Buarach dana bóergi .i. matan modi, unde dicitur fescor imbuarach. 
+</p>
+<p xml:id="B.112">
+<w type="hw" lemma="basc 2">Basc</w> .i. cechṅderg. Basc dana intan is do chuibrech <add>ł is do chuimriug</add> braiget is ainmm 7 dona mellaib dracondai is dileas. base .i. cach ṅderg. 
+</p>
+<p xml:id="B.113">
+<w type="hw" lemma="brisc">Brisc</w> .i. ab eo quod est priscus arisbrisc <add>cach crin 7</add> cach ṅarsaid. 
+</p>
+<p xml:id="B.114">
+<w type="hw" lemma="bó">Bó</w> nomen de sono uocis suae <add>factum est</add>. 
+</p>
+<p xml:id="B.115">
+<w type="hw" lemma="bóbath">Bobaith</w> .i. bó bath. <add>bath</add> .i. bás. essidein inboár. 
+</p>
+<p xml:id="B.116">
+<phr type="hw" lemma="belc(h)e">Bolg belchi</phr> .i. bélcheo .i. ceo <add>do</add>thæd asabeolu. 
+</p>
+<p xml:id="B.117">
+<w type="hw" lemma="birit">Berit</w> .i. berith .i. brithit. 
+</p>
+<p xml:id="B.118">
+<w type="hw" lemma="blinn">Blind</w> .i. saile mairb unde dicitur bás <add>in</add> blinna ch. Blindauga caech in lingua Galleorum dicitur. 
+</p>
+<p xml:id="B.119">
+<w type="hw" lemma="Bentraige">Benntraige</w> .i. binitrige .i. <add>de</add> millsen dliges rí Caissil dib indsin. ł a Benta patre eorum. 
+</p>
+<p xml:id="B.120">
+<w type="hw" lemma="bóige">Bóge</w> .i. ainm do choire ṡainnte dorigned lasin æs cerda. ise din cruth ambíd .i. nóe slabraid ass. 7 niba moasom oldás cend cingite moire. brefe din for cind cacha slabraid 7 nonbar æsa cerda inasessam uimme oc cantain <add>ł ocur</add> na cléri corínd gæi cach <add>æn</add> fir tria brefe cachṡlabraid ba nessa dó. Ocus intí iarom doberead rath doib ba hisin coiresin doberead. unde dicitur coire sainnte. Ba hé din alán cóir inchoire .i. bretnasc bánóir da uinge dég. 
+</p>
+<p xml:id="B.121">
+<w type="hw" lemma="bóige">Bóge</w> din ainm do ballan bec ambidís .u. ungi oir. issed <add>ł sech</add> nobíd fri hól sainlenda ass. 7 nobíd din fri géll doḟilid .i. do ollam. unde dicitur i mBrethaib nemid ballan baisse boge <add>.u. ṅuinge banoir</add>. 
+</p>
+<p xml:id="B.122">
+<w type="hw" lemma="briar">Briar</w> .i. delg ṅuinge <add>.i.</add> óir ut est i mBrethaibh nemidh. briar delg n-uinge. 
+</p>
+<p xml:id="B.123">
+<w type="hw" lemma="bráth">Brathchæi</w> .i. brethcheo ǽi. aliter quod est uerius .i. Cǽi Cænbrethach dalta Feniusa F<supplied>arsad</supplied>. ise in descipulsin rosiacht mec Isra heil fri fóglaimm nǼbhra. 7 ise ba bretheam la loinges mac Milid. is aire asberair Cæi Cænbrethach de fobith itbretha rechta nosberead. 7 is aire atimdha isin belra. nachtan bíther canríg isna tuathaib is bráthchǽi fogniad forru fri hurradus. diambe imorro rig is rechtge són amail asmaith lais. 
+</p>
+<p xml:id="B.124">
+<w type="hw" lemma="bruin(n)ech">Bruinech</w> .i. máthair. arinní biathas náidenu for abruindib .i. suis mammillis. 
+</p>
+<p xml:id="B.125">
+<w type="hw" lemma="balb">Bálb</w> ab eo quod est balbus. 
+</p>
+<p xml:id="B.126">
+<w type="hw" lemma="bot 2">Bót</w> .i. tene. unde dicitur isin anamain cetharreich bot áne hui Luigdech loisces. 
+</p>
+<p xml:id="B.127">
+<w type="hw" lemma="búas 1">Buas</w> .i. soas ṅairchedail iṁais arindí dotéit himais iarmbuas unde dicitur barr buaisse. 
+</p>
+<p xml:id="B.128">
+<w type="hw" lemma="brí 2">Bri</w> gach ṅaccais <add>ł cachṅocus</add> ut est a mBrethaib nemid .i. briamon smethraige .i. ainm <cb n="p. 264b"/> nemtheossa dogniat filid imnech ada toing. melid smitt induine iter a dá ṁer 7 do écci induine imandeni nemthess. fir inson amail asfri a induine anechtair ata inballso is fri adóini anectair ata induineseo. amail astimme 7 istlathi inballso quam alia membra sic et hic homo. 
+</p>
+<p xml:id="B.129">
+<w type="hw" lemma="Brigit">Brigit</w> .i. banfile ingen in Dagdai. is eiside Brigit baneceas <add>ł be neicsi</add> .i. Brigit bandee noadradís filid. arba romor 7 baroán afri thgnam. is airesin ideo eam <add>deam</add> uocant poetarum hoc nomine cuius sorores erant Brigit be legis Brigit bé goibnechta .i. bandé .i. tri hingena in Dagdai insin. de quarum nominibus pene omnes Hibernenses dea Brigit uocabatur. Brigit din .i. breoaigit ł breoṡaigit. 
+</p>
+<p xml:id="B.130">
+<w type="hw" lemma="bec">Bec</w> quasi ecec ebredi. 
+</p>
+<p xml:id="B.131">
+<w type="hw" lemma="bibdu">Bidba</w> grece bitheumatur .i. bis mortuus. adrolli abás fodí. 
+</p>
+<p xml:id="B.132">
+<w type="hw" lemma="Bil">Bil</w> .i. o Bial .i. dia hídal. unde beltine .i. tene Bil. 
+</p>
+<p xml:id="B.133">
+<w type="hw" lemma="báire 2">Baire</w> grece baronntes fortes dicuntur. ł baire .i. búire. 
+</p>
+<p xml:id="B.134">
+<w type="hw" lemma="binn">Bind</w> .i. a pindro .i. ho chruitt. 
+</p>
+<p xml:id="B.135">
+<w type="hw" lemma="brinn">Brinda</w> .i. a uerba ferrndeo <del>n</del> .i. arni lábra reil uel a bruto eloquio.
+</p>
+<p xml:id="B.136">
+<w type="hw" lemma="Cormac">Cormac</w> .i. corbmac .i. corb carput. Corbmac dín mac carpait. fri a Cormac geltai gæth do Laignib cetna erbrad arba isin carput roghenair sidhen. issed iarom a cóirortagraiph in anmma sin .i. corbmac .i. coraib .b. isin dialt <add>tuisig</add> nominis Cormaic sin .i. b. scribitur ut Corbmac. 
+</p>
+<p xml:id="B.137">
+<w type="hw" lemma="Cairpre">Coirbre</w> quasi coirbreo. ł Coirbre quasi corbaire .i. cuirbperi ł airai charpait. 
+</p>
+<p xml:id="B.138">
+<w type="hw" lemma="Cathal">Cathal</w> .i. combrec insin .i. catell .i. cat din isin combreic is cath in scotica an ell din is ail. Cathal din .i. ail chatha. 
+</p>
+<p xml:id="B.139">
+<w type="hw" lemma="cob">Cob</w> .i. buaid. 
+</p>
+<p xml:id="B.140">
+<w type="hw" lemma="cob">Cobthach</w> .i. buadach. 
+</p>
+<p xml:id="B.141">
+<phr type="hw" lemma="clithar">Clithar set</phr>. alii dicunt <corr>combad ainm</corr> do bhoin indlǽig arinní docel alaeg indi quod non uerum est sed uerius uel aliter Clithar sét .i. rigshét. ar is ainm dovríg isin Duil feda mair inni is clithar 7 is as <add>ł ised dath</add> not reith. sét gábla din is é islugam .i. dartaid fhirend 7 colpach boineand. ł colpach fhirend 7 dairt boinend. samaisc in sét tanaise. laulgach ł dam timchill arathair in tress sét 7 is ésin in ríisét. 7 ise cruth adrenaiter ambreith Chæi Chænbrethaig cach tri seoit <corr>sét</corr> gablae <corr>samaisc</corr> alaile laulgach ł dam timchill arathair araile. impúd foraib beos corí cend na herca. 7 hite sin naseoit acobair asberar hi cáin Patraic <add place="margin-right">ar it leth uinge a séoit side</add> 
+</p>
+<p xml:id="B.142">
+<w type="hw" lemma="cruimther">Cruimther</w> .i. gædelg indi as presbyter, premter din acombrec side. prem iarum isin combreic as cruimm ingædilg 7 ni tinntúd coir din donní as presbytér inní as cruimthir. astinntud imorro coir din <add>donní as premter</add>. Na Bretain tra batar hi comitecht Patraic icon precept hite rothinntaiset 7 isí anní is primter rothinntaiset 7 is fǽi iarom latharsat légnide na mBretan innísin .i. amail is lómm inchruim síc debet presbyterum bess lómm ho pheccad 7 <add>bes nimnocht</add> o doman 7 araile{?} secundum eum qui dixit ego sum uermis 7 araile{?}. 
+</p>
+<p xml:id="B.143">
+<w type="hw" lemma="cercend">Cercenn</w> .i. cuairt namsire .i. a circino .i. o gabulrind. 
+</p>
+<p xml:id="B.144">
+<w type="hw" lemma="cloch">Cloch</w> tri hanmanna lee .i. hond a hiarmbelra. cloch a gnáthbelra. clœch a belra nairberta .i. arinní chloes cach set <add>ł ret</add> 7 araile{?}. 
+</p>
+<p xml:id="B.145">
+<w type="hw" lemma="cros">Cross</w> quasi crúx. 
+</p>
+<p xml:id="B.146">
+<w type="hw" lemma="corp">Corp</w> a corpore. 
+</p>
+<p xml:id="B.147">
+<w type="hw" lemma="cretair">Creatra</w> a creatura. 
+</p>
+<p xml:id="B.148">
+<w type="hw" lemma="cáithiugud">Caithigud</w> .i. suidiugud fri acáith. ashamail 7 achondelg induine fri acáith ara fáise 7 a etorthaige. 
+</p>
+<p xml:id="B.149">
+<w type="hw" lemma="cáech">Coech</w> .i. a caeco quasi coech. 
+</p>
+<p xml:id="B.150">
+<w type="hw" lemma="ceirbseóir">Cerbsire</w> .i. scóaire .i. a ceruisia. 
+</p>
+<p xml:id="B.151">
+<w type="hw" lemma="cummae">Cúma</w> ab eo quod est communis. inde dicitur is cuma lium .i. is cóimdess lium cipé dib. 
+</p>
+<p xml:id="B.152">
+<w type="hw" lemma="comla">Comla</w> .i. comlúd .i. cuma lues tís 7 tuas. 
+</p>
+<p xml:id="B.153">
+<w type="hw" lemma="cucann">Cucenn</w> a cucina. 
+</p>
+<p xml:id="B.154">
+<w type="hw" lemma="coic 1">Coic</w> ab eo quod est coquus. 
+</p>
+<p xml:id="B.155">
+<w type="hw" lemma="cáinte">Cainte</w> .i. canis. cú. ar is cend con forin cáinte oca mastraig. 7 isin and dán fogníít. 
+</p>
+<p xml:id="B.156">
+<w type="hw" lemma="cích 1">Cích</w> .i. cichis grec luib asa tet has. 
+</p>
+<p xml:id="B.157">
+<w type="hw" lemma="cimas">Cimas</w> .i. a cimma .i. imechtur lignorum. 
+</p>
+<p xml:id="B.158">
+<phr type="hw" lemma="cín">Cín membruimm</phr> .i. <corr>a quinque</corr> arata cuig tuaga ata techta dobeith innte. 
+</p>
+<p xml:id="B.159">
+<w type="hw" lemma="cimmid">Cimba</w> quasi cymba. 
+</p>
+<p xml:id="B.160">
+<w type="hw" lemma="commus">Comus</w> .i. a compos potens. 
+</p>
+<p xml:id="B.161">
+<w type="hw" lemma="caí 1">Cái</w> 7 cáiniud .i. cinod .g. lanitatio. 
+</p>
+<p xml:id="B.162">
+<w type="hw" lemma="conar">Conair</w> .i. cái gen ḟer ł cen ar. 
+</p>
+<p xml:id="B.163">
+<w type="hw" lemma="crann">Crand</w> .i. cré a ḟónd. 
+</p>
+<p xml:id="B.164">
+<w type="hw" lemma="comla">Cómla</w> .i. cómluath .i. cuma a luas tuas 7 tís. 
+</p>
+<p xml:id="B.165">
+<w type="hw" lemma="cucann">Cuicend</w> .i. a cucina. 
+</p>
+<p xml:id="B.166">
+<w type="hw" lemma="coic 1">Coic</w> ab eo quod est coquus. 
+</p>
+<p xml:id="B.167">
+<w type="hw" lemma="croiccenn">Croicend</w> .i. croc fínd .i. find gairit. ise insamġemen indsin cui contraria din gamen .i. ga find. issia aḟindsen quod hieme occiditur. ainmm coitchend doib seche .i. sicce quando fit in pariete. 
+</p>
+<p xml:id="B.168">
+<w type="hw" lemma="caile 1">Caile</w> .i. dochaillig choimeta tige is ainmm .i. cail coimet. 
+</p>
+<p xml:id="B.169">
+<w type="hw" lemma="capall 1">Capall</w> .i. cap carr 7 pell ech. do chapall charr 7 ere as nomen. 
+</p>
+<p xml:id="B.170">
+<w type="hw" lemma="catt">Catt</w> ab eo quod est cattus. 
+</p>
+<p xml:id="B.171">
+<w type="hw" lemma="creithir">Cretir</w> .i. creatura <add>.i. sola creatura</add>. 
+</p>
+<p xml:id="B.172">
+<w type="hw" lemma="cathaisech">Cathasach</w> .i. cath fessach. fes foit in óic inacathgreimini comatain. cathḟeis iarum cath fes <add>ł fer</add> is gnáth and. 
+</p>
+<p xml:id="B.173">
+<w type="hw" lemma="cathlac">Cathlac</w> ab eo quod est catholicus id est uniuersalis. 
+</p>
+<p xml:id="B.174">
+<w type="hw" lemma="cruithnecht">Cruthnecht</w> .i. cruth cach cróda 7 <add>cach</add>nderg. necht cach glan .i. iarsinní is derg 7 is glan incruithnecht. 
+</p>
+<p xml:id="B.175">
+<w type="hw" lemma="catar">Catar</w> a quatuor libris. 
+</p>
+<p xml:id="B.176">
+<w type="hw" lemma="culpait">Culpait</w> .i. cailfuit .i. cail coimet 7 fuit fuacht. coimet airḟuacht. <cb n="p. 265a"/>
+</p>
+<p xml:id="B.177">
+<w type="hw" lemma="cosmail">Cosmail</w> .i. cosamail <add>.i. comsamail</add>. 
+</p>
+<p xml:id="B.178">
+<w type="hw" lemma="coairt">Coairt</w> .i. coir a fhirt dochur. 
+</p>
+<p xml:id="B.179">
+<w type="hw" lemma="casal">Caisel</w> .i. a casula .i. cis ail .i. chisa dobertha ófheraib Erenn cusin luc sin. ł ail chise .i. rocheis. caisel a casula. 
+</p>
+<p xml:id="B.180">
+<w type="hw" lemma="cléirech">Clerech</w> a clerico. 
+</p>
+<p xml:id="B.181">
+<w type="hw" lemma="cochall">Cocul</w> quasi cucull ab eo quod est cuculla ut est Nunc retinet summum sola cuculla locum, uel co cael ut dicunt <add>ut Scotici dicunt</add> arislethan aichtar 7 achaile <add>asa caili</add> coauachtar <add>uel corice a cend</add>. sed melius hi toisech. 
+</p>
+<p xml:id="B.182">
+<w type="hw" lemma="circul">Circul</w> .i. a circulo. 
+</p>
+<p xml:id="B.183">
+<corr><w type="hw" lemma="cicul">Cicul</w> .i.</corr> ciclos grece orbis latine dicitur. is cicul dún ol in duine quasi dixisset is cuairdfell dun son. 
+</p>
+<p xml:id="B.184">
+<w type="hw" lemma="caimmse">Caimmse</w> .i. ainmm lénead i. e. a camisia banléni. 
+</p>
+<p xml:id="B.185">
+<w type="hw" lemma="ceimes">Cemeas</w> .i. ban galeni. 
+</p>
+<p xml:id="B.186">
+<w type="hw" lemma="callait">Callaid</w> ab eo quod est callidus. 
+</p>
+<p xml:id="B.187">
+<w type="hw" lemma="cásc">Caisc</w> quasi pasc .i. a pasca. 
+</p>
+<p xml:id="B.188">
+<w type="hw" lemma="cride">Cride</w> .i. crithde .i. don crith fora mbi. 
+</p>
+<p xml:id="B.189">
+<w type="hw" lemma="cingciges">Cingciges</w> i. e. quinquageis i. e. quinquagesimus dies a pascha .i. acóicetmad laa o chaise. 
+</p>
+<p xml:id="B.190">
+<w type="hw" lemma="comméit">Coiméit</w> .i. cuma a méit 7 inní dianad coiméit. 
+</p>
+<p xml:id="B.191">
+<w type="hw" lemma="commaín">Comáin</w> .i. cumma máine .i. máni cudrama diaroile. 
+</p>
+<p xml:id="B.192">
+<w type="hw" lemma="cingit">Cingit</w> .i. cuingit .i. comthrom acoss 7 acend amail bid imchuing medi focherd a dá eis. 
+</p>
+<p xml:id="B.193">
+<w type="hw" lemma="clí 2">Clíí</w> .i. ar chosmaile fri clíí thige atrubrad .i. <add>is</add> besem inacliad <add>ł don clet</add>. is bale oc lár is coel oc clethe is direch do eim doemar. síc clíí iter na filedu. is balc a suire inachrichu fessin i séim i crichu sectair. amail atcumaic inchlíí isin tégdais o lár co cléthi síc din atcumaic airechus ingráidse danad ainm clíí inní bis isliu. dodoemar som honní busuaisliu. is dírech ambesaib adhána <add>oanruth cofoclachoin do eim dana cli inni bes islim doemarsom onní bes uaisli</add>. 
+</p>
+<p xml:id="B.194">
+<w type="hw" lemma="cana 1">Cana</w> din ainm gráidh ḟiled .i. cantaid iarsimrí chanas córus arherdi fíad rigu 7 tuatha ut ipse est ádmoll .i. admoltaig arise is gresgem fri hadmolad 7 fri scelugnd <add>cid</add> fiad gradaib filed. 
+</p>
+<p xml:id="B.195">
+<w type="hw" lemma="coirpthe">Corpte</w> .i. corrupte <add>ł corruptum</add> hoc est corruptum. 
+</p>
+<p xml:id="B.196">
+<w type="hw" lemma="Clare">Claire</w> .i. clíu Aræ .i. Aru ł Are 7 mullach clí Cliach. 
+</p>
+<p xml:id="B.197">
+<w type="hw" lemma="crú 1">Crúu</w> .i. a cruore. 
+</p>
+<p xml:id="B.198">
+<w type="hw" lemma="clas 2">Class</w> .i. a classe. 
+</p>
+<p xml:id="B.199">
+<w type="hw" lemma="caindelbrae">Caindelbra</w> quasi chaindel forræ ł can din la forrum…{?} i. candela fair. 
+</p>
+<p xml:id="B.200">
+<phr type="hw" lemma="coll 1">Caill crínmon</phr> .i. crethmon. creth .i. hái 7 mon .i. cleass. caill crinmon .i. caill as a toich cleas núad. <add>ł asamboingter cles nuad</add>. 
+</p>
+<p xml:id="B.201">
+<w type="hw" lemma="canóin">Canoin</w> .i. <add>quasi</add> cáin ón <add>ar</add> is cain <add>7 is firi</add> notcan. 
+</p>
+<p xml:id="B.202">
+<w type="hw" lemma="castóit">Castoit</w> a castitate. 
+</p>
+<p xml:id="B.203">
+<w type="hw" lemma="cartóit">Cartoit</w> a caritate. 
+</p>
+<p xml:id="B.204">
+<w type="hw" lemma="cel 2">Ceal</w> .i. neam. unde dicitur gar cian cotís forceal .i. forneam. 
+</p>
+<p xml:id="B.205">
+<w type="hw" lemma="celebrad">Celebrad</w> .i. honni is celebro .i. urdarcaigim. Celebrad din .i. urdarcaigimm luad anma dé. 
+</p>
+<p xml:id="B.206">
+<w type="hw" lemma="cais 1">Cúis</w> a causa quasi caus. unde dicitur ní archuis na miscuisne <add>ł miscaisne</add> .i. ni ar denum chaingne fornech. 
+</p>
+<p xml:id="B.207">
+<w type="hw" lemma="colba">Colba</w> .i. coelfí .i. coelfithi ł coelbthi .i. coelæfi. 
+</p>
+<p xml:id="B.208">
+<w type="hw" lemma="coll 3">Coll</w> ab eo quod est collus. 
+</p>
+<p xml:id="B.209">
+<w type="hw" lemma="crontsaile">Crontṡaile</w> .i. róntṡaile .i. rigentṡaile. Crontsaile din .i. gransele .i. grant cach líath ł findach. unde dicitur fésóc grennach findfad liath…{?} dr. <add place="margin-left">.i. grantsaile .i. cach líath ł glas ł rigin</add> 
+</p>
+<p xml:id="B.210">
+<w type="hw" lemma="céitemain">Cetsoman</w> .i. cetsámsin .i. cétlúd síne samraid. 
+</p>
+<p xml:id="B.211">
+<w type="hw" lemma="cáid 1">Caid</w> .i. cadeis isin gréc nisain is sanctum la latin. unde dicitur caid cach rét co canóni comuaim.
+</p>
+<p xml:id="B.212">
+<w type="hw" lemma="cobais">Coibsena</w> .i. confessiones <add>.i. comfæsaime</add>. 
+</p>
+<p xml:id="B.213">
+<w type="hw" lemma="cobais">Cobais</w> .i. comais .i. comḟaisitiu. 
+</p>
+<p xml:id="B.214">
+<w type="hw" lemma="corn">Corn</w> <add>i. e.</add> .i. a cornu. 
+</p>
+<p xml:id="B.215">
+<w type="hw" lemma="callait">Callaid</w> ab eo quod est callidus. 
+</p>
+<p xml:id="B.216">
+<w type="hw" lemma="cern 3">Cearn</w> .i. buaid. unde dicitur Conall Cernach .i. buadach insin. 
+</p>
+<p xml:id="B.217">
+<w type="hw" lemma="ceirnín(e)">Cerníne</w> .i. miassa. ut dixit Coirpri mac Etnai infile .i. cen cholt for crip cerníne .i. nistanic biad formiassa <add>ł for ar miasa</add> la mac Elathan <add>.i. Bress</add>. 
+</p>
+<p xml:id="B.218">
+<w type="hw" lemma="cermnas">Cermnas</w> .i. brecc 7 togais. quasi cermam ḟeiss .i. fiss 7 dán cermain. unde dicitur asin <add>ł isin</add> gaire Echach cennach cermnas. 
+</p>
+<p xml:id="B.219">
+<w type="hw" lemma="ceithern">Ceithern</w> .i. caire amide, unde dicitur cethernach. Ceithern .i. <corr>ceth</corr> cath 7 horn <add>.i. orn</add> orcain. 
+</p>
+<p xml:id="B.220">
+<w type="hw" lemma="caplait">Caplat</w> .i. nomen do chendló chásc .i. quasi capitolauium cenddíunnach .i. iarsinní berrthar cách and 7 nigid <add>ł 7 negthair</add> acend o cairichill acosmata <add>ł a chusmada</add> isin cáisc. 
+</p>
+<p xml:id="B.221">
+<w type="hw" lemma="caplait">Cendla</w> din <add>.i. coena læ</add> non de capite sed de <add>coena</add> domini dicitur id est coena lae .i. lathi ḟledi Crist 7 a aspolu uimme. 
+</p>
+<p xml:id="B.222">
+<w type="hw" lemma="cerchaill">Cerchaill</w> .i. ciarchail. ciar coimet. uel ab eo quod est ceruical, ł in cer fil and is onní is ceruus .i. ag allaid 7 is dia beindside <add>ł bian side</add> dogníter coimet imonclum 7 is don choimetsin is ainmm cail <add place="margin">comet is ainmna do cach</add> 7 da gach coimet olchena. aliter is a ceruice ro hainmniged. 
+</p>
+<p xml:id="B.223">
+<w type="hw" lemma="cennaid">Cendaid</w> .i. cen fid .i. is cenḟid roalt. ł is cendais ná imtéit <add>ł imtet</add> fofid na fó dithrub. cui .i. contrarius est allaid .i. all fid .i. allair iḟid 7 aṅdithrub. 
+</p>
+<p xml:id="B.224">
+<w type="hw" lemma="cuil 1">Cuil</w> .i. a culice. lōe <corr>latine</corr>. 
+</p>
+<p xml:id="B.225">
+<w type="hw" lemma="coic 2">Coic</w> .i. rún. ut Nédi mac Ádnai Ni chualai coic nuin olme <add>ł olmoin</add> gaiar gáir. 
+</p>
+<p xml:id="B.226">
+<w type="hw" lemma="catit">Cartit</w> .i. delg .i. belra cruithnech .i. delg for a curtar a choss. 
+</p>
+<p xml:id="B.227">
+<w type="hw" lemma="coth">Coth</w> .i. biad. cothud .i. coemna unde dicitur Maelcothaid .i. maelcoemna. <add place="margin">unde est isin Imacallaim inda Tuarad for rem cothaid 7 for rem cæmna</add> 
+</p>
+<p xml:id="B.228">
+<w type="hw" lemma="cim 1">Cím</w> .i. airged .i. don argad dobertha acis do Ḟomorib atrolli a ainmniugud. Cím tra ainm do cach cís o sin hille cepad do argad ba hainm prius ar amenci 7 aramet dobertha dona Ḟomorib unde <cb n="p. 265b"/> dicitur a mBrethaib nemid Cimb uim o lasnuim i punacerni puinc. 
+</p>
+<p xml:id="B.229">
+<w type="hw" lemma="cocung">Coiceng</w> .i. comchuing. cuma is comchuing for cach leath <add>for ceacht<corr>ar de</corr></add>. 
+</p>
+<p xml:id="B.230">
+<w type="hw" lemma="cuing">Coing</w> .i. comching. 
+</p>
+<p xml:id="B.231">
+<w type="hw" lemma="commus">Coimmess</w> .i. comchomus forcach leath. 
+</p>
+<p xml:id="B.232">
+<w type="hw" lemma="cumlachtaid">Cumlachtaig</w> .i. nomen do horc mhuice intan teit ácru deteit <add>ł conetet</add> a máthair fri deol asin ead <add>quasi</add> cum lacte ambulans. unde dicitur cumlachtach in duine .i. loigthech áilgen ernes ni do chach. sic porca suum suo largitur lac. 
+</p>
+<p xml:id="B.233">
+<w type="hw" lemma="cláiriu">Clairiu</w> .i. fodail. inde est leniud clairend .i. tairnise fódla 7 róinne. 
+</p>
+<p xml:id="B.234">
+<w type="hw" lemma="cró 1">Crufhechta</w> .i. badb ł bódb. 
+</p>
+<p xml:id="B.235">
+<w type="hw" lemma="cul 1">Cul</w> .i. carpat. ut dixit Cúchulainn Cul carpait ba cruaid in mod, hi tegind re Conchobor, ocus Néit ba hainin don kath, dobrisin d ria mac Cathbad. <w type="hw" lemma="">Cul</w> <add>.i. carpat</add> unde est culgaire. 
+</p>
+<p xml:id="B.237">
+<w type="hw" lemma="caubar">Cupar</w> .i. senén. 
+</p>
+<p xml:id="B.238">
+<w type="hw" lemma="cuilén">Culian</w> .i. cuilén .i. cú lénas cách. 
+</p>
+<p xml:id="B.239">
+<w type="hw" lemma="cú 1c">Coinḟodorne</w> .i. dobarchoin .i. fodobarnai .i. fouiscidi. dobar ainm coitcend <add>berla</add> iter gaedilg 7 combrec. dobur .i. uisce unde dicitur dobarcu 7 dobreth doborci <add>imorro isin</add> chombreic. 
+</p>
+<p xml:id="B.240">
+<w type="hw" lemma="cáise">Caise</w> ab eo quod est caseus. inde Uirgilius Pinguis et ingrate premeretur caseus urbi. 
+</p>
+<p xml:id="B.241">
+<w type="hw" lemma="cairt 1">Cairt</w> a carta. carta enim in qua nondum scriptor quisquam scripsit inse. Carta din .i. memrum <add>.i. do memrum is nomen</add>. 
+</p>
+<p xml:id="B.242">
+<w type="hw" lemma="crumdoma">Crumduma</w> .i. ottrach. unde dicitur cin chon crumduma <add>.i. otraig</add>. 
+</p>
+<p xml:id="B.243">
+<w type="hw" lemma="Cerball">Cerball</w> .i. cerrbél. a bél fora chirr. Cerrball din .i. cer focher. fochuir ball. ł bell. donní is bellum cath. Corrchathach din onní is cerball. inde poeta Sithbe Cerball for a chuairt, nibdar dermaill a dí dhóit, focher Cormac mor in bét, noe fichit cét cufochóic.
+</p>
+<p xml:id="B.244">
+<w type="hw" lemma="cel 2">Ceal</w> .i. neam. 
+</p>
+<p xml:id="B.245">
+<w type="hw" lemma="cel 1">Ceal</w> .i. bás 7 cachní homain. 
+</p>
+<p xml:id="B.246">
+<w type="hw" lemma="cil I">Cil</w> .i. clæn <add>ł each claen</add>. unde lethchil. 
+</p>
+<p xml:id="B.247">
+<w type="hw" lemma="castóit">Casto</w> honni is castus. 
+</p>
+<p xml:id="B.248">
+<w type="hw" lemma="cartóit">Cartoit</w> .i. ulidhilside do ṡerg <add>ł do serc</add> is ainm. 
+</p>
+<p xml:id="B.249">
+<w type="hw" lemma="cloind">Cloind</w> .i. honní cloides cach nindliged. 
+</p>
+<p xml:id="B.250">
+<w type="hw" lemma="cicht">Cicht</w> .i. gebiach. 
+</p>
+<p xml:id="B.251">
+<w type="hw" lemma="culmaire">Culmaire</w> .i. cairptheoir. 
+</p>
+<p xml:id="B.252">
+<w type="hw" lemma="cuisnet">Cuisnit</w> .i. cosnait .i. cosnam dála ł cos na dála forsanairisethair in dálaige. is aice 7 is uathi dochtair <add place="margin">ł toocair</add> 7 is furri airises <add>ł arsisedar. is de nibi utmaill indai</add>. 
+</p>
+<p xml:id="B.253">
+<phr type="hw" lemma="columa">Colomna air</phr> ł <w type="hw" lemma="">ais</w> ł <w type="hw" lemma="">áisse</w> .i. aimsera .i. náidendacht. macdacht. gillacht. hóclachus. séndacht. díblidecht <add>ł dimligdetu</add> <add place="margin">colomna aís…{?} amsera</add>. 
+</p>
+<p xml:id="B.254">
+<w type="hw" lemma="coire">Coire</w> .i. cói úire. úr cachnom .i. feoil hom. 
+</p>
+<p xml:id="B.255">
+<phr type="hw" lemma="Coire Brecain">Coire Brecain</phr> .i. saebchori mor fil iter Erinn 7 Alpain ileth atuaid hi comrag na nilmuire .i. in muir timchilles Erinn aníartúaid 7 inmuir timchilles Alpu anairtúaid 7 in muir aness iter Erinn 7 Alpain. <add>Foscerd iaram immasech</add> focosmailius luaithrinde docuirither cachæ ituaimm aroli amail orceil <add>tairrechtæ</add> co suidet síss iḟúdomain combí incori ho béla 7 nóṡuigfed cid Érinn uli inaġinchræs. Scéid iterum inloimmsin suas coclúinter a thorannbrúcht 7 abressim <add>.i. a brisgemnech 7 a esgal iter nellaib</add> ba cosmailius gaile <add>fichthe</add> cori bís for tenid. Brecán tra mac Maine maic Neill ix. giallaig indsin .l. curach dó icomchendach iter Erinn 7 Alpain cortuitsed in ænfecht isin cori út conáterna discibal ass <add>ł cid sceolu oircne as</add> nifess anoidhead coranic Lugaid dalegeas cu Bennchor. codhechutar ámúinnter side itracht Indbir Béci coḟuarutar cloicend lómm becc and. tucsat leo co Lugdaig he et interrogauerunt eum cuius esset et ille eis dixit <add>7 rocomaircsead ciasa cend 7 atbertsom tabraid 7 araile{?}</add> tabraid cend na flesci filed fair, daronad innísin et dixit Lugaid écess dobur díthrethan ardatbath Brecan uisce ł caire. cend orci Brecain inso 7 is bec dímor or se. robáidead Brecan cona muinntir isin cori út. 7 araile{?}. 
+</p>
+<p xml:id="B.256">
+<w type="hw" lemma="cumal 1">Cumal</w> <corr>.i. cum mola</corr> .i. ben bís oc bleth brón arise dán na mban ṅdáer riasiu darónta na muilind. 
+</p>
+<p xml:id="B.257">
+<w type="hw" lemma="crepuscul">Crapscuil</w> .i. crepuscuil ab eo quod est crepusculum .i. dubia lux .i. nomen do espartain. ut dixit Colman mac Lénine Robo tánaise triuin crepscuil cerd promad intí <corr>peccad</corr> Pétair apstail. 
+</p>
+<p xml:id="B.258">
+<w type="hw" lemma="cotut">Cadut</w> .i. cach secda ab eo quod est cotis .i. lie .i. arneam fri simelatar erna. 
+</p>
+<p xml:id="B.259">
+<w type="hw" lemma="ceinticul">Ceinticul</w> <add>.i. combrec rotruaillned and</add> i. cenical is do iaram is ainm innísin la Bretnaib .i. do olaind diandenat pell, unde dicitur daronais cennticul de 7 araile{?}. 
+</p>
+<p xml:id="B.260">
+<w type="hw" lemma="ceticul">Ceticol</w> .i. céit cocnam. ticol .i. taesnaṁ <corr>tæs ṅóm?</corr>. 
+</p>
+<p xml:id="B.261">
+<w type="hw" lemma="coicetal">Coicedul</w> .i. comchetul indsin. 
+</p>
+<p xml:id="B.262">
+<w type="hw" lemma="cuisil">Cuisil</w> .i. combrec indsin 7 laiten rotruaillned and .i. quasi consil ab eo quod est consilium. inde dicitur is as ł ar dochuisil darónad.
+</p>
+<p xml:id="B.263">
+<w type="hw" lemma="Domnall">Domnall</w> .i. doman nuall .i. nuall indomain uime. ł Domnall .i. doman uaill <add>ł nuall</add>. .i. uaill domain uime. 
+</p>
+<p xml:id="B.264">
+<w type="hw" lemma="Díarmait">Diairmait</w> .i. dí airṁith. ni ḟil airmit <add>.i. geiss</add> fair. 
+</p>
+<p xml:id="B.265">
+<w type="hw" lemma="dothchern(a)">Duthcern</w> .i. díshuithcern. ni suithcern .i. ni suith .i. ni sochla. 
+</p>
+<p xml:id="B.266">
+<w type="hw" lemma="diss">Diss</w> .i. <add>ab eo quod est</add> dispectus .i. deróil. 
+</p>
+<p xml:id="B.267">
+<w type="hw" lemma="deinmne">Denmne</w> .i. díainmne .i. dí fódíultad .i. <add>cen anmne</add>. 
+</p>
+<p xml:id="B.268">
+<w type="hw" lemma="discréit">Discreit</w> .i. <add>i. e.</add> discretus locus. 
+</p>
+<p xml:id="B.269">
+<w type="hw" lemma="dodchaid">Dotchaid</w> .i. díthacaid. 
+</p>
+<p xml:id="B.270">
+<w type="hw" lemma="díummusach">Diumsach</w> .i. diamusach. ni thabair amus forní acht atochaire a ænur. 
+</p>
+<p xml:id="B.271">
+<w type="hw" lemma="diuthach">Díuthach</w> <add>ł diutann</add> nomen doloris genes <add>ł geniter do imchoimelt do dáṡlíasat oc imdecht</add>. 
+</p>
+<p xml:id="B.272">
+<w type="hw" lemma="dál 1">Dál</w> .i. rand: inde dicitur Dál Riata <add>7 Dal nAraide</add>. 
+</p>
+<p xml:id="B.273">
+<w type="hw" lemma="dabach">Dabach</w> .i. dé hoach .i. dí óe furri arnibítis hoe forénaib hi tús. 
+</p>
+<p xml:id="B.274">
+<w type="hw" lemma="domaín">Doman</w> .i. déoman .i. uaman écai 7 hifirn. Doman .i. dímáin <cb n="p. 266a"/> for a irchra. Doman. deman for a ṡaint. Doman .i. demáin. da máin conagair trít neam 7 talum. 
+</p>
+<p xml:id="B.275">
+<w type="hw" lemma="díre">Díre</w> .i. díaire <add>ł digalre .i. dierrithe do nemtib aranuaisligetaid</add> do nemthib fora nuaisligetaid. 
+</p>
+<p xml:id="B.276">
+<w type="hw" lemma="dígal">Digal</w> .i. nemgal .i. anad gal caich diandentar digal a prainde. aliter Diagal .i. cáinead lasin dara foirind 7 gol on foirind ele. Diagal din .i. déġul. 
+</p>
+<p xml:id="B.277">
+<w type="hw" lemma="día 3">Die</w> .i. lathi, inde dicitur olc die .i. lathi olc. die din onní is díes, aris ódheib roainmnigitis genti alaithe. ut est dies Iouis. dies Ueneris. die damh cóine ut Colman mac húi Cluasaig dixit Ni maith cride cen chie, marb teind coch be a die, mac róemdhatar iar Cliu, iarṅdie ba Chuiminíu <add>.i. fota</add>. <add>ł inadromdetar iar Cliu conit fas iar Cuminiu</add>. 
+</p>
+<p xml:id="B.278">
+<w type="hw" lemma="deithbir 1">Dethbir</w> .i. dí aithbir. Dethbir din .i. diathbir .i. di dársindath forchath. bir for bréthir .i. nisbé cathbriathrad uime. 
+</p>
+<p xml:id="B.279">
+<w type="hw" lemma="dínnim">Dinim</w> .i. diṡnim desin <add>.i. ni bí snim uime</add>. 
+</p>
+<p xml:id="B.280">
+<w type="hw" lemma="dásacht">Dásocht</w> .i. díṡocht. nibí i socht. ł dasocht .i. dí osacht. nibí ifoisecht acht o loc do loc iter utmaille 7 labra. 
+</p>
+<p xml:id="B.281">
+<w type="hw" lemma="dos 2">Doss</w> .i. ainm graid ḟilead .i. arachosmaile fri doss. as doss din in bliadain tanaise infochloc .i. cetheora duillne fair. cethrar do dhoss fortuaith. 
+</p>
+<p xml:id="B.282">
+<w type="hw" lemma="díburdud">Diburdud</w> .i. dibru saitud <add>.i. diubru aitiudh</add> .i. deriud nerci indsin .i. altram for chinadus natbé drochmenma iaram. 
+</p>
+<p xml:id="B.283">
+<w type="hw" lemma="dobrit(h)">Dobrith</w> .i. dobur 7 hith .i. usce 7 arbur. cuit æsa aithrige 7 pennaite indsin. 
+</p>
+<p xml:id="B.284">
+<corr><w type="hw" lemma="dobur 1">Dobur</w> .i.</corr> deide fordingair. dobur cétamus .i. uisce unde dicitur dobarchu .i. dobran. dobur dana cachndoirche <corr>.i. cach ṅin</corr>glé .i. do fodiultad 7 pur on<corr>ní is pur</corr>us glan. dobur din <corr>.i. dipur .i. inglan ł in</corr>gle. 
+</p>
+<p xml:id="B.285">
+<w type="hw" lemma="dedól">Dedol</w> .i. dédhual .i. dual do aidche 7 dual do lo .i. <add>conid</add> soillse cumascda ho dhorchacht 7 o ṡóllsi. Dedol .i. dia dhual .i. da fhothadáil. dá dagthodail do dhía. actáil 7 teoir. 
+</p>
+<p xml:id="B.286">
+<w type="hw" lemma="droch 1">Droch</w> .i. cach ṅolc. ut est drochbean ł drochḟer. 
+</p>
+<p xml:id="B.287">
+<w type="hw" lemma="drac">Drac</w> .i. a dracone quasi dracc .i. téine .i. ferg. 
+</p>
+<p xml:id="B.288">
+<w type="hw" lemma="drenn 1">Dreand</w> .i. debaid unde dicitur drennach .i. debtach. Drénd din .i. garb unde dicitur aindreand <add>.i. sliab</add>. 
+</p>
+<p xml:id="B.289">
+<w type="hw" lemma="dela 1">Deal</w> .i. sine bó. unde dicitur i mBrethaib nemid combo do dílachta deal. <corr>aliter dalta dá deal</corr> .i. mac dabó. 
+</p>
+<p xml:id="B.290">
+<w type="hw" lemma="deiliugad">Deliugud</w> .i. síniugud. etarscarud 7 deliugud inræda fri araile amail rodeligthea sine dianad anmand delái. deliugud .i. deailicad .i. da roind. 
+</p>
+<p xml:id="B.291">
+<w type="hw" lemma="díthrub">Díthreb</w> .i. beith cen treib ł cen trebaide and. 
+</p>
+<p xml:id="B.292">
+<w type="hw" lemma="dísert">Dísert</w> .i. disertus locus .i. robádus <add>ł roboth</add> and riam. 
+</p>
+<p xml:id="B.293">
+<w type="hw" lemma="drochet">Droichet</w> .i. doroichet cách taris on ur co araile <add>don uisce ł na fedhe</add>. droichṡet din .i. sét dírech. ar is droch cach ndírech .i. nithalla nemdírge do arnab tusledach. ł drochsét ar a olcus. 
+</p>
+<p xml:id="B.294">
+<w type="hw" lemma="desruith">Deshruith</w> .i. diṡruith .i. ni sruith. 
+</p>
+<p xml:id="B.295">
+<w type="hw" lemma="deime 1">Deme</w> .i. teime .i. teim cach ṅdub. unde dicitur temen .i. doirche. Deme din for dorchi náidche. 
+</p>
+<p xml:id="B.296">
+<w type="hw" lemma="deimes">Demess</w> s .i. meass déde and <add>it da scin lais</add>. ł demas .i. dé emeass asa degscín. <add place="margin">ł mes .i. fæbur nt dicitur Mesgegra</add> 
+</p>
+<p xml:id="B.297">
+<w type="hw" lemma="dommae 1">Domnia</w> .i. díshomma. 
+</p>
+<p xml:id="B.298">
+<w type="hw" lemma="dubach 1">Dubach</w> .i. dísubach .i. dí fo díultad. de ł du ł do fodíultad. 
+</p>
+<p xml:id="B.299">
+<w type="hw" lemma="dulbair">Duilbir</w> .i. dí fodíultad. 
+</p>
+<p xml:id="B.300">
+<w type="hw" lemma="dulbair">Dulbair</w> .i. dolabair .i. <add place="margin">diṡulbair. nisulbair .i. nisolabair</add> 
+</p>
+<p xml:id="B.301">
+<w type="hw" lemma="dimse">Diúire</w> .i. dí ṁaisse. 
+</p>
+<p xml:id="B.302">
+<w type="hw" lemma="dodchaid">Dotchaid</w> .i. diṡaigid .i. ni sothaicdig. 
+</p>
+<p xml:id="B.303">
+<w type="hw" lemma="dona">Dona</w> .i. diana <add>.i. bith cen ana</add>. 
+</p>
+<p xml:id="B.304">
+<w type="hw" lemma="Dairfine">Dairfine</w> <add>.i. Corcolaigde .i. fine Daire Dóimthiġ</add> ainm dona filedu .i. duarfine. fine duar. duar din focul. duarḟine iaram .i. fine bís forordugud .i. ḟocul. duar din is ainm do rand. ut dicitur i mBrethaib nemid .i. duar donesa nath .i. rand is airdercem <add>ł is airigda</add> don molad. 
+</p>
+<p xml:id="B.305">
+<w type="hw" lemma="Díancécht">Diancécht</w> ainm doṡaid legis na hErenn .i. dia na cécht, na cumachta. cécht din ainm da cach cumachta. Diancécht .i. deus salutis <add>.i. slainte</add>. Diancécht din dia na hícce ut <add>dixit</add> Néde mac Ádna .i. cechtsom derco aithsceinm ailcne .i. cumachtaigsim. ailcne <add>imorro</add> .i. scillec beac e romebaid don ailig corbean fora súilsium conidcæch. amrubhairt a chumachtu fair. non ut imperiti dicunt céchtsom .i. caechsom 7 araile{?}. 
+</p>
+<p xml:id="B.306">
+<w type="hw" lemma="deach">Deach</w> .i. defuach .i. deḟocul. fuach focul .i. comrag focail. .i. dialt fri dialt. is deach is lugem. arciatberar déach don díalt ní hirasa sin acht <add>is</add> aire atberar deach fo bith is fondeach. ł is fotha ṅdeich. is as forberad coḟóircerid mbrechta imbiat .i. uiii. ṅdiailt amail asberr in laiten unus non est numerus sed ab eo crescunt numeri. Ocht ṅdéich tra atrimet filid na nGædel 7 is cos inṅdialtson .i. iarsinní na fil alt and 7 na róinnter. Recomarc indeach tanaise .i. recómracud fri araill .i. díalt fri dialt ut Cormac. Iarcomarc in tress deach, iar comracud .i. iarsincomrac tóisech ut Cormac<add>an</add>. Felis incethramad déach. iarsinní ḟilles .i. cia dobcrar a cethair imcrand anuas ł umcach raed ele iḟilled fillis imbe incetherda .i. adó ille 7 adó anund. niba claen intairesin arnibí dialt forcrith inechtair adoleath ut est Murchertachán. ni samlaid don deach fil inadhiaid .i. claenre incoiced deach. is aire atberar claenré de fobíth is lettromm fodailter 7 ciadoberar umní ar itruma 7 it lia inatri oldáite <cb n="p. 266b"/> adó. arit .u. dialta fil iclænré amail rogab fianamail<corr>echar</corr>. Luibenchosach in sesed deach. luib .i. luibne mér na láime 7 cossa na mer estib suas .i. inraig 7 indoit cusinalt na gualand 7 fri sodain samailter indeachsin icorp duine. se haisle din fil o chind in meoir co halt na gualand .ui. dialt din fil iluibenchossach ut est fiannamail<corr>echarad</corr>. Claidemnus .i. claidem manus sechtmad deach i. e. claidem manus <add>.i. nálaime</add> .i. claidem són uli óta hind in meoir conice alt fil iter animda 7 amaethán. .uii. ṅaisle din indsin uii. ṅdialt fil i claidemnus. ut est fiannamail<corr>echaradard</corr>. Bricht int ochtmad deach. forinní brígther. aris de dogníther nath. isé din is airegda díb inte innellegar nath darinní ellcither na dellaing nath. ocht naisle din fil o ind inméoir conathgabáil maethan animdha .uiii. ṅdíalta din fil ambricht. ut est fiannamail<corr>echaradardae</corr>. 
+</p>
+<p xml:id="B.307">
+<w type="hw" lemma="deilidin">Delind</w> .i. deliugud hó ind. ut est ref .i. fer. 
+</p>
+<p xml:id="B.308">
+<w type="hw" lemma="delg">Delg</w> .i. del for a dírge minbad éc. 
+</p>
+<p xml:id="B.309">
+<w type="hw" lemma="deime 2">Demi</w> .i. cech neutur lasin laitneoir is deme lasin filid ngædelach. 
+</p>
+<p xml:id="B.310">
+<w type="hw" lemma="da 1">Doiduine</w> .i. degduine. ut Néde mac Adna dixit indsa glam de doiduine. sed melius de daduine. Da din gach maith isin chombreic ut dicitur gruc da .i. dagben. 
+</p>
+<p xml:id="B.311">
+<phr type="hw" lemma="drúcht">Drúchta dea</phr> .i. hith 7 blicht. ut Scoti dicunt <corr>drúchta dea Droma ceta</corr>.
+</p>
+<p xml:id="B.312">
+<w type="hw" lemma="Emain">Emain</w> .i. eomáin .i. eo rind 7 muin .i. bráige. eomuin din .i. rind iar <add>ł tar</add> muin .i. delg. is amlaid adrimther tórraind inliss don ṁnái. ombí inasuide <add>ic aisce abruit cororand uimpe imacuairt.</add> doben adealg asabrutt da thoraind impe báchuairt conadelg. issia iarom rosiacht indelg uathi sair fora beolu oldás dia hessi imacuairt. is aire is claen inliss. 
+</p>
+<p xml:id="B.313">
+<w type="hw" lemma="écmacht">Écmacht</w> .i. écumachta .i. arníḟil incumachta. 
+</p>
+<p xml:id="B.314">
+<w type="hw" lemma="emon 1">Emuin</w> .i. é din fódiultad. Emuin din e hoen .i. ni.hoen <add place="margin">acht inddalelap</add> acht a dhó genit and. corṡuidigset <add>iaram</add> na filid muin amedon forimgabail meraigthe ar rob aille leo emoen ł emon <corr>oldás e hoen</corr>. <add place="margin">aliter emon .i. é 7 mon. ammon din isin ni as monus isin grec. ammonus is unus. emon din non uuus sed duo.</add> 
+</p>
+<p xml:id="B.315">
+<w type="hw" lemma="éiligud">Eliugud</w> .i. elngud. conabí lugu de iter. 
+</p>
+<p xml:id="B.316">
+<w type="hw" lemma="esert">Essirt</w> .i. eis fodiultad <corr>idem</corr> quod non et fert. eisfert din ni cóir fert lais. 
+</p>
+<p xml:id="B.317">
+<w type="hw" lemma="erball">Erball</w> .i. iarball. ball derid in anmunda. 
+</p>
+<p xml:id="B.318">
+<w type="hw" lemma="elgon">Elgon</w> .i. eolguin. is eol do ce gonta. 
+</p>
+<p xml:id="B.319">
+<w type="hw" lemma="eiden(n)">Eden</w> quasi heder ab eo quod est hedera. 
+</p>
+<p xml:id="B.320">
+<w type="hw" lemma="Elg">Elg</w> .i. Ériu. 
+</p>
+<p xml:id="B.321">
+<w type="hw" lemma="es(s)én">Essine</w> .i. ess 7 én. ess din <add>fo díultad</add> quod non encadacht <add place="margin">esene din niencedacht</add> .i. ni rothectustar clúm. Essine din ni hén clúmda acht lumar. 
+</p>
+<p xml:id="B.322">
+<w type="hw" lemma="eimde">Emhde</w> .i. finnta ł dfecha{?} <add>ł deced</add>. 
+</p>
+<p xml:id="B.323">
+<w type="hw" lemma="edel">Edel</w> .i. urnaigthe ł diprecóit. ut dixit Cumíne fota Mo trí Brain do día doberat edel. Bran tri muige Bran Laigen. Bran find for aice Femean.
+</p>
+<p xml:id="B.324">
+<w type="hw" lemma="es(s)em">Essem</w> .i. eis .i. dam 7 semh .i. corait. ámlaidsin is córat iaram int essium oc túidme na cuinge don chúing ele ł don dam. <add place="margin">ł dona hib damaib</add> 
+</p>
+<p xml:id="B.325">
+<w type="hw" lemma="eisrecht">Esrecht</w> .i. nithairchilla recht. 
+</p>
+<p xml:id="B.326">
+<w type="hw" lemma="etarche">Etarce</w> .i. ge grece terra interpretatur latine. dicitur etarce din .i. talum is ísle iter dathalum is airde iter dí iumaire. Etarce .i. etrige fothalum. 
+</p>
+<p xml:id="B.327">
+<w type="hw" lemma="esba(e)">Espa</w> .i. eisbeo. niḟil beó and. Espa .i. ni bá ní itir quasi espa. espa din .i. eis a bá. ess a maith. quasi espa. 
+</p>
+<p xml:id="B.328">
+<w type="hw" lemma="edam">Edam</w> .i. edó .i. domelim .i. oirberim bith. edam din don airbert bith 7 don menbugud cach tuara <add>menbaigthe</add> caithes duine <add>ni ægam ut imperiti dicunt</add>. 
+</p>
+<p xml:id="B.329">
+<w type="hw" lemma="escand">Escand</w> .i. esc .i. uisce. cann din ainm lestair bís oc dáil uisce 7 a choss tria naṁedón. Escand din .i. sescand la Bretnu di et canna nominatur. 
+</p>
+<p xml:id="B.330">
+<w type="hw" lemma="éirge">Eirge</w> .i. comgabail .i. uerbo erego <add>ł erigo</add>. 
+</p>
+<p xml:id="B.331">
+<w type="hw" lemma="es(s)ad">Essad</w> .i. essíd .i. nisíd. arissed hissíd and intṡlainte ṡuthain. 
+</p>
+<p xml:id="B.332">
+<w type="hw" lemma="enbroth">Enbret</w> .i. en uisce 7 brét arbor .i. arbor broth ut nortmanica lingua est. 
+</p>
+<p xml:id="B.333">
+<w type="hw" lemma="englas">Enġlas</w> .i. uisce glas. 
+</p>
+<p xml:id="B.334">
+<w type="hw" lemma="enbruithe">Enbruthi</w> .i. en uisce .i. uisce bruithe. 
+</p>
+<p xml:id="B.335">
+<w type="hw" lemma="Éogan">Eogan</w> .i. eugen <add>.i. grece</add>. eu <add>din</add> bonus <add>ł bonum</add> latine dicitur. gen<add>imorro</add> donní is genesis. <corr>genesis</corr> autem generatio est. eo.gen din bona generatio. 
+</p>
+<p xml:id="B.336">
+<w type="hw" lemma="Éoganacht">Eoganacht</w> .i. icht cland ł cenel <add>.i. cinel</add> rochini o Eogan. 
+</p>
+<p xml:id="B.337">
+<w type="hw" lemma="ethar">Ethur</w> .i. ethúr .i. ethaid o ur co hor. 
+</p>
+<p xml:id="B.338">
+<w type="hw" lemma="etarport 1">Etarport.</w> quasi eterbert .i. iter dábeirt. Etarbad .i. nomen do ṡéon lasnadráide. 
+</p>
+<p xml:id="B.339">
+<w type="hw" lemma="enbarr">Enbarr</w> .i. én uisce. én<corr>barr</corr> din .i. uan bís forinuisce. inde dicitur gelither énbarr. 
+</p>
+<p xml:id="B.340">
+<w type="hw" lemma="eneclann">Enechland</w> .i. arinní clandtar aninchaib duine don eoch bus díleas dobeódil na marbdil na casnai alám fri ss. lanlóg onig cáich fomíad issed adroillither de. 
+</p>
+<p xml:id="B.341">
+<phr type="hw" lemma="enechgrís">Enech ruice</phr> .i. enech rú cian .i. cian ó inchaib atcíther a rú .i. a ímdergad. enech din .i. agad cro dergad <add>amail rongab mac do mathar mac do sethar</add> amail rogab mac do máthar mac do shethar céli foissmad céli taistil. ní na bita diles sectmad lógi a enig ind. Enechgríss ininna ib anindḟodla is cubaid iarom ind inaraill. índ érca án indḟódla <cb n="p. 267a"/> amail rogab sét nach aile gatair as do thír nach gabar fort do chomoirge na do<corr>ṡ</corr>nadut. 
+</p>
+<p xml:id="B.342">
+<w type="hw" lemma="erc 1">Ere</w> .i. neaṁ. 
+</p>
+<p xml:id="B.343">
+<w type="hw" lemma="ercne">Ercne</w> .i. ba a huad. .i. ba doberar dó illó a uad. 
+</p>
+<p xml:id="B.344">
+<w type="hw" lemma="ebrón">Ebron</w> .i. iarn. ut est a mBrethib nemid. ebrón ima muintear <add>.i. ima timchella</add> meirg 7 <add>i</add>maith. 
+</p>
+<p xml:id="B.345">
+<w type="hw" lemma="Etan">Etan</w> ingen Diancecht bannlicerd de cuius nomine dicitur etan .i. airchetul. 
+</p>
+<p xml:id="B.346">
+<w type="hw" lemma="éices">Éceas</w> .i. ecmachtceas .i. ecmacht a ceis .i. doairec in cetheora ranna fis filidechta. 
+</p>
+<p xml:id="B.347">
+<phr type="hw" lemma="escop 1">Epscop fina</phr> isna Muirbrethaib .i. escra tomais fína le cennaigib Gall 7 Frangc. aliter epscop .i. eipi forcai. abba .i. abba pater cai congranio. Epscop .i. onní is episcopus.
+</p>
+<p xml:id="B.348">
+<w type="hw" lemma="flaith 2">Flaith</w> .i. laith. déde fordingair .i. flaith .i. fochla. flaith din déde fordingair .i. coirm 7 loimm. ut est isin tenchas már .i. flaith laith find fortellraig .i. ass na mbo for talmain. 
+</p>
+<p xml:id="B.349">
+<w type="hw" lemma="fíne">Fíne</w> ab eo quod est uínea ar is gnath ind .u. consain lasin laitneoir is fern lasin gæideilg ut est uir .i. fer. uisio .i. fiss. uita .i. fit. uirtus .i. firt quamuis hoc non per singula currat. 
+</p>
+<p xml:id="B.350">
+<w type="hw" lemma="fín 1">Fín</w> din ab eo quod est uínum. 
+</p>
+<p xml:id="B.351">
+<w type="hw" lemma="feorus">Ferius</w> .i. fiar<corr>ṡ</corr>es .i. diferi in chraind. 
+</p>
+<p xml:id="B.352">
+<w type="hw" lemma="fim">Fín</w> .i. deog. 
+</p>
+<p xml:id="B.353">
+<w type="hw" lemma="fell 2">Fell</w> .i. each. unde capell nominatur. 
+</p>
+<p xml:id="B.354">
+<w type="hw" lemma="felc">Felc</w> .i. bunchar oirbead. unde dicitur forolltar findoirbed felc fill. 
+</p>
+<p xml:id="B.355">
+<w type="hw" lemma="flesc 2">Flesc</w> .i. fleochad. 
+</p>
+<p xml:id="B.356">
+<w type="hw" lemma="fíthal">Fithal</w> .i. nomen Iudicis. fithal din .i. láeg bó. 
+</p>
+<p xml:id="B.357">
+<w type="hw" lemma="ferb(b) 1">Ferb</w> .i. tréde fordingair .i. ferb bó cétamus. ut est isin tenchas már. teora ferba fíra .i. tri ba <corr>finda</corr>. Ferb din .i. bólc docuirither foraigid duine iarnair ł iarngúbreth. ut est geal fir natferba forbertatar fora inchaib iarom. Ferb din .i. briathar. ut est rofeass itfás infenechas icondelg ferb ndé. 
+</p>
+<p xml:id="B.358">
+<w type="hw" lemma="fír 2">Fir</w> <add>.i.</add> find. ut Fachtna mac Sencha dixit .i. fordomdiur tri dírnu di argut airiu ar teora fera <add>ł fira</add> férba fonænerc nécoscc iter lathi Lúgba lí súla socliar. ba head din ecosc na nerc <add>niuchna Echdach</add> echbel ł nechbeoil a hAlpa toacht cuiru .i. bai fira .i. finda ho derga ind. 
+</p>
+<p xml:id="B.359">
+<w type="hw" lemma="ferenn">Ferend</w> .i. hig bis umcholpa fir in cuius uicem crechtair ig <add>ł id</add> crechta imcholpa fer. amail nobid din ind<add>le</add> comadus caich is di din dognitis na ferinn uerbi gratia .i. ferend <add>ł ferrend</add> oir imchoiss rig. Ferend din ainm do criss bis imonfer. unde dicitur tachmaicc snechta ferna ł fairnniu) fer .i. doecinaic in snechta crissa fer. 
+</p>
+<p xml:id="B.360">
+<w type="hw" lemma="fochloc">Fochlocon</w> .i. nomen graid filead fora chosmailius fri fochlocain asberar. dí dullind fairsium in cétbliadain. días dó <add>don fochlocon</add> for tuaith. 
+</p>
+<p xml:id="B.362">
+<w type="hw" lemma="frecra(e)">Frecre</w> .i. fri each re fri each ræd fhaisneses. 
+</p>
+<p xml:id="B.363">
+<w type="hw" lemma="fogal">Fogal</w> .i. fo hoi .i. fo ḟolach. ní forard dogníthersum inḟogal. 
+</p>
+<p xml:id="B.364">
+<w type="hw" lemma="foilmen">Foloman</w> ł <w type="hw" lemma="">folman</w> .i. ainm don aitli bruit quasi folom ḟind .i. cenfindfad forri. 
+</p>
+<p xml:id="B.365">
+<w type="hw" lemma="fochnod">Fochonnad</w> .i. fochonad lasamain doberar hi <add>ł fo</add> tenid. ainm dó iarom geltine <add>inchrínaigsin</add>. hide dicitur geltine gile fochonnad <add>noch isin</add> a lassarsium. et de eo dictum est grian in ġaiṁ geltine. 
+</p>
+<p xml:id="B.366">
+<w type="hw" lemma="Fedelmid">Fédilmid</w> .i. fedil maith. maith secda <add>ł suthain</add>. 
+</p>
+<p xml:id="B.367">
+<w type="hw" lemma="feis(s) 2">Fescor</w> quasi fescer i. e. uescer hoc est uesper id est uesperurn unde .i. feiss aidche dobíud. ab eo quod est uescor. 
+</p>
+<p xml:id="B.368">
+<w type="hw" lemma="fís">Fís</w> .i. a uisione. 
+</p>
+<p xml:id="B.369">
+<w type="hw" lemma="fúal 1b">Fual</w> .i. bual uisce. inde dicitur dochotar arnasai hifual <add>.i. imbual</add>. 
+</p>
+<p xml:id="B.370">
+<w type="hw" lemma="fothrucud">Fothrugud</w> quasi ḟothrugud .i. do othrachaib .i. do innlóbru is mence. sed melius fothraicit .i. intan atnaim duine a chossa 7 a láma indlot indsin .i. indlot <add>.i. lotum diunnach .i. diunnach nind</add>. fothrugud din fothrocit insin .i. trochit <add>.i. corp</add> .i. corp uli foe. 
+</p>
+<p xml:id="B.371">
+<w type="hw" lemma="Foí">Foi</w> .i. Cnámchaill. ut dixit Grúibne <add>fili</add> fri Corc mac Lúgdhach. In fess fó Foi .i. ba fessach <add>ł befennach</add> Cnámchoille. Item Mog Ruith <add>ł Roth</add> peribit quod Roth Fáil perueniet dicens cori Durluis find iar Foi .i. iar Cnámchaill. 
+</p>
+<p xml:id="B.372">
+<w type="hw" lemma="felmac">Felmac</w> .i. mac a hiad ł a huad. <corr>fel</corr> .i. hái. 
+</p>
+<p xml:id="B.373">
+<w type="hw" lemma="felmac">Féle</w> .i. écsi ł éceis. inde dicitur filidecht .i. écsi. 
+</p>
+<p xml:id="B.374">
+<w type="hw" lemma="fili">Fili</w> .i. fí anæir 7 lí amolad in fili. Fili din .i. fialṡúi. sái ḟéile. 
+</p>
+<p xml:id="B.375">
+<w type="hw" lemma="fogamar">Fogamur</w> .i. donmís derid is ainm isin fogamur .i. foġam .i. gæth 7 mur imbad ut est i mBrethu nemid imbera fogamur .i. foġemur id est fo gemur .i. dag gemur. Daġ .i. cruithnecht. inde dicitur triar dag .i. triar sacarbaic .i. sacer 7 pít .i. próind. ut dicitur Pít proind doromult inné, dearb is dámna aithrige, inglan mo chorp lir mogrus, glan intí rochoimprius. <add place="margin">quasi fogamur .i. fota amir ngaim 7rl</add>
+</p>
+<p xml:id="B.376">
+<w type="hw" lemma="fót 2">Fót</w> .i. faitech. anbfót .i. anbfaitech ut dicitur Bid cách ifaitces a fóit, isciau imthigit innóic, is de ata fót faitech, ocus anfót andḟaitech.
+</p>
+<p xml:id="B.377">
+<w type="hw" lemma="fáth">Faath</w> .i. fóglaim. unde dicitur faitsine .i. fáith. 
+</p>
+<p xml:id="B.378">
+<w type="hw" lemma="Femen">Femen</w> .i. Fe 7 Men .i. dá ridhain dámraige Érenn. isin maiginsin robatar <add>isde asberar</add>. Cirbe nomen inbaile ambídís oc cocnam acíre. 
+</p>
+<p xml:id="B.379">
+<w type="hw" lemma="flechud">Fliuchud</w> .i. fliuchṡuth. suth fliuch insin for a míne .i. suth sín. 
+</p>
+<p xml:id="B.380">
+<w type="hw" lemma="fáir">Fair</w> .i. turgbail na grene imatin ab eo quod est Iubar. unde Colum cille dixit dia lim fri fuin dia lim fri fair <add>.i. fri turgbail</add>. 
+</p>
+<p xml:id="B.381">
+<w type="hw" lemma="fé 1">Fe</w> ab eo quod est ue .i. uae. arisgnáth .f. do frestul .u. <add>ł tarese na .u.</add> consaine la Gœdelu. ut prediximus. Fe din .i. flesc fhidaiti 7 fidad inní forfogen <cb n="p. 267b"/> la Gædelu di tomus coland 7 adnocul. 7 nobíd in flesc sin dogres irelcib na ngente. 7 ba fuath la cach agabail inalaim 7 cach ní ba hadetchi leo dobertis tria ogam innti. inde dicitur Dirsan beith i mbethaid dam, déis rig Gædel ocus Gall. toirsech mo rosc crín inocré, o ratóimsead fé fri Flaṅd. <add place="margin-bottom">aliter foruigena la Gaidelu flesc idaith donmite fri snacollna 7 fri sanadnacul inadnaictis 7 nobith inflescsin dogres isna relgib inangente fri sna hadnaclu. 7 ba huath la cach agabail inalaim 7 cach raed ba adetchede lasnadainib dobenta fri æ. unde prouerbium uenit fe fris .i. amail is naidetchíde indflesc cui nomen est fe sic et alia rés cui comparatur. Huaire tra ba die edhad nobith inflesc 7 ba adetchide is aire isber Morand isin briathar ogam ærcaid fid edath .i. indaer rolil inflesc cui nomen est fe.</add> 
+</p>
+<p xml:id="B.382">
+<w type="hw" lemma="fidchell">Fidchell</w> .i. féthciall. fáthciall .i. ciall 7 fath oca himbirt. ł fuathcell .i. fuath cille .i. cetharcoir cétamus inḟidchell 7 dirge a tithe, dub 7 find forri 7 snainmuintir cach la fecht beos bereas a cluithe. Síc 7 æcl<ex>es</ex>ia per singulam per .iiii. terrae partes .iiii. euangeliis pásta. is direch ambesaib 7 hitíthib na screptra et nigri et albi .i. boni et mail habitant in ecclesia. 
+</p>
+<p xml:id="B.383">
+<w type="hw" lemma="fraig 1">Fraig</w> .i. fri haig .i. fri huacht. 
+</p>
+<p xml:id="B.384">
+<w type="hw" lemma="folassa">Folasai</w> .i. iarsinní foloing coiss induine. aliter .i. fol .i. quasi sol .i. bonnbach .i. bónd bruach. iter bónd 7 bruach bís. Fol din quasi sol ab eo quod est latine solum. Fól .i. cendfochrus <add>.i.</add> .f. pro .s. 
+</p>
+<p xml:id="B.385">
+<w type="hw" lemma="fuidir 1">Fuithir</w> .i. fothir .i. intí dosber <add>tir don deoraid</add>. 
+</p>
+<p xml:id="B.386">
+<w type="hw" lemma="fásach 1">Fasach</w> .i. fesosech. dober inbretheam cosmailes dacach caingin imafuiglither .i. caingen cosmail di araile 7 atfét iarom inbreth r<add>on</add>ucsat brethemain gætha furri. Fássach din .i. fothechaid or seinchaingen frecnairc. ł sechaid din fo<corr>seinbreith</corr> forsin caingin frecnairc. 
+</p>
+<p xml:id="B.387">
+<w type="hw" lemma="fern 3">Fiern</w> .iarn <add>no</add> iarmbelra indsin. <add place="margin">Fiern .i. cach maith .i. iarnberla ł iarmberla indsin.</add>
+</p>
+<p xml:id="B.388">
+<w type="hw" lemma="glóir 1">Gloir</w> .i. a gloria .i. gluair ar met na gloire. 
+</p>
+<p xml:id="B.389">
+<w type="hw" lemma="galar">Galar</w> quasi calor. 
+</p>
+<p xml:id="B.390">
+<w type="hw" lemma="gaim 1">Gam</w> ab eo quod est gamos grece unde etiam grece mulier nominatur .i. bean, unde bigamus uel trigamus dicitur. 
+</p>
+<p xml:id="B.391">
+<w type="hw" lemma="gemred">Gaimred</w> quasi gamrith et inde Colman mac hui Cluasaig dixit a marbnaid Chumíne ḟota maic Fiachna Ua Choirpri ocus hua Chuirc, ba sái ba hán ba erdercc. dursan marban a mí ġaim, ni liach ni décaib iaram <add>.i. for neam rainic</add>.
+</p>
+<p xml:id="B.392">
+<w type="hw" lemma="gelester">Gelistar</w> .i. ainm dáth uisce ambít cethra for óibell. 7 doepetar gulba da cach ferand ambí uime 7 dogníther cuairt nairbed uime mád iter chomaidchib beas <add>intath</add> arna hethat cethra na gurta. anniumain dognither isin áth <add>ł animon sech sin iaram dogniad ina cethra isin nath</add> is dó is ainm gelistar. 7 dlegar bóthar coitchenn do cach chomaitiuch chuici ma cenbóthar bes <add>ł adochum cid cin beol</add>. 
+</p>
+<p xml:id="B.393">
+<w type="hw" lemma="gabor 1">Gabur</w> tre ᚛ᚐ᚜ <corr>ailm</corr> quasi caper. ar issed rotruaillned and. Góbur tre ᚛ᚑ᚜ <corr>ond</corr> di eoch is nomen son 7 is combrec rotruallned ind <add>dana i suidiu</add>. Gour din cach solas. inde dicitur gabur <add>ł gobur</add> don eoch geal 7 araile{?}. Gabur din ainm da cach each cipead dath bess laiss <add>aile dana ann .i. forsan ech</add> acht combe <add>ł diambe</add> cid becc do gil and <add>is gobur a nomen ar ise airegdam ann nominatur bis</add>. hon dath is airegda nominatur. 
+</p>
+<p xml:id="B.394">
+<w type="hw" lemma="gilla c">Gilldæ</w> .i. cosmail fri geal ł fri a gil .i. fri a glan. ise a besside do sugud. ise din bés in gilldæ doṡugud forchedal do thengad a fithera. ut dicitur i mBrethaib nemid toglen gil tengaid. 
+</p>
+<p xml:id="B.395">
+<w type="hw" lemma="Gaileng">Gaileng</w> .i. din fri Cormac mac Taidg maic Céin asrúbrad .i. dorigne fleid dia athair .i. do Thadg hua Oilella combí cét da cach cenél anmand aice acht bruicc namá. Teit Cormac don brocenaig 7 bá máll lais anad fri a togail co tachartsat imach for fír nenig a athar .i. Taidg. Lotar tra na bruicc imach coromarb Cormac cét dib 7 rothaispen iconḟleid. rográin iarom cride Thaidg fri hae 7 atbert an dorigned and coroainmnigestar a mac hoc nomine .i. Cormac Gælang <add>.i. cac enech</add> unde Galenga nominantur. Gaileng .i. gæi lang .i. cen cennach. gaileng din .i. gailseng iarsinní sengailter indala nǽi. 
+</p>
+<p xml:id="B.396">
+<w type="hw" lemma="gemm">Gem</w> .i. a gemma. 
+</p>
+<p xml:id="B.397">
+<w type="hw" lemma="grád 1">Grád</w> .i. a gradu. 
+</p>
+<p xml:id="B.398">
+<w type="hw" lemma="glang">Glang</w> .i. gualu. inde asglang. 
+</p>
+<p xml:id="B.399">
+<w type="hw" lemma="gníth">Gníd</w> .i. guth. inde dicitur gnídgal. 
+</p>
+<p xml:id="B.400">
+<w type="hw" lemma="gel 1">Geal</w> ab eo quod est gelu. 
+</p>
+<p xml:id="B.401">
+<w type="hw" lemma="gíabur">Giabur</w> .i. merdrech. 
+</p>
+<p xml:id="B.402">
+<w type="hw" lemma="gol">Gol</w> .i. der <add>unde golgaire</add>. 
+</p>
+<p xml:id="B.403">
+<w type="hw" lemma="gall 1a">Gall</w> .i. corthi cloiche .i. nis comathig combatar selba cobrandaib gall. Gall din cetherda fordingair .i. gall corthi cloiche <add>cetamus</add> ut prediximus. adberar gall de ar it Gaill rosuidestar an Erinn artús. Gaill din ainm do ṡaerchlannaib Frangc .i. tress Galliae 7 <add>is</add> candore corporis rohainmniged. gall enim grece lac latine dicitur unde Galli .i. indasta sic dana gall is nomen do elu. inde Fear Muman dixit cocholl chos ngall gemin bráin. gall din ainm do chailech .i. gallus .i. dinni is galea capitis nominatur <add>disuidiu</add>. 
+</p>
+<p xml:id="B.404">
+<w type="hw" lemma="gratsicum">Grasticum</w> .i. graziacum .i. atlugud buide Patraic. quod Scoti corrupte dicunt. sic autem <corr>dici</corr> debet .i. grasagum do duiu .i. gratias deo agimus. 
+</p>
+<p xml:id="B.405">
+<w type="hw" lemma="géd">Géd</w> .i. nomen de sono factum gág gag. 
+</p>
+<p xml:id="B.406">
+<w type="hw" lemma="gamain 2">Gamuin</w> .i. immí gam .i. iar samuin. inde dicitur gámnach <corr>gam-ṡinech</corr> .i. iarsinní is blichtur immi gaim .i. in gamrid. 
+</p>
+<p xml:id="B.407">
+<w type="hw" lemma="gorn">Grond</w> .i. gǽ ł gorn .i. gái-orn .i. gái oircne .i. aithinde. ut Gruibne dixit oc fáilte fri Corc ł fri Cormac .i. immicuiretar gruind <add>ł guirn</add> gair 7 araile{?}. 
+</p>
+<p xml:id="B.408">
+<w type="hw" lemma="glus">Gluss</w> .i. sollsi. ut <corr>est</corr> i mBrethaib nemid .i. dofét óc iarnglus .i. is airegda intóg cona dágrusc oldas in sean condibell a ruisc. 
+</p>
+<p xml:id="B.409">
+<w type="hw" lemma="Greth">Greth</w> nomen do gillai Aitherne. cui Amargeiu mac Eculsaig gaband ho Buais dixit Inith greth gruth grínmuine gránmuine glascrema cue uinn ubla grethi gruth. 
+</p>
+<p xml:id="B.410">
+<w type="hw" lemma="gart 1">Gart</w> .i. déde fordingair. gart .i. ceand isin Dúil fheda máir. gart din .i. féile is cend for cach ṅdail amra dogni duine. 
+</p>
+<p xml:id="B.411">
+<w type="hw" lemma="gruiten">Gruiten</w> .i. groitsean seach is sean is grot .i. is goirt. or grot cach ṅguirt. unde dicitur groitmess .i. goirtmess. 
+</p>
+<p xml:id="B.412">
+<w type="hw" lemma="gnó">Gnó</w> .i. cuidmide. unde dicitur ní recht nach gnó .i. ni dírech nach cuidmide .i. ní dir do recht minabmaith. ni <corr>dir do</corr> gno din .i. ni maith do chuidmidu ł do gáire and. Gnoe imorro cach ségda. ut dicitur isin tSenchus mar <cb n="p. 268a"/> cno gnoe .i. ségdai. 
+</p>
+<p xml:id="B.413">
+<w type="hw" lemma="gróma">Groma</w> .i. aer. unde dicitur gromfa .i. aerfa et unde dicitur gruaim cach sluaig mín aidetchide do deilb as auraissi do æir 7 décnach. gruaimm duine cassilerno {?} asberar de. 
+</p>
+<p xml:id="B.414">
+<w type="hw" lemma="glám">Glám</w> quasi clám. ab eo quod est clamor facit. 
+</p>
+<p xml:id="B.415">
+<w type="hw" lemma="glaídem">Glademain</w> .i. mec thire. <add>gluidite .i.</add> focerda ualla móra. 
+</p>
+<p xml:id="B.416">
+<w type="hw" lemma="gudemain">Guidemain</w> .i. uatha 7 mo rrigna. 
+</p>
+<p xml:id="B.417">
+<w type="hw" lemma="gaire 4">Gaire</w> .i. gairsecla .i. gar rae .i. ræ gar. ut dicitur isin æir dosgní Nédi mac Ádnai maic Úithir do ri Connacht .i. do brathair a athar fessin. do Chær mac Úithir. issí indso in ǽir Maile baire gaire Caieur, combeodutar celtra catha Caier, Caier dibá Caier dira Caier foró, fomara fochara Caier. maile din .i. olc honní is malum. baire .i. bás. gaire .i. gairsechlai. Caieur <add>.i. do Caer</add>. celtra catha .i. gae. unde dicitur diceltair .i. crand gae cen iarn fair ł cen arm. foró .i. imord feda .i. fo úir. fomara .i. fo múraib úire imarda. fó chora .i. fo chlocha do Chǽr. 7 araile{?}.
+</p>
+<p xml:id="B.418">
+<w type="hw" lemma="Ís(s)u">IHC</w>. in hoc nomine est nomen nostri saluatoris. 
+</p>
+<p xml:id="B.419">
+<w type="hw" lemma="ibar">Hibar</w> .i. eubarr .i. fóbarr .i. iarsinni ná tascara fóbarr dogrés. 
+</p>
+<p xml:id="B.420">
+<w type="hw" lemma="ítharnae">Hitharna</w> .i. hith 7 feorna .i. semenn aritglaine 7 hith na cethra nolegdais <add>ł noteged isna cainnlea</add> isna simnib apud ueteres. 
+</p>
+<p xml:id="B.421">
+<w type="hw" lemma="íasc">Iasc</w> inésc .i. esc uisce. an uisce tra coṅdic a bethámnus. ł iasc quasi esc id est ab esca. es din bíad unde esser. ca .i. onní is caput .i. ceand 7 cléthi cacha bíd int iasc ár dothomail Issu he. 
+</p>
+<p xml:id="B.422">
+<w type="hw" lemma="indmus 1">Hindmaiss </w>.i. inamus. 
+</p>
+<p xml:id="B.423">
+<w type="hw" lemma="ísel">Híseal</w> .i. is allt ar ní habar int íseal anallt <corr>man</corr>ebe ard oca. <add>allt imorro</add> ab altitudine. 
+</p>
+<p xml:id="B.424">
+<w type="hw" lemma="íarn">Hiarn</w> .i. iarn in nortmannica lingua. 
+</p>
+<p xml:id="B.425">
+<w type="hw" lemma="immesorcon">Himesorcain</w> .i. imesorcain do chechtar don da leith bís. 
+</p>
+<p xml:id="B.426">
+<w type="hw" lemma="imrimm">Himrimm</w> .i. imréim .i. reimm in eich 7 réimm in duine. sic et dírím .i. diréim reim ndeda. 
+</p>
+<p xml:id="B.427">
+<w type="hw" lemma="imliu">Himbliu</w> quasi uimbliu ab umbilico. 
+</p>
+<p xml:id="B.428">
+<w type="hw" lemma="imlech 1">Himbliuch</w>. quasi imloch .i. loch uime imacuairt. 
+</p>
+<p xml:id="B.429">
+<w type="hw" lemma="ansae 1">Hinis</w> .i. ab insula. inis tra anus hinsae .i. anusa. ni hussa .i. ni huiss. 
+</p>
+<p xml:id="B.430">
+<w type="hw" lemma="insamain">Hinsainhain</w> .i. anesamain .i. ni hessamain. 
+</p>
+<p xml:id="B.431">
+<w type="hw" lemma="ibid"><add>I</add>b </w>quasi bib .i. bibe. 
+</p>
+<p xml:id="B.432">
+<w type="hw" lemma="indrosc 1">Hinrosc</w> .i. indárosc .i. arosc do ind <add>ł da ind</add> bréthre. 
+</p>
+<p xml:id="B.433">
+<w type="hw" lemma="immortan">Himortan</w> .i. importan .i. imram <add>ł imbreth</add> a purt <corr>do purt</corr>. 
+</p>
+<p xml:id="B.434">
+<w type="hw" lemma="ia">Hia</w> quasi cenéli forcill indsin. ór issed in dala n-ainmm déc fordingair <add>ł o ndingarar</add> Crist la Hebraib. 
+</p>
+<p xml:id="B.435">
+<w type="hw" lemma="ídal">Idol</w> .i. ab idolo. 
+</p>
+<p xml:id="B.436">
+<w type="hw" lemma="ídal">Hidoss</w> asin greig. forma asin laitin. unde dicitur ídolum .i. dealba 7 arrachta na nídal <add>ł na ndula</add> dognítis na géinte prius. 
+</p>
+<p xml:id="B.437">
+<w type="hw" lemma="indelb">Hindelba</w> .i. anmunda altóri na nídal sin arinní dófornitís inntib .i. delba in uile noadratis <add>ł na ndula odortais</add>. unde uerbí gratia forma <add>ł figia</add> sólis in altare ut 
+</p>
+<p xml:id="B.438">
+<w type="hw" lemma="imbath">Himbath</w> .i. oician. bath .i. muir ut <corr>est</corr> <add>muir</add> iter Erinn 7 Albain uel aliud quodcunque mare inatimchell imacuairt ut mare terrenum. Himbath din .i. immuir <add>.i. muir</add> imthimcelles imacuairt is di is ainm ocian <add>ł is hé ind ocian son deitsiu</add>. 
+</p>
+<p xml:id="B.439">
+<w type="hw" lemma="idan">Hidan</w> quasi idon. ab eo quod est idoneus. 
+</p>
+<p xml:id="B.440">
+<w type="hw" lemma="íarmbélre">Hiarnbelra</w> is de asberar fri ss for a dhuibe in belra 7 for a dhorchacht 7 for a dlúthi conach urusa taiscélad tritsin <add>ł ind</add>. 
+</p>
+<p xml:id="B.441">
+<phr type="hw" lemma="imbas 1">Himbas forosnai</phr> .i. dofuarascaib seicib cach ræt bid maith lasin filid 7 bud ádlac dó do ḟaillsiugud. is amlaid dognither sin .i. cocnaid <add>ł concna</add> infili mír do charnna dhergmuice ł chon ł chaitt 7 dosber iaram isin líg fora chula na cómlad 7 canaid díchedul fair 7 hidbraid sin do dheib hídal. 7 gutagair dó iaram a hídalu. 7 nisfaghaib din iarnamárach. 7 dochan brichta for a dhí baiss. contagair beos a dhee hídal chuige arna toirmesctha a chodlad innnbe. 7 dosber a dí boiss ima díb lecnib contuil ísuan. 7 bíther oca fhaire ar na roimprá 7 na rothairmesca nech cotaispentar dó cach ní immbambí cocend nómaide ł a dó ł a tri ł fot ł mhessedh oc hídbert. et ideo himbas dicitur .i. dí boiss uime .i. bass ádiu 7 has anall ima leccnib. 7 atrogell ł atrarpe tra <add>Patraicc</add> innísin 7 anteinm lægda .i. roforgell na bud nime na talman nach æn dosgní uair is díultad do baithis. Díchedul do chendaib din for fhacbad <add>són</add> a dénum side hi córus cerdi ar issed <add>so as</add> fodera són ni hécean hidbairt demun uime acht faisnes do chendaib cnáime fócetoir.
+</p>
+<p xml:id="B.442">
+<w type="hw" lemma="láech">Loech</w> i. e. a loeco <add>uel a laico</add>. 
+</p>
+<p xml:id="B.443">
+<w type="hw" lemma="laíches">Laiches</w> .i. lóech 7 feiss .i. dind feiss foass in loech lea. 
+</p>
+<p xml:id="B.444">
+<w type="hw" lemma="Lugnasad">Lúgnasad</w> .i. cluiche ł œenach is do is ainm násad .i. aurtach ł cluiche Loga maic Ethne <add>ł Ethlend</add> nofertha lais um thaide fogamair. 
+</p>
+<p xml:id="B.445">
+<w type="hw" lemma="ligur">Ligur</w> .i. tenga. 
+</p>
+<p xml:id="B.446">
+<w type="hw" lemma="lelap">Lelap</w> .i. luleap. lú cach mbec. ł lenab .i. lenis abati .i. patri. ł iarsinní lenas abatem 7 matrem. 
+</p>
+<p xml:id="B.447">
+<w type="hw" lemma="les (cmpd)">Leasmac</w> .i. lissṁac .i. iarsinní is lis don ḟir ł don mnái intí is lessmac do cechtar de. Síc lessmathair ł lessathair. less din quasi líss .i. líss debaid ł imargal. 
+</p>
+<p xml:id="B.448">
+<w type="hw" lemma="legam">Legam</w> .i. don lige liges <add>ł legess</add> int édach. ł legam .i. lí áith .i. áith fri a lígda inní <add>onní</add> na denandsom foss acht anétaigib ilib. acht is minca hitheas innédach lígda <add>ł ni haire nad fóssadsom fri cachnetach cenimbetis <corr>liga</corr> imbí acht is menciu araciallathar 7 fosaimther in étach ligha</add> quam aliud uestimentum. 
+</p>
+<p xml:id="B.449">
+<w type="hw" lemma="lecca">Leconn</w> .i. lecend .i. lethcend. 
+</p>
+<p xml:id="B.450">
+<w type="hw" lemma="lasamain">Lásamnai</w> ab eo quod est laissim .i. each nán. 
+</p>
+<p xml:id="B.451">
+<w type="hw" lemma="lemnacht">Lémlacht</w> .i. lacht téith. learn din each téith. 
+</p>
+<p xml:id="B.452">
+<add place="margin"><w type="hw" lemma="loch 2">Loch</w> <add>.i.</add> deide fordingair .i. loch dub. unde dicitur asoilgi laith</add> lochrúna .i. dúbrúna .i. cid doirche sámud cáich 7 cid runda riam 7 iaram dochraide arúna <add>f</add>laith da ól. Loch .i. uile. unde dicitur lochdub .i. uiledub. 
+</p>
+<p xml:id="B.453">
+<w type="hw" lemma="lárac">Láarg</w> .i. ló arg ł leo arg. leo ball 7 arg loech. leo ball ł áige ł cuibrend do dhaglæch indsin. 
+</p>
+<p xml:id="B.454">
+<w type="hw" lemma="lorg 2">Lorg</w> .i. lo airg. loric unde dicitur <cb n="p. 268b"/>
+</p>
+<p xml:id="B.455">
+<w type="hw" lemma="lám">Lám</w> .i. luam. iarsinní luas imoncorp uli. 
+</p>
+<p xml:id="B.456">
+<w type="hw" lemma="lámos">Lámos</w> .i. lamḟoss .i. foss puss <add>ł fos</add> coimet na laime. 
+</p>
+<p xml:id="B.457">
+<w type="hw" lemma="lámann">Lámind</w> .i. laimínd .i. ind na láime édither di. 
+</p>
+<p xml:id="B.458">
+<w type="hw" lemma="lútu">Lúda</w> .i. ludugan .i. lú cach mbec. uair isé mér is luga do láim hé. 
+</p>
+<p xml:id="B.459">
+<w type="hw" lemma="lía 1">Liæ</w> ab eo quod est lidos grece <add>interpretatur</add> lapis latine dicitur. 
+</p>
+<p xml:id="B.460">
+<w type="hw" lemma="láith 2">Laith</w> .i. déde fordingair .i. láith gaile <add>7</add> laith .i. med ut prediximus. eter laithe Lúgba .i. améd Lúgba <add>cerda doruimidar Fachtna anargat ar na bú 7 araile{?}</add>. intan tra is forṡail bis and ł fair is and sluinnes hoc. <add>intan tra is forail foridmbí issand sluinnith hoc</add>. 
+</p>
+<p xml:id="B.461">
+<w type="hw" lemma="lang (cmpd)">Langfiter</w> .i. ainglaiss <add>ł ainglis</add> indsin. lang fota. feitir .i. glas na nGall, urchomul. langfiter .i. glas fota bís iter chosa cinn 7 cos tóna. non síc urchomul .i. aur a chomul. iter di chois chind in eich bís. 
+</p>
+<p xml:id="B.462">
+<w type="hw" lemma="lecht">Lecht</w> .i. lige mhairb. ab eo quod est lectus. 
+</p>
+<p xml:id="B.463">
+<w type="hw" lemma="long 1">Long</w> .i. ab eo quod est <corr>longa .i.</corr> lang <add>.i.</add> fota <add>.i.</add> bís for muir. 
+</p>
+<p xml:id="B.464">
+<w type="hw" lemma="lebor">Lebor</w> quasi libor .i. a libro. 
+</p>
+<p xml:id="B.465">
+<w type="hw" lemma="lot">Lott</w> quasi lot unde dicitur lotrad i. e. lothrad .i. lott aris lott do mnái in merdrechus. 
+</p>
+<p xml:id="B.466">
+<w type="hw" lemma="láth">Lath</w> .i. lúth .i. iarsinní lúthas. 
+</p>
+<p xml:id="B.467">
+<w type="hw" lemma="lommán">Lommand</w> .i. lomm fand. sech is lómm is fánd hí. 
+</p>
+<p xml:id="B.468">
+<w type="hw" lemma="laithirt">Lathirt</w> .i. laith lind 7 irt bás dontí nosroib <add>.i. ól corma ł laith rotnort</add>. 
+</p>
+<p xml:id="B.469">
+<w type="hw" lemma="lubgort">Lúgbort</w>. melius <corr>est</corr> .i. luibgort .i. gort luibe. 
+</p>
+<p xml:id="B.470">
+<w type="hw" lemma="léine">Líín</w> a líno. Léine a línea dib aroile. 
+</p>
+<p xml:id="B.472">
+<w type="hw" lemma="lánamain">Lánomain</w> .i. lanshomain cáich. ar is lethṡomáin nechtar de sech aroile. 
+</p>
+<p xml:id="B.473">
+<w type="hw" lemma="leithech 1">Leithech</w> .i. déde fordingair .i. ainm cetamus do chenéul éisc indsin .i. fora lethe nech bís de 7 fora thanacht. arismor lethe nech bís de in oceano. Lethech din ainm do lossait iarsinní letair bairgean furri. amail atbert Cruitine fechtus luid do thig aroile écis 7 a gilla lais .i. écsíne esside comenmain aḟithiræ. Farolaid din Cruitíne bodesin a muig 7 lécis a gilla do aigidecht do thig inécis. Dobreth tarr tuirc íscábull do 7 rogab coléig int éces oc aacallaim inécsine 7 oc cur ṡúla dar aḟrithgnam. Rorathaig int éces mórmenmain inecsine 7 laigeat afri thġnama. Intan tra bha bruithe intarr atbert int éceas fiad inécsine .i. tofotha tarr tein .i. as mithig a thircáil <add>ł a tiscáil</add> do thenid 7 ba coḟessed som cia freccra doberad int écsin do fobith rochualasom int éces oc gúmháidim alanaile <corr>ṅairec</corr> ninganta amail bid hé bodessin ar dorissed ł ara tísead 7 ní rochredsium din int éces 7 ba aire atbert int éces do fromad inécsine .i. tófotha tarr tein. et tribus uicibus dixit Dofotha tarr tein et non respondit eí uel ullum uerbum. din iarom atracht int écsine 7 teit cusin maigin amboi Cruitíne 7 atfét scela dó .i. int aithesc roráid int éces .i. tófothá tarr tein. Maith ol Cruitíne intan asbera doridisi abair fris Toe lethaig foen friss .i. fon tarr 7 fris adaind indlis ł fri sin le adaind indlis .i. toe lossait foen fris .i. fon tarr. 7 fri sin dle coindil dodécsi dús inbruithe in tarr. intan tra dessid istig thall dixit int éces in cetnai et dixit int écsine Toe lethaig 7 araile{?}. Maith ol int éces ni brú ecsine rotoirne ł rotorma. is focus rothoirned is focus din Cruitine condogair a muig. Adagar iarom Cruitine ferthar failte fris 7 doberar biad naill isin coire iarom 7 ba bec amenma inécsine fobith contib int éces uime céin coracaillestar Cruitine 7 araile{?}. 
+</p>
+<p xml:id="B.474">
+<w type="hw" lemma="lés 1a">Leos</w> .i. imdergad imandergthar <add>ł imdergthar</add> duine iarnaǽir ł écnach. leos din .i. soillse tit est i nDúil roscaid grinniud leos .i. díbad soillsi .i. coindle. Item aigead ḟir ima leos luinether ł imaleos luindetar .i. imatimchella soillse. 
+</p>
+<p xml:id="B.475">
+<w type="hw" lemma="lócharn(n)">Locharn</w> <add>ł Luachairnd</add> quasi luchern .i. a lucerna 7 araile{?}.
+</p>
+<p xml:id="B.476">
+<phr type="hw" lemma="debroth">Mo debroth</phr> ol Patraic quod Scotic dicunt corrupte. síc hoc dici debet .i. muin doíu braut .i. muin din is meus. in díu is deus. in braut is Iudex .i. meus deus Iudex. 
+</p>
+<p xml:id="B.477">
+<w type="hw" lemma="marc">Marc</w> .i. ech. marcach din .i. eich immda lais. ut dicitur buasach infer lasmbit ba imda. airmnech tra in fer techtus arbor immda. sic airgdech colgedach. 
+</p>
+<p xml:id="B.478">
+<w type="hw" lemma="máthair">Mathair</w> quasi mater arissed rotruailled and .i. mater. 
+</p>
+<p xml:id="B.479">
+<w type="hw" lemma="mid 1">Mid</w> .i. combrec rotruaillned and .i. med. 
+</p>
+<p xml:id="B.480">
+<w type="hw" lemma="meithel 1">Meithel</w> quasi methel ab eo quod est métho ł méto. 
+</p>
+<p xml:id="B.481">
+<w type="hw" lemma="muc(c)airbe">Mucairbe</w> .i. mac ḟuirmid .i. mac doḟuirrned adhána. 
+</p>
+<p xml:id="B.482">
+<w type="hw" lemma="malland">Malland</w> .i. féith bís darin mullach anuas. quasi mulland. 
+</p>
+<p xml:id="B.483">
+<w type="hw" lemma="milliud">Millead</w> .i. mí shillead .i. silled olc. 
+</p>
+<p xml:id="B.484">
+<w type="hw" lemma="mass 1">Más</w> a massâ. 
+</p>
+<p xml:id="B.485">
+<w type="hw" lemma="miscad 1">Miscaith</w> .i. míscaith .i. mí Gnnsce. scath <add>.i.</add> indsce. amail ata Dúil roscadach indsin. 
+</p>
+<p xml:id="B.486">
+<w type="hw" lemma="milgetan">Milgitan</w> .i. molchuiten .i. cuid Múil .i. doirrseóir Temra. Mol din aainin side dég in muil noferad fornadóinib .i. tait es táit ind. unde dicitur molach. 
+</p>
+<p xml:id="B.487">
+<w type="hw" lemma="melg 1">Melg</w> .i. as. arindí mblegar. 
+</p>
+<p xml:id="B.488">
+<w type="hw" lemma="melg 2">Melg</w> din .i. bás. inde dicitur melgthemi .i. teime inbáis. ł melgtheinte .i. teine in báis. 
+</p>
+<p xml:id="B.489">
+<w type="hw" lemma="Morann">Morand</w> .i. mor find. ba hé andsin a ainm dombert a mathair do 7 atbert robo bidba báis di nach eperad fri s. Mac máin din adbert a athair dó .i. ba máin maith inmacsa 7 bidba báis nach epera fris inna inmsin. corolenustar tra indí ainm arson enannia. Mac som Coirpri Chindchaitt. 
+</p>
+<p xml:id="B.490">
+<w type="hw" lemma="menad">Menad</w> .i. min 7 áith ġonas. Menad din min a iadh .i. a thóll. 
+</p>
+<p xml:id="B.491">
+<w type="hw" lemma="moth">Moth</w> .i. cach ferrda .i. cach ferinsce et nomen est uirili membro. <cb n="p. 269a"/>
+</p>
+<p xml:id="B.492">
+<w type="hw" lemma="man">Man</w> i. e. a manu. 
+</p>
+<p xml:id="B.493">
+<w type="hw" lemma="manach 1">Manach</w> i. e. a monacho. 
+</p>
+<p xml:id="B.494">
+<w type="hw" lemma="monach">Monach</w>. .i. clessach. ab eo quod est món .i. cleass. 
+</p>
+<p xml:id="B.495">
+<w type="hw" lemma="methas">Methos</w> .i. a meta .i. on crith ł on crích. 
+</p>
+<p xml:id="B.496">
+<w type="hw" lemma="molad">Molad</w> .i. mol soad .i. mol ara menci. soad for a gnáithce ł for aġáithe. 
+</p>
+<p xml:id="B.497">
+<w type="hw" lemma="menmchasach">Menmchosach</w> .i. menma nach sasad lais. ł menma chasach lais .i. caingnech. 
+</p>
+<p xml:id="B.498">
+<w type="hw" lemma="moirtchenn">Muirtchend</w> ab eo quod est morticinium .i. martarchend <corr>.i. cenn</corr> taraais cu hoband .i. onní is marb cu hoband. 
+</p>
+<p xml:id="B.499">
+<w type="hw" lemma="muilend">Muilend</w> .i. mol 7 bond <add>.i. ar issed deide as maillem immuilend</add>. hond .i. cloch. mó a oil .i. a chlocha quam clocha broon. Muilind din .i. meil 7 lind <corr>ar is</corr> for lind méileas. Molo muilend .i. mola broo din. ł muiliern. 
+</p>
+<p xml:id="B.500">
+<w type="hw" lemma="meirdrech">Merdrech</w>. .i. mear. <add place="margin">merdrecb .i. mer. drecb .i. mer 7 drech iarnacengal.} bean is mear dreach. ł mear <add>.i. druth</add> 7 drech .i. boeth. Merdrecb din .i. drúth baeth. inde poeta mear cach drúth mianach cach baeth. Merdrech ab eo quod est meretrix i. e. a merendo stupri pretium.</add>
+</p>
+<p xml:id="B.501">
+<w type="hw" lemma="mát 1">Mát</w> .i. lám. inde índmat .i. índ na lám nigther and. índlat din ar is <corr>índ</corr> don choiss a traig et a lotione dicitur. 
+</p>
+<p xml:id="B.502">
+<w type="hw" lemma="mát 2">Mát</w> .i. mucc. inde dicitur a mBrethaib nemid foruachtatar mata mó thuinde targabail. 
+</p>
+<p xml:id="B.503">
+<w type="hw" lemma="mann 1">Mánd</w> .i. uinge. ut Sencha dixit Mou álib imdergad émna domider de .uii. cumala cichside crissu .uii. mogu mogaigthi fri morgnima mogsaine .uii. manna óir aithlegtha fri fialgnúis mo charut moir mou. Mand din .i. geal .i. uinge brúinnte. 
+</p>
+<p xml:id="B.504">
+<w type="hw" lemma="Munnu">Munnu</w> .i. moḟinnu .i. ainm bóid Finntain enim dictus est. unde Maedóc Ferna dixit ocaire ł oca hoer Munnu maic Thulcháin A chilian Dé chumachtaig, a maic Thulcháin a bachlaigh, ruc mac annsai <add>.i. demon</add> do múintir, mathair rotfucc a Ḟinntain.
+</p>
+<p xml:id="B.505">
+<w type="hw" lemma="mál 1">Mál</w> .i. rí 7 file. inde dicitur nádnais argat ł ór acht for mal <add>.i. for rig.</add>. 
+</p>
+<p xml:id="B.506">
+<w type="hw" lemma="muirenn">Muirend</w> .i. dédi fordingair .i. ainm cétamus do mnái. Muirend .i. morḟind. Muirend din ainm do gǽi .i. mirind <add>.i. drochrind</add>. droch .i. bas. drochrind .i. rínd dober bás. 
+</p>
+<p xml:id="B.507">
+<w type="hw" lemma="Mug Éme">Mogheime</w> ainmsin in cetna orce bói a nErinn. Coirpri Músc mac Conaire tuc anair he a Bretnu. intan bamor cumachta Gaedel for Bretnaib dorannsat Alpain eturru iḟerannus 7 roḟitir cach durais dia carait leo 7 niba luga do threbdais Gǽdil formuir anair quam in Scotica 7 do rónta anarusa 7 arigdúinte ann. inde dicitur Dinn Tradúi .i. Dún Tredúi .i. trédhue Crimthain moir maic Fhidaig rig Erenn 7 Alpan 7 co muir nIcht. 7 inde Glasimpere <corr>na nGáidel .i. cell</corr> forbrú mara nIcht. isand sin robói Glass mac Caiss mucaid rig Hiruatha oca mucaib for mesrad 7 isé rodersaig Patraic i cind .xxui. bliadne iartain iarnaġuin dfianaib maic Con. 7 isin rindsin ata dind map Lethain i tírib Bretan Cornn .i. dún maic Liathan. aris mac inní is mabb isin bretnais. Síc rorand cach cenél diṡuidiu arbói a cutrama allathair 7 bátar foncumachtasin cocian iar tidhecht do Pátraic. Desin tra boi Coirpre Músc oc athige sair co a muintir 7 cóachairde. Nithanic tra an inbuidsin oircne hi tir nErenn 7 roforcongrad la Bretnu na tarta oircne indail na ináis na icomáin na icarutrad do Ghædelu. Is hi tra cáin bói an inbuidsin la Bretnu .i. cach bidba inachinta do neoch noḟuasnabad cáin. Boi tra oircne aimind for seilb charut do Choirpri músc hi mBretnu 7 contori Coirpre uad. Fectus do Choirpri dia thighsium coránic fáilte dó acht imonoircne. Scian ámra la Coirpre músc conimdénum argait 7 óir ima heim. ba sét adamra hi. Dombert tra in Coirpre beoil cumor impe 7 coimlid saill dia heim coroḟacaib forbeolu inoircne iarom. Rogab int oircne forcnám na hemi comatain. loitid inscín iaram conáb alaind. Dosgní Coirpre iarnamáirech ceist moir desin cumba bronach <add>ł ba bairnech</add> de tra 7 cuíndchis cert uime có acharait. indraic sen din conepert ícfatsa incin olse. Níġebsa ol Coirpre acht aḟil icáin Bretan .i. cach rob ina chin. Tucad innoircne do Choirpri desin 7 rolil ainm de .i. Moġemi. moġ .i. dær dobreath dia hessi na sceine. Torrach <add>.i. banchu</add> din int oircne. tanic andsin Oilill Flann bec for Mumain an inbuidsin 7 Cormac húa Cuind í Temraig corogabsatside a triur foiche <add>.i. fuachtain</add> icuinched 7 iccosnam in oircne aturru. is he iaram cruth rocoraiged etarru atriur .i. aimsear cínnte don choin itig cachae díb. Doithid incú iaram coruc cách cuilén dia cuaine. conad forslichtsin atathar a nErinn beos. Marb tra innoircne iarcéin 7 rosfuair Connla mac Taidg maic Céin maic Oilella Auluim cloicend lomm in oircne sin combert icesta don ḟilid luid conái airchetul dia athair. Mæn mac Edaine ainm inḟilead. Tethna iarom Mæn int écess tria theinm lægda conepert Cain tonna tige háui Eogain. ith itig háui Chuind cacht adath tobarand basacaem itig Choirpri múisc. a Muig emi. Ceand Moga emi andso .i. in cedna oircne dobretha an Erinn 7 araile{?}. <cb n="p. 269b"/>
+</p>
+<p xml:id="B.508">
+<w type="hw" lemma="Mumu">Muma</w> de nomine alicuius regis i. e. Eochaid garb. <corr>Echaid</corr> mumo .i. Eochaid mumó .i. mó a gréim 7 a gerait 7 a chumachta oldás cach rig .i. dia anmaimm rohainmnigthea Mumain 7 Muimnig dicuntur. Mumu de nomine regis din dicitur. 
+</p>
+<p xml:id="B.509">
+<w type="hw" lemma="mug">Mug</w> quasi múch ar is fomhuich 7 todernam fognuma dogrés. 
+</p>
+<p xml:id="B.510">
+<w type="hw" lemma="mugsaine">Mugsaine</w> .i. mugsine quasi mugsnime .i. sním bís formenmain inmhogad. 
+</p>
+<p xml:id="B.511">
+<w type="hw" lemma="múch">Much</w> .i. ainm sáindiles do diaid. unde dicitur muchad. 
+</p>
+<p xml:id="B.512">
+<w type="hw" lemma="mil">Mills</w> quasi melis. mil .i. mel rotruaillned and. milis <add>.i. isin and 7</add> mel. 
+</p>
+<p xml:id="B.513">
+<w type="hw" lemma="midach 2">Midach</w> quasi medic ab eo quod est medicus .i. liaig. 
+</p>
+<p xml:id="B.514">
+<w type="hw" lemma="mer 2">Mear</w> .i. iarsinní bís a ænur isin allt ambí .i. ina meracht 7 inuaænur téit. quasi merulus .i. lon inde .... grece quod uolat solus 7 nibí én aile cid dia cheniul féin ina coemtecht. 
+</p>
+<p xml:id="B.515">
+<w type="hw" lemma="meracht">Meracht</w> quasi mericht .i. icht mear. Meracht .i. acht <add>.i. gnim</add> mear. ab eo quod est actus. 
+</p>
+<p xml:id="B.516">
+<w type="hw" lemma="mairt 3">Mairt</w> .i. morait .i. mor uaitt .i. có domnach o máirt. Máirt .i. a Marte o día in catha la géntib. Mars tra ainm do. is do din nochoisergdais mís Márta ut Ianuarius Februarius Martius. Mairt din uada congarar. ut dies Solis dies Lunae dies Martis. 
+</p>
+<p xml:id="B.517">
+<w type="hw" lemma="mart 1">Mart</w> quasi mort .i. a morte. 
+</p>
+<p xml:id="B.518">
+<w type="hw" lemma="mortlaid">Mortlaith</w> a mortalitate. 
+</p>
+<p xml:id="B.519">
+<phr type="hw" lemma="Manannán mac Lir">Manannan mac lir</phr> .i. cennaige amra bói aninis Manand. ise luam as deach boi aniarthar Eorpa. noḟindad tre nemgnacht <add>.i. gnathugrud nime</add> inoiret nobíd insoinind 7 in don ind 7 intan nosclæchlóbad cechtar don dá résin, inde Scoti et Brittones eum deum uocauerunt maris. et inde filium maris esse dixerunt .i. mac lir mac mara. et de nomine Manandan Inis Manand dictus est.
+</p>
+<p xml:id="B.520">
+<w type="hw" lemma="nia 2">Niæ</w> mac sethur. ut Cúchulaind dixit prophetans <add>uel præcans</add> de Christi aduentu .i. níæ duine ticfa ipaec móisi .i. mac sethar dúine ticfa et ipse est Iesus. et alii dicunt corochret Cúchulainn o sin. 
+</p>
+<p xml:id="B.521">
+<w type="hw" lemma="nemnall">Nemnuall.</w> ise ainm is mou do anmannu indomain .i. nemnuall dénma in oifri nd andsin. nemnuall. nuall ḟer nime <add>imbe</add>. 
+</p>
+<p xml:id="B.522">
+<w type="hw" lemma="nin 3">Ninus</w> .i. nin foss 7 nin tónd .i. tónd tanic don ḟairrge aniar condech isin d aiur cutoracht isin tír út conderna tipra di. inde dicitur Corcmodruad Ninuis. 
+</p>
+<p xml:id="B.523">
+<w type="hw" lemma="neimed">Nemeth</w> .i. nemiath .i. anus dírge do eclais. 
+</p>
+<p xml:id="B.524">
+<w type="hw" lemma="neimed">Nemáith</w> .i. anus dírge di ócaib. 
+</p>
+<p xml:id="B.525">
+<w type="hw" lemma="neimed">Nemḟuath.</w> .i. anus dirge do ḟiledaib. 
+</p>
+<p xml:id="B.526">
+<w type="hw" lemma="néit">Neith</w> .i. dia catha la géntib Gædel. Nemon .i. uxor illius. 
+</p>
+<p xml:id="B.527">
+<w type="hw" lemma="nacc">Nac</w> quasi nic .i. nech occ. inde dicitur nicc occ ł ningoc. 
+</p>
+<p xml:id="B.528">
+<w type="hw" lemma="níth">Nith</w> .i. guin duine. 
+</p>
+<p xml:id="B.529">
+<w type="hw" lemma="ner">Ner</w> .i. torcc allaid. ut est isna haistib fáil nér néit griphi gradaigthe. 
+</p>
+<p xml:id="B.530">
+<w type="hw" lemma="noe 1">Noe</w> .i. duine. inde dicitur diannáma noe <add>.i. diandama duine</add> for tir. 
+</p>
+<p xml:id="B.531">
+<w type="hw" lemma="nós 1">Noes</w> .i. nó-ḟiss .i. fis nonbar .i. tri rig 7 tri nóib 7 tri said .i. said filidechta 7 said litre 7 sáid belra Ḟeni. batarsin uli oc dénam in tSenchusa máir. hide dicitur Læguire Core Dáire dúr, Patraic Beneoin Cairnech coir, Ross Dubthach Fergus cofheib, .IX. sailge sin Senchais moir.
+</p>
+<p xml:id="B.532">
+<w type="hw" lemma="nimb">Nimb</w> .i. bróen. ab eo quod est nimbus, inde dicitur isna Brethaib nemid Oengus foáiblib imais aricht, roloisc leath fonimib nimb.
+</p>
+<p xml:id="B.533">
+<w type="hw" lemma="nairne 2">Nairne</w> <add>ł naire</add> .i. gláine ł nairne amail bid nairc nobeth and. senbelra din innísin .i. inairne <add>ł inaire</add> sin asin and 7 amail atbertha écin isin gnathbelra indíu la hUr ł la hIr-Mumain maxime. inde dixit in file nífil ní bus toich duit. fhil naire arintí dianimchomaircther .i. fil écin ol se. 
+</p>
+<p xml:id="B.534">
+<w type="hw" lemma="nethes">Nith</w> .i. guin duine ut est nihe intí dogní. Nethes din .i. guin duine ut est ni hidnæ nethes nemthigetar. 
+</p>
+<p xml:id="B.535">
+<w type="hw" lemma="nescóit 1">Nescoit</w> .i. ise senchas na nGædel. intan tuccad cath Muige Tuired boi Goibniu goba isin cerdcha oc denam na narm do Tuathaib d. d. <corr>Dé Domnann</corr> 7 boi Luchtine sær oc denam na crand isna gaíb 7 boi Credni incerd oc denum ṡemand isna gáib cetna. Dicunt autem Scoti Góibniu goba faciebat hastas fri teora grésa 7 bafeth in gres dédinach. Dogníd tra Luctine na cranna fri teora snassa 7 ba féith insnass dédinach. Síc et Créidne faciebat na semanda. dobidgad Góibne asin tenchar na gǽi conglendais isin ursain. doleced Luchtine na crandu inandíaid 7 ba lór dianindsma. dobidgad Creidne ina semunda agobaib <add>na</add> tenchaire 7 ba lór dianindsma. Cein tra boi Goibniu ocon nísin lítear bine for a mhnái sium. atchess dosom annsin comba sæth lais inscél 7 édaig imbe. issed dosgni fris .i. boi crand inaláim intan atcúas do ascél .i. Neas aainm 7 is uime dognither an urnise criad 7 dichan brichtu din forsancrandsin 7 cach fer dothiged chuige doberead fuasma índ don crandsin. Madellad iaram in duine <cb n="p. 270a"/> do thurgbad iaram cnocc lan do lindchro 7 gur 7 foloiscead in duine amail tenid. arba he fuath incraind dian ainm Ness nobid forsin cnucc. 7 is aire roainmnigestar on ainm sin Nescoit. 
+</p>
+<p xml:id="B.536">
+<w type="hw" lemma="nes(s) 1">Ness</w> tra .i. cnocc 7 scóit lind. Ness din cetharda fordingair .i. ness ainm in anmunda. ness <add>nomen</add> do crand. ness nomen do urnisi. amail atbert bean araile gobann dogeni marbnad dia fir dicens Ba dursan lium sellad fris, forbir ifraig dercc anis, babinde nochantais dord, fri derc aneis adí bolg. et alius dixit Bean aentuma bís cenfer, inteni co hurloscad, nama guali bean naise, is uaide ainmm urnaise. Ness din ainm dobéim 7 do chrécht ut est isin tSenchus már A gráinib cach tomas, a fénib cach foras, a mainib <add>ł omnái</add> cach mess, a dírib chuirp duine, ciadat ile aḟuile, rohainmniged ness. Amail bís urgnacht inbaill isin duine aḟurmither incrécht asfoi din bíss aeraicc .i. uerbi gratia mádinagaid ł anédan tra ł asmeich furmither inaithis is móti in ericc amail roġab i Senchus már mad foétach bess inainim is luga som 7 araile{?}.
+</p>
+<p xml:id="B.537">
+<w type="hw" lemma="ollam">Ollamh.</w> .i. oll adhámh .xx.iiii. Ollamh .i. oll aúaim .i. amail is doiligh uaim bhís foaill do thoghail. síc is doilig saighidh for dhán 7 écsi inollamhan. Ollam din .i. oll éimh .i. oll di éimh .i. ollamh do éimh .i. émhid 7 ernes na cesta. 
+</p>
+<p xml:id="B.538">
+<w type="hw" lemma="oí">Oí</w> .i. caera inde dicitur oísc .i. ói ṡeisc .i. caera ṡeisc. oimelc .i. oimelg .i. isí aimser andsín tic ass caerach. melg .i. as iarsinni blegar. 
+</p>
+<p xml:id="B.539">
+<w type="hw" lemma="oen">Oen</w> quasi un. ab eo quod est unus. 
+</p>
+<p xml:id="B.540">
+<w type="hw" lemma="oenach 1">Oenach</w> .i. úne each. 
+</p>
+<p xml:id="B.541">
+<w type="hw" lemma="oeth">Oeth</w> .i. luige ł éthech. 
+</p>
+<p xml:id="B.542">
+<w type="hw" lemma="oar">Oar</w> .i. guth ł gairm. 
+</p>
+<p xml:id="B.543">
+<w type="hw" lemma="oech">Oech</w> .i. náma. 
+</p>
+<p xml:id="B.544">
+<w type="hw" lemma="Orb">Orb</w> nomen uiri a quo Orbraige. 
+</p>
+<p xml:id="B.545">
+<w type="hw" lemma="og 1">Og</w> quasi ob id est obuum <add>ł ouum</add> .i. og. 
+</p>
+<p xml:id="B.546">
+<w type="hw" lemma="ord(d) 1">Ord</w> i. e. ab ordine. 
+</p>
+<p xml:id="B.547">
+<w type="hw" lemma="Ólchobar">Olchubar</w> .i. ól accobar .i. accobar lais ól. ł ól nomen liquoris normalica lingua uel normannica lingua est. 
+</p>
+<p xml:id="B.548">
+<w type="hw" lemma="orn 1">Ornd</w> .i. creach ł orguin. 
+</p>
+<p xml:id="B.549">
+<w type="hw" lemma="om">Om</w> .i. inbíd. grec rotruailled and. omon asin greic cruor latine dicitur. 
+</p>
+<p xml:id="B.550">
+<w type="hw" lemma="opar">Opair</w> .i. oper .i. ab operatione. 
+</p>
+<p xml:id="B.551">
+<w type="hw" lemma="ong 1">Ong</w> .i. fochaid 7 cosc, inde dicitur coscaig do mac a Ḟíthail consecait a oic <add>ł a oiṅg</add>. ong .i. uch. ut est Ni hong æntige amach. Ong. cian on relic mo thech tóll, nídamnia acht amgeilt ghánd, dia dor ad icert mo chond.
+</p>
+<p xml:id="B.552">
+<w type="hw" lemma="oráit">Oróit</w> .i. oroit .i. oratio. 
+</p>
+<p xml:id="B.553">
+<w type="hw" lemma="oslucud">Oslucad</w> .i. uaslécud <corr>lécad</corr> suas na cómlad. ł oslucad .i. aislecud .i. lécad dara hais di. 
+</p>
+<p xml:id="B.554">
+<w type="hw" lemma="ochtach">Ochtach</w> .i. ogtech .i. oguide a tech diabaith <add>ł diabuith</add> fair <add>ł foir</add>. 
+</p>
+<p xml:id="B.555">
+<w type="hw" lemma="ór 1">Ór</w> quasi aur .i. ab auro. 
+</p>
+<p xml:id="B.556">
+<phr type="hw" lemma="orc 1">Orc tréith</phr> .i. nomen do mac ríg. triath enim rex uocatur unde dixit poeta Ænach tra uirc tréith .i. biad 7 étach logmar. clúm 7 coilcthe. cuirm 7 cárna. brandub 7 fichell. eich 7 carpait. mílchoin 7 estrechta archena. aliter orcc din ainm do bratan. unde dixit ceand Lomna drúth iarnabéin de .i. orcc brecc bronnḟind brúchtas demhagur fómuirib. ni labair nimtoe tuaithe tore natraic rómsi rorannsat raind nátcert Coirpri. is de tra boi andsin dosom .i. Find hua Baiscne is dó ba drúth Lómna druth <add>.i. mídlach</add>. Teit din Find laa na nd forcuairt ṡelga. doruaraid Lómna ifus. boi bean do Lúignib la Find ár cach roilbe 7 cach roḟid nognáthaiged Find cona ḟéinn nobid ben urdhalta fora chind incachtír 7 batar banbrugadha <add>iatsen 7 batar maithi</add> doḟulang na ḟiann. ár doleath andaine darna tíre cona lamad neach <corr>olc</corr> fri u. Tanic Find fecht i Tebtha cona feinn 7 luid forcuairt ṡelga cumboi Lomna leo <add>ł doroaraid Lomna ifos</add> ł tarraid Lomna iḟus. amboisium oc imdecht a muig conḟaca Coirpre <add>.i. fénnid do Lúignib</add> oclaige lamnaí Find hítaide. Rogáid tra inbean do Lómna a díchleithsin. Ba saeth laisium beith imbrath Find. Tic Ḟind iarom 7 benaid <corr>Lomna</corr> ogam, iḟleisc cethercuir conadead boi innte .i. cuaille fernai iḟelaim nargait athaba iḟóthlacht iḟolurg .i. forlurg. Fer mná druithe. drúthlach la feinn forcthi. fraech forualaind luimm Lúigne. Roḟitir tra Find ascel 7 ba dógnassach denmhnái. Rofitir inbean din is o Lómna rofess 7 teit techta uathise co Coirpre ar cotísead domarbad indruad. Tanic tra codall achend de 7 dombert Coirpre lais. Tic iarom Find don ḟuarboith déodlái conḟaca in choland cen cend. Coland sund ce cend ol Find. Finnta dúnn ol inḟiann coich hí. dosber tra Find a ordu inabeolu 7 dochan tria theinm lægda conepert Niconruba arduene. niconrúba for Lúigne. contoboing nais. conepert. ni con ruba torc. ni contorgi. ni conarbert a lige Lómna. Coland Lómna indso ol Find. rucsat námait a chend di. ticsaid <add>.i. benaid</add> dona conaib 7 toiscelad forinslicht. Teit Find forslicht na nóg <cb n="p. 270b"/> cofuair Coirpri iḟaistig oc fuine eisc forindeoin. combi c<corr>end</corr> Lomna forbir icontenid. In cét lucht roberbad don indeoin doroind Coirpri do tri nónbharu 7 nítuc drantmir imbeol in chind diṡodain. Bages <corr>las</corr>na fianna ocus atbert iarom Orc brecc bronnfind .i. bradán dimagur. issed adhamna 7 araile{?}. inlucht tánaise din rannais Coirpre iterum priori modo. conepert incend iterum Rorannais rand fofæl athraind rand athbaig iarmuig medbæ mosbatoich mír metáil bidfuatni fianna lib Luagni. Cuirid amach in cend ol Coirpre cid miḟocul dúnn. dixit incend demuich Romechutar clethi cuire rith rurthig ágæ catha cetambá mescbuit. ba comælib mo aige ba cofarninda ł nimda bid mor ag tein doallasfaid Lúigne la Find din.
+</p>
+<p xml:id="B.557">
+<w type="hw" lemma="Pátraic">Patraic</w> a patricio. patricius .i. pater ciuium. aliter patricius hic qui ad latus regis sedet <add>uel residet</add>. 
+</p>
+<p xml:id="B.558">
+<w type="hw" lemma="pell 1">Pell</w> a pelle. 
+</p>
+<p xml:id="B.559">
+<w type="hw" lemma="pennait">Pennait</w> a penitentia. ł pennait .i. pian áit .i. áit ipianaither. 
+</p>
+<p xml:id="B.560">
+<w type="hw" lemma="pec(c)ad">Pecad</w> a peccato. 
+</p>
+<p xml:id="B.561">
+<w type="hw" lemma="patu">Patu</w> .i. poithó .i. poi .i. cos 7 tó din forruibi inpatu <add>ł pato</add> a chois ol niluga bís find fó fora dernaind oldas furri innúas. 
+</p>
+<p xml:id="B.562">
+<w type="hw" lemma="prepost">Propost</w> .i. prepost .i. praepositus. 
+</p>
+<p xml:id="B.563">
+<w type="hw" lemma="port 1">Port</w> a portu. 
+</p>
+<p xml:id="B.564">
+<w type="hw" lemma="pairche">Pairche</w> a parochia. 
+</p>
+<p xml:id="B.565">
+<w type="hw" lemma="parn">Párn</w> .i. nomen do bloach mara. ní cach díalt tra rosegar ind. nípmachtad la nech cenofiastar can doroig bloach donní is parn. et alia similia. 
+</p>
+<p xml:id="B.566">
+<w type="hw" lemma="puincne">Puingcne</w> .i. screpul medhi innbiche indsin. screpall Gædel din .i. o puingc. 
+</p>
+<p xml:id="B.567">
+<w type="hw" lemma="puincne">Pinginn</w> salund imbe .i. seland cernæ innsin <add>.i. offaing</add>. 
+</p>
+<p xml:id="B.568">
+<w type="hw" lemma="páin">Páin</w> .i. bairgen. a páne, inde est hingaire Echach maic Luchta .i. mo tri finde fommgellsat imailt Echach ailchedáil gaire de loelig find forscing scailter codípil promtir pain la pugin puincern læsial cenach cermnas comilc coic bo bithbí codamuic midligen goss gessan cenosmessed conách inabethu baa. 
+</p>
+<p xml:id="B.569">
+<w type="hw" lemma="puincern">Puincern</w> din .i. cern tomais sellæ 7 meadh thomaiss indile .i. in mead indmeach. 
+</p>
+<p xml:id="B.570">
+<w type="hw" lemma="pissire">Pissire</w> .i. pissairo .i. crand lethanchend bís octomus ænpinginde tomais .i. comthrom uii. ngráine ḟírcruithnechta 7 decheter ethoman 7 nali lina uisce 7 naroṡuid cruas <add>.i. de</add>. Piss din ainm incraind ł intoman. Piss din ainm do pengind. oenphengind din aire in chraindsin. 
+</p>
+<p xml:id="B.571">
+<w type="hw" lemma="penn">Pénd</w> a penno. Pend i. e. a penna. 
+</p>
+<p xml:id="B.572">
+<w type="hw" lemma="pairt 1">Pairt</w> a parte. 
+</p>
+<p xml:id="B.573">
+<w type="hw" lemma="pertach">Pertic</w> i. e. a pertica .i. forrach tomais tire indsin. 
+</p>
+<p xml:id="B.574">
+<w type="hw" lemma="póc">Póc</w> .i. pác quasi páx .i. e. a páce, arisairidhe sída inphóc. 
+</p>
+<p xml:id="B.575">
+<w type="hw" lemma="proind">Proind</w> a prandio. 
+</p>
+<p xml:id="B.576">
+<w type="hw" lemma="prull">Prúll</w> .i. áidbliugud mor 7 médugud. ut dixit ingen hui Dulsaine inbannlicerd frí Senchan Torpeist. himum loscit mo dínó prúll. fri sgart int écsine do muintir Senchan .i. in cerd mac hui Dulsaine o Liaig do Thairrsaig tull. Is de tra bái do Ṡenchan innísin docorustar fair techt a Manaind .i. fecht áinesa dochur cuarta innte 7 l. éces a lín cinmothat ecsine. Ni roibe riam umnách araile éces samail inchumdaig boi umṠenchan cinmotha a stuigen ṡuad. issed on robuidech do thimtagib ḟer nGædel inrucsat na hécis olchena umpu. Intan tra docómlasat forfairrge 7 docorustar aurlond fri tír adgládastar gilla anécoisc don tír inandiaid. Nomlécidsi lib olse. Dḟéchsat uli fair. níba cáin leo aécosc na alécad leo ar nirbo hén comadaiss dianelta he fora écosc nadetig. intan tra dosberead amér fora édan noṁebdais srotha doghur brén tria cluasaib achúil siar. dichroiss tar a mullach. ba cosmail fri asnige tepersu a inchinde arroemuid darroeib do madcomuanna achind 7 achlocind. ni anad ic tóla brénta imorro. Cuirrither hog luin adiṡúil. luathiter léig muilind a ḟégad. comdhub fri héc a drech. cuirre ina córr aurócbala adhágruad. sithiger urbuinde gabond aṡrón. marsigemnaig builg oc berbad míanaig súgad 7 imlécad a anala. nibendais uird do chǽir dérg ambendais a beoil do thenid. luaithither fándli nofiamain he forlár. buidither or rind aḟiacal. glassi cuileand ambun. dalurgain lomchæla lanbreca fæ. daṡerid birrdhai buide brecduba. a lurga mar chúgil. a sliasat marṡámthaig. amás mar lethmæthail. abrú mar miachbolg. a bráge mar braigit cuirre. méit muilcind milead a chend. librither gabla a láma. métither dornu mogad a durna. Diatallta de in cheirt combrecc boi uime ni bu decmaing ditecht for imirce aænur minafuirmithea cloch furri. Dorogart tra ódiucaire móir 7 atbert fri Senchan biam torbachu deit olse oldás inécsi ł inre foruallach forbaeth imchumachtach út fil umat. indester lat ol Senchan tig tu iarsin láid isin curach. Proimfimít fris olse. cingid forsin láid <cb n="p. 271a"/> <corr>isin curach 7 ba luathither lochait iar forgarmain ł grib dia ned ł séig do ail in side ruc comboi isin curach 7 basuaill tra nach báite in curach iarsinni robroccsat remisiuin isin dara leath in leath naill dosum 7 atbertsat a hængin dotrorbai beist a Senchain 7 bud hisin do muintir acht coroisium tir. Is desin rohainmniged Senchán Torpeist .i. Senchan dororpa peist. Recait iarom co Manaind 7 facsat</corr> a coblach hitir. Amail batar isin traig conḟacutar in sentuinne mongleith mifri gh forsin carraic. <corr>sentuinne</corr> .i. caillech ut poeta dicit Sentuind 7 senbachlach, ropses rapus a crinḟes, acht noconḟacnat mac de, isni thabair a primles <add>.i. a primgin</add>. Amlaid boi inchaillech forsin traig oc buain femnaige 7 murthorad olcena. airechta gráda a cossa 7 a lama. acht natbi edghud maith impe. boi aṅfeth na gorta lee. ba liach son din arba hi inbannlicerd m ingen hui Dulsaine do Muscraige Liac thúill a crich hua Ḟídgenti condechaid forcuairt Erenn 7 Alpan combá marb a muintir uli. Boi tra incerd mac hui Dualsaine a brathair oc a hiarraid fo Erinn acht ni ḟuair. Intan tra itconairc sentuinde na hecsi imuscomarc ceptar iat. Atbert araile dib Maith reimcomarc .i. Senchan éces Erenn indsin. Inmbia forumaloit aṠenchain olsi inat fri maithuscsa. rotbia tra ol Senchan. nisam eolach imnid adbaig. ciasa femnach bolgach bug. Caide a lethcomracsin olsi. Sochtaid tra Senchan 7 inécis uli. Doling tra iarom in gilla remeperta forbeolu Ṡenchain et dixit achaillech ni raga illeth Senchain. nicomadais deitt. acht nomaicillse ór nitaicillfe nechaile don múintirsi. Cest tra for bannlicerd caide in lethrand. nin. olse. domhuin charrgi móri Manand, dorónad mor saland sund. 7 in lethrannsa tra caide a leath; imumm loiscet mo dé nó prull; <corr>I</corr>nṡaigfe fort Senchan mad ed connige ol in gilla beos. Cest tra caide latso olsí. nin. ol esium In cerd Mac hui Dulsine o Liac Thursige thull. Fír ón ol Senchan is tusa ingen Dualsine in bannlicerd ocadathar diarrad sechnon Erenn 7 Alpan. Isme ém olsi. Ructharsom iarom la Senchan 7 doberar étach amra impe <corr>7 táinic la Senchan</corr> dochum nErenn. Orancutar tra Erinn conḟacutar ingill remepertaige fora cind 7 ba hóclæch rigda ruithenta esium indsin. rosc imlebur inachind. mong órbuide lais. áilliu doḟeraib domain dó iter deilb 7 decelt. Teit iarsin dessiul Senchan cona muintir et nusquam apparuit ex illo tempore. dubium itaque non est quod ille poematis erat spiritus. 7 araile{?}. 
+</p>
+<p xml:id="B.577">
+<w type="hw" lemma="rechtaire">Rechtaire</w> .i. rechtorairge. 
+</p>
+<p xml:id="B.578">
+<w type="hw" lemma="ros 1">Ross</w> .i. tredi fordingair .i. ross fidbuide. ross lín. ross uisce. sain din cúis <corr>asa rohainmniged</corr> cachæ. ross fidbuide cétamus .i. rói oss. ross lín din .i. roḟás. ross uisce tra roḟoss ni bí acht formarbuisce. 
+</p>
+<p xml:id="B.579">
+<w type="hw" lemma="réim(m) 2">Réim</w> .i. nomen do fuirseoir. fobith cach riastarda dosber fora aigid cuchách. 
+</p>
+<p xml:id="B.580">
+<w type="hw" lemma="rindaid 2">Rinntaid</w> nomen doḟir ærad rindas cach naigid noescaid. 
+</p>
+<p xml:id="B.581">
+<w type="hw" lemma="rót 1">Rot</w> .i. rout .i. roṡét .i. mó oldas sét .i. semita unius animalis. Attát tra ilanmanna for conairib .i. sét. rót. ramut. slige. lamrotæ. tuagrotæ. bóthar. sét cétamus ut prediximus. Rout .i. dacumat{?} ł dachuat carpat do ænach dæ imme doronad fri hecraite mendota formedón. Rámut .i. mó oldas rót .i. urscor bís for urdhúnib rig. cach comaigdech atír doró chuige dlegar de a glanad. Slige din doscucnad charpat sech araile darónta fri himcomarc da charpat .i. carpat rig 7 carpat epscoip conḋechaid cachæ dib sech araile. Lamróta .i. iter daṡligid. slige dar tuaiscert mendota araile dar a descert. fri a lessu fri cæ dorónad. Tuagróta fochren fertrebar conair doascnám roitói ł slébe. isi iarom aḟochraic .i. aaním aneim atræt cachla bliadain. Bothor tra .i. talla dí boin. alanæ forfot araile for tarsna fora tallut a læig ł aṅgámna inaḟail. mad inandiaid bess iurtais inbó bes daessi. Attát teora glanta do cach ae. tri haimsera inglantar .i. aimser echruathair. aimser chuæ. aimser coctha. Ite a tri glanta .i. glanad aḟeda 7 auisce 7 achoclaid. Ite acsi foranglantar .i. arnéllned acharpat oc dul for coe. arnéllned a echraide oc techt do ænach. achoclaid ara hesarlathar nech fair oc techt fri ł fothress 7 araile{?}. 
+</p>
+<p xml:id="B.582">
+<w type="hw" lemma="reód">Reo</w> .i. grec. reo .i. enim grece gelu latine dicitur. 
+</p>
+<p xml:id="B.583">
+<w type="hw" lemma="rincne 1">Ringcne</w> quasi quinque. inde dixit Ferches intan boi Find h. Baiscne oc rím cach u.ir <corr>cóicir</corr> iarnuair doṡlogaib <corr>maic</corr> Con do chuinched na fiann dó .i. do Ferches. lasin tra atracht <corr>Ferc</corr>hes tria na fuachtname {?} seoch Find 7 doléic insleig for Lugaid <corr>comb</corr>omarb 7 atbert Ringcne ris rig. <corr>dodernai</corr>d Find fos onarrimead cach cóicer carincne arnuair. Ri<corr>ngcne din .i.</corr> quasi quinque 7 araile{?}. <cb n="p. 271b"/>
+</p>
+<p xml:id="B.584">
+<w type="hw" lemma="robud">Robuth</w> quasi remḟuath. ł robuth. din. .i. <corr>rem</corr>bubtad. 
+</p>
+<p xml:id="B.585">
+<w type="hw" lemma="rétglu">Retglu</w> .i. retgle .i. gle solas. 
+</p>
+<p xml:id="B.586">
+<w type="hw" lemma="roth 1">Roth</w> .i. a rota .i. a cuairt. 
+</p>
+<p xml:id="B.587">
+<w type="hw" lemma="rudrad 1">Rudrad</w> .i. rodúrad. 
+</p>
+<p xml:id="B.588">
+<w type="hw" lemma="rucht 1">Rucht</w> .i. inar. ut dixit Fercertne .i. hinḋeich ruchtaib derga. 
+</p>
+<p xml:id="B.589">
+<w type="hw" lemma="rúam 1">Ruam</w> quasi Rom .i. a Roma. 
+</p>
+<p xml:id="B.590">
+<w type="hw" lemma="ranc 1">Rangc</w> .i. in sessed cenél na máile. rangc din .i. na husine arda. Rach din ise raut na máile othá edan comullach. Romáile iter da hó uli. Saltria sa .i. as a ḟirmhullach mæl tairside combi a chassi buide inamullach amail sáil duine tre assa. Buide reid .i. maile o cheand uli annsin ł máile combi glelomm. Imspelp tra .i. folt cechtar adá lethcend 7 rót otha int edan conice achúl. ui. cenéla maile indsin. 
+</p>
+<p xml:id="B.591">
+<w type="hw" lemma="rígan">Rigan</w> .i. rigbean ł rígein. 
+</p>
+<p xml:id="B.592">
+<w type="hw" lemma="raith 2">Raithnech</w> ab eo quod est ratis latine .i. rait ł raithnech. 
+</p>
+<p xml:id="B.593">
+<w type="hw" lemma="rúan">Ruam</w> .i. roéim .i. luss dosber dath ł cucht in faciem cumbi derg. inde dicitur ruamnaig ł ruanaid. 
+</p>
+<p xml:id="B.594">
+<w type="hw" lemma="roscad">Roscad</w> .i. róindsce .i. dodhechaid in ord insce .i. scath. inde dicitur Duil Roscadach. 
+</p>
+<p xml:id="B.595">
+<w type="hw" lemma="reilic">Relec</w> .i. rélic a reliquis sanctorum. Relec din .i. réill a héc ł a hicc ł a hacc. 
+</p>
+<p xml:id="B.596">
+<phr type="hw" lemma="robb 1">Rop 7 rap</phr>. rop tra cach na nmunda gonas. ut sunt uaccae. rap din cach na nmunna ṡrengas ut sunt sues sed tamen uicissim commúniter dicuntur. rap din ab eo quod est rapio. robb ab eo quod est robustus. 
+</p>
+<p xml:id="B.597">
+<w type="hw" lemma="ribar">Ribar</w> .i. criathar. 
+</p>
+<p xml:id="B.598">
+<w type="hw" lemma="ris 1">Riss</w> .i. cach scél 7 faisnés. Risse din .i. scéla. inde dixit Coirpre mac Etnai isin cétna æir doronad a nErinn prius .i. cendíl dáime rissi robsean Bresei .i. do Breass mac Elathain sin. 
+</p>
+<p xml:id="B.599">
+<w type="hw" lemma="Rúad Rofhessa">Ruadrofessa</w> .i. nomen in Dágdha. 
+</p>
+<p xml:id="B.600">
+<phr type="hw" lemma="rúamna">Ruamni ass</phr> .i. liass 7 buidetu.
+</p>
+<p xml:id="B.601">
+<phr type="hw" lemma="Sanct Brigit">Sanct Brigit</phr> .i. næm Brigit indsin. 
+</p>
+<p xml:id="B.602">
+<w type="hw" lemma="súil">Súil</w> quasi sol aristrithe ata sollsi do duine. Sollsi ab eo quod est súil. 
+</p>
+<p xml:id="B.603">
+<w type="hw" lemma="súil">Solas</w> a sóle. 
+</p>
+<p xml:id="B.604">
+<w type="hw" lemma="subaid">Sobraighit</w> .i. a sobrio. 
+</p>
+<p xml:id="B.605">
+<w type="hw" lemma="sobraig">Subaig</w> a sobrietate. 
+</p>
+<p xml:id="B.606">
+<w type="hw" lemma="senad 1">Seno</w>, id est a synodo. 
+</p>
+<p xml:id="B.607">
+<w type="hw" lemma="salann">Salond</w> .i. sál-ond. cloch ṡáil, inde est sáile. 
+</p>
+<p xml:id="B.608">
+<w type="hw" lemma="sanas">Sanas</w> .i. sain ḟiss. 
+</p>
+<p xml:id="B.609">
+<w type="hw" lemma="sróll 2">Sroll</w> .i. sollsi. unde apud Scoticos díu sroll .i. dies solis. 
+</p>
+<p xml:id="B.610">
+<w type="hw" lemma="san 2">San</w> .i. ríi fri grit <corr>refri gerat?</corr> 
+</p>
+<p xml:id="B.611">
+<w type="hw" lemma="segamlae">Ségamlæ</w> .i. lachtmaire. séig din .i. blicht. inde dicitur i mBrethaib nemid messtar bú fora ségamlæ .i. aralachtmaire. 
+</p>
+<p xml:id="B.612">
+<w type="hw" lemma="sméróit">Sméroit</w> .i. smér teine 7 fuait <add>foil</add> fuigell .i. fuigell teine. 
+</p>
+<p xml:id="B.613">
+<w type="hw" lemma="sirem">Sirem</w> .i. iarsinní ṡiress o luc do luc in capite et in toto corpore. 
+</p>
+<p xml:id="B.614">
+<w type="hw" lemma="serr 1">Searr</w> .i. a serra. 
+</p>
+<p xml:id="B.615">
+<w type="hw" lemma="snúad 2">Snuad</w> .i. folt. 
+</p>
+<p xml:id="B.616">
+<w type="hw" lemma="secc 1">Secc</w> onní is siccus. 
+</p>
+<p xml:id="B.617">
+<w type="hw" lemma="secnap">Secnab</w> .i. secundab id est secundus abbas uel secundus abbati. uel secnab sequens abbatem. 
+</p>
+<p xml:id="B.618">
+<w type="hw" lemma="secht 1">Secht</w> quasi sept ab eo quod est septem. 
+</p>
+<p xml:id="B.619">
+<w type="hw" lemma="sé 1">Se</w> ab eo quod est sex. Sea ab eo quod est 
+</p>
+<p xml:id="B.620">
+<w type="hw" lemma="snúad 2">Snad</w> .i. folt. <add place="margin">Snuadh</add> 
+</p>
+<p xml:id="B.621">
+<w type="hw" lemma="spongc">Spongc</w> id est a spongia. 
+</p>
+<p xml:id="B.622">
+<w type="hw" lemma="sabaltair">Sabaltair</w> .i. sepultur. id est a sepultura .i. relicc duinebaith .i. magh mor anádnactís génti. 
+</p>
+<p xml:id="B.623">
+<w type="hw" lemma="sest">Seist</w> .i. nomen do mhedon læi .i. quasi sext a sexta hora. 
+</p>
+<p xml:id="B.624">
+<w type="hw" lemma="spirut">Spirut</w> ab eo quod est spiritus. 
+</p>
+<p xml:id="B.625">
+<w type="hw" lemma="spiracul">Spiracul</w> ab eo quod est spiraculum. 
+</p>
+<p xml:id="B.626">
+<w type="hw" lemma="screpul(l)">Screpul</w> quasi scripul. ab eo quod est scripulus. 
+</p>
+<p xml:id="B.627">
+<w type="hw" lemma="snáthat">Snáthad</w> .i. snáthṡét. sét snáith. tóll snathaite. 
+</p>
+<p xml:id="B.628">
+<w type="hw" lemma="saim">Saim</w> .i. cach córait cid iter dadhuine cid iter di eoch cid iter dídham cid iter bu bess. 
+</p>
+<p xml:id="B.629">
+<w type="hw" lemma="simin(n)">Simin</w> .i. séim a hinne. 
+</p>
+<p xml:id="B.630">
+<w type="hw" lemma="sceng">Sceng</w> .i. iumdha. unde est imsceng .i. <corr>both becc</corr> imatimchella iumdha. inde dicitur ferr imscing ádbai. 
+</p>
+<p xml:id="B.631">
+<w type="hw" lemma="sacart">Sacart</w> .i. sacerd ab eo quod est sacerdós. ł sacart .i. súithe acca aord. 
+</p>
+<p xml:id="B.632">
+<w type="hw" lemma="sorb">Sorb</w> .i. locht quasi sord id est a sordido. 
+</p>
+<p xml:id="B.633">
+<w type="hw" lemma="slabrad">Slábhradh</w> .i. slab aríadh <add place="margin">slabhar-iadh</add> .i. iadhad cumang .i. slabar cach cumang. esslabar cach fairsing. 
+</p>
+<p xml:id="B.634">
+<w type="hw" lemma="samrad">Sámrad</w> .i. sam quasi hebraice sol quasi latine. unde dicitur Samson sol eorum. samrad din .i. riad rithes grian. is and is mou doaitne a sollsi 7 a hairde. 
+</p>
+<p xml:id="B.635">
+<w type="hw" lemma="salt 1">Salt</w> ab eo quod est saltus .i. léimm. 
+</p>
+<p xml:id="B.636">
+<w type="hw" lemma="sen 1">Sean</w> .i. senex. 
+</p>
+<p xml:id="B.637">
+<w type="hw" lemma="sinser">Seindser</w> .i. senex 7 fer. 
+</p>
+<p xml:id="B.638">
+<w type="hw" lemma="salchúait">Salcuait</w> .i. salchóit .i. cóit caill isin combrecc. salcuait din .i. caill mor diṡailig bí and. 
+</p>
+<p xml:id="B.639">
+<w type="hw" lemma="sadb">Sadb</w> .i. soádb. soádba. 
+</p>
+<p xml:id="B.640">
+<w type="hw" lemma="sine 4">Sine</w> id est quasi sine 
+</p>
+<p xml:id="B.641">
+<w type="hw" lemma="Serb">Serb</w> .i. ingen Scath druad do Connachtaib. isí roṡáid feda Atha Luain .i. Brón 7 Dub <add>7</add> dur 7 díbeoil intan rodáile,na teora dála for Cormac Conlongas mac Conchobair oc Áth Luain. 
+</p>
+<p xml:id="B.642">
+<w type="hw" lemma="sín 2">Sin</w> .i. cach cruind unde sín maic Máin .i. epistil boi ima brágait fri forgeall fírinde .i. intan ba fír atberead ba fairsig dia bragait. intan ba gó ba cumac. 
+</p>
+<p xml:id="B.643">
+<w type="hw" lemma="séd">Ség</w> .i. oss allaidh. inde dicitur séghuinech .i. fer ghonas ségu .i. ossa alltai indsin. 
+</p>
+<p xml:id="B.644">
+<w type="hw" lemma="serrach">Serrach</w> .i. serr cach nuallach 7 cach nogla. inde dicitur serrech leam .i. ogla leam. Serrech din .i. ser-ech. iar serid a mathar bís oc geilt. 
+</p>
+<p xml:id="B.645">
+<w type="hw" lemma="Scuit">Scuit</w> .i. a Scota. ingen Foraind ríg Egipte. 
+</p>
+<p xml:id="B.646">
+<w type="hw" lemma="sáith">Sáth</w> .i. biad. inde dicitur saithech. 
+</p>
+<p xml:id="B.647">
+<w type="hw" lemma="Sanb">Sanb</w> .i. mac Augaine. inde dicitur Mag Sainb. 
+</p>
+<p xml:id="B.648">
+<w type="hw" lemma="ségonn">Seng</w> .i. cach ségda isin Duil ḟeda máir. 
+</p>
+<p xml:id="B.649">
+<w type="hw" lemma="sén 2">Sén</w> .i. lín angabar eoin. inde dicitur senbretha 7 senairecht. <cb n="p. 272a"/>
+</p>
+<p xml:id="B.650">
+<w type="hw" lemma="tríath 1">Triath</w> .i. rig .i. iarsinni tremethi…{?}
+</p>
+<p xml:id="B.651">
+<corr><w type="hw" lemma="tí 1">Ti</w> .i. brat</corr> .i. breo ar fuit. 
+</p>
+<p xml:id="B.652">
+<w type="hw" lemma="tort">Tort</w> .i. bairgen .i. nomen de <corr>sono factum est.</corr> inde dicitur tortine .i. bairgeni. 
+</p>
+<p xml:id="B.653">
+<w type="hw" lemma="toisc">Toisc</w> .i. uoluntas hominis .i. inní is laind laduine. unde atber toisc dam. 
+</p>
+<p xml:id="B.654">
+<w type="hw" lemma="tríath 1">Triath</w> din trede fordingair. triath rig .i. tír ṡídaigther. triath muir .i. tir uathathar. triath torcc .i. tír soodathar. deligther tra ina remennu. triath din .i. tréith a reimm. triath muir .i. trethan a reimm. <corr>triath torc .i. tréthe a reimm</corr>. 
+</p>
+<p xml:id="B.655">
+<w type="hw" lemma="teinne">Tinne</w> .i. iubar bais .i. tindiged .i. cach ninde. tinde tra .i. tend eo. eo theinness .i. ṡeinmess .i. teinm 7 canam cach cride atachi. 
+</p>
+<p xml:id="B.656">
+<w type="hw" lemma="tech">Tech</w> ab eo quod est tectum. 
+</p>
+<p xml:id="B.657">
+<w type="hw" lemma="tóraic">Toreicc</w> .i. reicc thó. aisnes dognither hi toi <add>.i. …{?} ais</add>. 
+</p>
+<p xml:id="B.658">
+<w type="hw" lemma="torc 1">Torc</w> quasi pore .i. cendḟochrus. 
+</p>
+<p xml:id="B.659">
+<w type="hw" lemma="tarb">Tarb</w> quasi turb i. e. a tauro. 
+</p>
+<p xml:id="B.660">
+<w type="hw" lemma="Tethra">Tethra</w> .i. rí Fomóire. inde dicitur isin Imacallaim .i. iter triuna Tethrach. 
+</p>
+<p xml:id="B.661">
+<w type="hw" lemma="treb">Treab</w> .i. trib ab eo quod est tribus. 
+</p>
+<p xml:id="B.662">
+<w type="hw" lemma="tellach 1">Tenlaeg</w> .i. tene lige. 
+</p>
+<p xml:id="B.663">
+<w type="hw" lemma="teirt 2">Teirt</w> .i. tertia hora din. 
+</p>
+<p xml:id="B.664">
+<w type="hw" lemma="tét 1">Téd</w> nomen de sono factum. 
+</p>
+<p xml:id="B.665">
+<w type="hw" lemma="temair">Temair</w> .i. te múr. múr Téa ingine Lúg<ex>dach</ex> maic hItha .i. g<ex>re</ex>c rotruaill<ex>ned</ex> and. téo mora i.e. conspicio. teamúr didiu ca<ex>ch</ex> loch ba hurgna{?} décsiu iter mhag 7 tech. ut dicitur temair na duath{?} .i. grianan ł tulach. temair in tige .i. grianan. 
+</p>
+<p xml:id="B.666">
+<w type="hw" lemma="teim">Teim</w> .i. cach ṅdorchai. ut dicitur teimean dorchi ł odar. 
+</p>
+<p xml:id="B.667">
+<w type="hw" lemma="tenlam">Tenlam</w> .i. spréd .i. teni láma. 
+</p>
+<p xml:id="B.668">
+<w type="hw" lemma="tailm">Tailm</w> .i. tellḟuaim .i. tobéim na niall 7 anuarmanna. 
+</p>
+<p xml:id="B.669">
+<w type="hw" lemma="trogain">Trogein</w> .i. gein 7 tróg 7 <corr>recte .i.</corr> turgabail na gréine 7 aicsin aruthin resinṅgréin isin matain. 
+</p>
+<p xml:id="B.670">
+<w type="hw" lemma="torb">Torb</w> quasi turba .i. buiden ł numerus. 
+</p>
+<p xml:id="B.671">
+<w type="hw" lemma="tipra">Tipra</w> quasi topra. tipra din .i. tepersain. 
+</p>
+<p xml:id="B.672">
+<w type="hw" lemma="toth 1">Toth</w> .i. cech banindsce 7 cech femen. quod est nomen membri mulieris. 
+</p>
+<p xml:id="B.673">
+<w type="hw" lemma="traeth">Traæth</w> .i. cach nechtraige 7 cach neotur. 
+</p>
+<p xml:id="B.674">
+<w type="hw" lemma="tuilm">Tuilm</w> .i. muliebre membrum. 
+</p>
+<p xml:id="B.675">
+<w type="hw" lemma="tuirigin">Taurgein</w> .i. rí. 
+</p>
+<p xml:id="B.676">
+<w type="hw" lemma="tuirigin">Tuilgein</w> .i. tulighein .i. gein tolin. tolin ḟir quasi aicned conænaiger fri fír na screptra. 
+</p>
+<p xml:id="B.677">
+<w type="hw" lemma="tuirigin">Tuirgin</w> .i. tur gina .i. tenga. aliter tur<corr>gein</corr> quasi gein a tuir .i. amail bís tuir már oc fulang thige 7 illamu esti síc issed atheag indoman cenntarach. assi tra in tuir .i. fírinde rechta aicnid. Ite a hillamu asin turid .i. ile chialla 7 ilchonaire imbrethemnais. tuirgin .i. rig amail atberar i nDuil Roscadaig. Nitulaid fri turigen tuiged artuli <corr>tuigedar tuli?</corr> mára muride 7 araile{?}. Turagein .i. torachtghen .i. gein doracht .i. doraid aiccned in araill .i. gein infíraicned ut dicitur Fachtna mac Senchada. Furim gein torachta doreit aicned noll o Ádam conimtheit tria cach naimsir nadamra codé bratha. berid aicned enbethu da cach dúil derb desin æn con æ .i. cusin æṅduiṅe ṅdedinach bess cobruinde bráthai. Turgen .i. toæraghen .i. gein <add>næra .i. gein</add> geiness 7 a dí choiss roime. Tobreid din a ture .i. geinsin do chosmailius brethi .i. canaid fássach fír naicned. 7 roscad filed do chosc na brethe indsin achend badeoid .i. in testemon canóine. inde dicitur Niní nach cen brethemnus berair natbi iarlégind leir lerigther nach fri caṅoin caid cumustar nách fri haspuc nuasal nastaigther. conad cáid cach ræt cocanóin comuaimm. 
+</p>
+<p xml:id="B.678">
+<w type="hw" lemma="teist">Teist</w> .i. a teste. 
+</p>
+<p xml:id="B.679">
+<w type="hw" lemma="turad 1">Tuarad</w> .i. tuar cach tirimm 7 suth sín. 
+</p>
+<p xml:id="B.680">
+<w type="hw" lemma="torc 2">Torc</w> nomen do cride. ut dixit Edan ingen Diancécht .i. imḟoindaim mo thuirc .i. imanimluad fil forcride. 
+</p>
+<p xml:id="B.681">
+<w type="hw" lemma="trefhocal">Treḟocal</w> .i. trifoccail bíte and .i. da ḟoccul do molad dobreith forcula animdergtha do fairce <corr>intres focul .i. focul imdergtha</corr> 7 æir. 
+</p>
+<p xml:id="B.682">
+<w type="hw" lemma="turtugud 2">Taurthait</w> .i. tauracdither .i. arose fri aré docuire urchar uait dourmaise secip nach ræta docuirither opund anmundæ forácind 7 gonta ł benta ł marta de. is dentairechtsin tra asberar taurthait ł turachur. 
+</p>
+<p xml:id="B.683">
+<w type="hw" lemma="tiugradus">Tigradus</w> .i. tig auradrus indsin. 
+</p>
+<p xml:id="B.684">
+<w type="hw" lemma="tiugradus">Tígba</w> .i. cach dédinach. ise tra is tirad .i. is tig auradrus intí scarus fri sin æn bádeóid. 
+</p>
+<p xml:id="B.685">
+<w type="hw" lemma="tuigen">Tugen</w> quasi togen id est a toga. toga enim est genus uestis pretiosi. aliter tugen .i. tuigen árisdocroicnib én ḟind 7 illdathach dogníther in tuigen ḟiled conacriss do bráigtib coilech lae han 7 dia cúrrcib ho criss suas coambráigit. 
+</p>
+<p xml:id="B.686">
+<w type="hw" lemma="tap 2">Top</w> <add>.i. bidg</add> .i. opund. inde est Nisbeir top tigradus is aite fora ciallathar taisic in opund. 
+</p>
+<p xml:id="B.687">
+<w type="hw" lemma="Tamlachta(e)">Tamhlachta</w> .i. taimhṡlechta. támh roṡelaidh na dáine isin muigsin .i. induinebad mor hitegtís na tuatha isna muigib mora combitís in ænmhaigin beo fri héc fobíth anádnacuil isna mugibsin onní natberat induinebad armád cacha huaire dib badmarb inaniaighin act níbertís do chellaib arnichumcad in tuath nobíd daranessi anádnacul et inde Tamlachta nuncupatur. 
+</p>
+<p xml:id="B.688">
+<w type="hw" lemma="tendál">Tendál</w> .i. tene dhál .i. dál tened. cotenid .i. cusininad inḟadaigther intendál. 
+</p>
+<p xml:id="B.689">
+<w type="hw" lemma="us(s)arb">Ussarb</w> .i. bás. inde dicitur isin ámra Chonrí .i. rig rodeat do ussarb an Ulltaib .i. rodeat do Ulltaib abhás Chonri. 
+</p>
+<p xml:id="B.690">
+<w type="hw" lemma="udmad">Udmat</w> .i. udamnad .i. crand forsin cetra conḋamnaigter a muide a combolg indsin. <cb n="p. 272b"/>
+</p>
+<p xml:id="B.691">
+<w type="hw" lemma="aidemm">Uidím</w> .i. ainm don roid tria sa teit incrand bís forsin cléith intan bíther oca dúnad. 
+</p>
+<p xml:id="B.692">
+<w type="hw" lemma="úir">Ur</w> .i. tréide fordingair .i. úr cetamus .i. talam 7 ur cech nua unde dicitur imm úr. Ur .i. cech nolc inde dicitur lan daorthæ cachnur .i. cachnolc. 
+</p>
+<p xml:id="B.693">
+<w type="hw" lemma="uch 2">Uch</w> ab eo quod est aucha .i. aurgat feda. 
+</p>
+<p xml:id="B.694">
+<w type="hw" lemma="uball">Uball</w> quasi aball. aball autem o burg Etaile dianit ainm Abellanium is as tucad sil na ball leo. ł uball .i. eoball .i. eo crand 7 ball de. ł uball .i. Eba eil .i. iarsindi roellustar Eba fair isin dimarbus. 
+</p>
+<p xml:id="B.695">
+<w type="hw" lemma="uim 1">Uim</w> .i. uma. 
+</p>
+<p xml:id="B.696">
+<w type="hw" lemma="uinche 2">Uinchi</w> etha .i. uaite ethæ. 
+</p>
+<p xml:id="B.697">
+<phr type="hw" lemma="ucht">Ucht nosnæ</phr> .i. ucht osmenta .i. smuaineth smuaines .i. scrudan scrudas infile anaircetal. Inbaile din indit scruta is do is nomen ucht nossnæ
+</p>
+</div>
+
+      </body>   
+   </text>
+</TEI>
