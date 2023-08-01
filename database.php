@@ -144,9 +144,9 @@ CB3 9DP
 </p>
 
 <p>Dr Pádraic Moran<br/>
-<a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;padraic.moran&#64;nuigalway&#46;ie">padraic.moran&#64;nuigalway&#46;ie</a><br/>
-<a href="http://www.nuigalway.ie/classics/" target="_blank">Classics</a> (School of Languages, Literature and Cultures)<br/>
-National University of Ireland, Galway 
+<a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;padraic.moran&#64;universityofgalway&#46;ie">padraic.moran&#64;universityofgalway&#46;ie</a><br/>
+<a href="http://www.universityofgalway.ie/classics/" target="_blank">Classics</a> (School of Languages, Literature and Cultures)<br/>
+University of Galway 
 </p>
 
 

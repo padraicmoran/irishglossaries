@@ -8,7 +8,7 @@ templateMid('');
 
 <h1>Bibliography</h1>
 
-<p>We would welcome notices of any relevant new publications. Please e-mail <a href="mailto:padraic.moran@nuigalway.ie">padraic.moran@nuigalway.ie</a>.</p>
+<p>We would welcome notices of any relevant new publications. Please e-mail <a href="mailto:padraic.moran@universityofgalway.ie">padraic.moran@universityofgalway.ie</a>.</p>
 
 <h2>Editions of glossaries</h2>
 

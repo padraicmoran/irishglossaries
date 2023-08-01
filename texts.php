@@ -191,7 +191,7 @@ else {
          print '<th>Text</th>';
          print '<th class="text-end">§</th>';
          print '<th class="text-end small"><a href="./abbr.php" data-bs-toggle="tooltip" title="See abbreviations page for details of print references.">Print ref</a></th>';
-         print '<th class="text-center small">MS</th>';
+         print '<th class="text-center small d-print-none">MS</th>';
          print '<th>&nbsp;</th>';
          print '</thead>';
          print '</tr>';
@@ -211,7 +211,7 @@ else {
             print '<td class="small text-secondary ' . $css . ' ">' . $row['Stratum'] . '</td>';
             print '<td class="small text-secondary ' . $css . ' text-end">' . editLink($row['RecordID'], checkBlank($row['PrintedRef'], 'na')) . '</td>';
             print '<td class="small text-secondary ' . $css . '  text-end" nowrap="nowrap">' . msLink($versionID, $thisReadingID, $msSource, $row['MS_Ref']) .  '</td>';
-            print '<td class="small text-secondary ' . $css . ' text-end"><a class="btn btn-outline-secondary btn-sm" href="./concordances.php?main=' . $versionID . $concordanceParams . '&amp;display=fulltext&amp;readingID=' . $thisReadingID . '#' . $thisReadingID . '" title="Show concordance for this entry within this family of texts." data-bs-toggle="tooltip">concord.</a></td>';
+            print '<td class="small text-secondary ' . $css . ' text-end"><a class="btn btn-outline-secondary btn-sm d-print-none" href="./concordances.php?main=' . $versionID . $concordanceParams . '&amp;display=fulltext&amp;readingID=' . $thisReadingID . '#' . $thisReadingID . '" title="Show concordance for this entry within this family of texts." data-bs-toggle="tooltip">concord.</a></td>';
             print '</tr>';
          }
          print '</table>';

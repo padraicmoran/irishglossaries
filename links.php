@@ -38,7 +38,7 @@ templateMid('');
 <a href="http://www.asnc.cam.ac.uk" target="_blank">www.asnc.cam.ac.uk</a></li>
 <li>Dublin Institute for Advanced Studies, School of Celtic Studies<br />
 <a href="http://www.celt.dias.ie" target="_blank">www.celt.dias.ie</a></li>
-<li>Foundations of Irish Culture <span class="sc">ad</span> 600-850 project, National University of Ireland, Galway<br />
+<li>Foundations of Irish Culture <span class="sc">ad</span> 600-850 project, University of Galway<br />
 <a href="http://www.foundationsirishculture.ie" target="_blank">www.foundationsirishculture.ie</a></li>
 </ul>
 

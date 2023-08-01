@@ -12,7 +12,7 @@ templateMid('home');
 <p>A resource by 
 <a href="http://www.asnc.cam.ac.uk/people/Paul.Russell/" target="_blank">Paul Russell</a>, 
 <a href="https://qub.academia.edu/SharonArbuthnot" target="_blank">Sharon Arbuthnot</a>, 
-<a href="http://www.nuigalway.ie/classics/people/padraicmoran/" target="_blank">Pádraic Moran</a>,
+<a href="http://www.universityofgalway.ie/classics/people/padraicmoran/" target="_blank">Pádraic Moran</a>,
 funded by the <a href="http://www.ahrc.ac.uk/" target="_blank">Arts and Humanities Research Council</a>.
 </p>
 

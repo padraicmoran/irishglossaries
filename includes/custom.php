@@ -24,7 +24,7 @@ function pageNav() {
    global $versionID, $maxRow, $page, $perPage, $maxPage, $perPageSteps;
 
    $formName = uniqid('form');
-   print '<form name="' . $formName . '" action="" method="get">';
+   print '<form class="d-print-none" name="' . $formName . '" action="" method="get">';
    
    // add any other query string variables to form
    parse_str($_SERVER['QUERY_STRING'], $qs);
@@ -192,7 +192,7 @@ function editLink($recordID, $text) {
 
 function msLink($versionID, $readingID, $msSource, $msRef) {
    if ($versionID == 4 || $versionID == 5) return $msRef; // no online images yet for D3 (Egerton 1782) or D4 (TCD 1287)
-   else return '<a class="btn btn-outline-secondary btn-sm" data-bs-toggle="tooltip" title="Show manuscript image." href="view.php?versionID=' . $versionID . '&amp;msRef=' . urlencode(str_replace(' ', '_', preg_replace('/[a-d]$/ui', '', $msRef))) . '&amp;readingID=' . $readingID . '#' . $readingID . '">' . $msRef . '</a>' ;
+   else return '<a class="btn btn-outline-secondary btn-sm d-print-none" data-bs-toggle="tooltip" title="Show manuscript image." href="view.php?versionID=' . $versionID . '&amp;msRef=' . urlencode(str_replace(' ', '_', preg_replace('/[a-d]$/ui', '', $msRef))) . '&amp;readingID=' . $readingID . '#' . $readingID . '">' . $msRef . '</a>' ;
 }
 
 ?>

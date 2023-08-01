@@ -1,0 +1,15 @@
+/* styles for Irish Glossaries project
+*/
+
+body {
+	font-size: 0.7em;
+}
+
+
+
+.container, .xcontainer-fluid {
+	width: 100%;
+	max-width: 100%;
+	margin: 0px;
+	padding: 0px;
+}

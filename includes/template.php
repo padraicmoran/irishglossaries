@@ -31,6 +31,7 @@ function templateHeader($type, $title) {
 
 <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="./includes/eigd.css">
+<link rel="stylesheet" media="print" href="./includes/eigd_print.css">
 <script language="JavaScript" type="text/javascript" src="./includes/eigd.js"></script>
 <script>
 
@@ -49,7 +50,7 @@ window.addEventListener('load', function() {
 ?>
 <div class="container-fluid">
    <div class="row">
-	   <div class="col-md-3 bg-light px-4 homeImage" style="min-height: 280px; "></div>
+	   <div class="col-md-3 bg-light px-4 homeImage d-print-none" style="min-height: 280px; "></div>
 	   <div class="col-md-8 p-5">
 
 <?php
@@ -58,7 +59,7 @@ window.addEventListener('load', function() {
 		// full-width container 
 ?>
 <div class="container-fluid">
-	<div class="row topImage shadow-sm" style="min-height: 205px; "></div>
+	<div class="row topImage shadow-sm d-print-none" style="min-height: 205px; "></div>
   	<div class="container-fluid my-5 px-4" style="min-height: 600px; ">
 <?php	
 	}
@@ -66,7 +67,7 @@ window.addEventListener('load', function() {
 		// default: container with responsive margins
 ?>
 <div class="container-fluid">
-	<div class="row topImage shadow-sm" style="min-height: 205px; "></div>
+	<div class="row topImage shadow-sm d-print-none" style="min-height: 205px; "></div>
   	<div class="container my-5" style="min-height: 600px; ">
 
 
@@ -108,7 +109,7 @@ function templateEnd($type) {
 
 <?php
 	// now for all pages
-   print '<p>Image: <i>Sanas Cormaic</i> in the <a href="/irishglossariesdev/texts.php?versionID=8">Book of Uí Maine</a>. ';
+   print '<p class="d-print-none">Image: <i>Sanas Cormaic</i> in the <a href="/irishglossariesdev/texts.php?versionID=8">Book of Uí Maine</a>. ';
    print 'By permission of the <a href="http://www.ria.ie" target="_blank">Royal Irish Academy</a> © RIA. ' ;
    print 'Image courtesy of <a href="http://www.isos.dias.ie/" target="_blank">Irish Script on Screen</a>.</p>';
 
