@@ -11,10 +11,17 @@ $page = initVars('page', 1);
 if ($page < 1) $page = 1;
 $perPage = initVars('perPage', 50);
 
-// $perPageSteps = array(50, 100, 250, 500);	
 // small pages only allowed due to server attack July 2020
-$perPageSteps = array(50, 100, 200);	
-if ($perPage > 200) $perPage = 200;
+// exception for local site
+if ($_SERVER['SERVER_NAME'] == 'irishglossaries') {
+   $perPageSteps = array(50, 100, 200, 500, 1000, 1500);	
+}
+else {
+   $perPageSteps = array(50, 100, 200);	
+   if ($perPage > 200) $perPage = 200;
+}
+
+
 
 // search variables
 $search = initVars('sText', '');
@@ -70,9 +77,8 @@ function pageNav() {
          print '>' . $n . '</option>';
       }
    }
-// "All" option disabled after server attack July 2020
-//   if ($perPage == 1500) print '<option value="-1" selected="selected">All</option>'; 
-//   else print '<option value="1500">All</option>';
+   if ($perPage == 1500) print '<option value="-1" selected="selected">All</option>'; 
+   else print '<option value="1500">All</option>';
    print '</select>';
    print ' entries per page.';
    print '		</div>';
