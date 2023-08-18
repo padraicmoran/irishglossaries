@@ -1,7 +1,7 @@
 # Early Irish Glossaries Database
 
-Paul Russell, Sharon Arbuthnot, Pádraic Moran (2006, rev. 2009, 2017)\
-www.asnc.cam.ac.uk/irishglossaries/database.php
+Paul Russell, Pádraic Moran, Sharon Arbuthnot\
+http://www.asnc.cam.ac.uk/irishglossaries/
 
 The early Irish glossaries _Sanas Cormaic_ (Cormac’s Glossary), O’Mulconry’s Glossary (_De origine scoticae linguae_), _Dúil Dromma Cetta_
 (the Collection of Druim Cett) and the shorter texts _Loman_ and _Irsan_ are important resources for our understanding 
@@ -18,5 +18,8 @@ other glossaries are in progress.
 
 The website was built in PHP (version 7) and MySQL. This repository includes an export of the entire MySQL database. To recreate the site, 
 rename includes/connection_EXAMPLE.php as includes/connection.php and supply the approriate MySQL authentication details there.
+
+For version history:\
+http://www.asnc.cam.ac.uk/irishglossaries/database.php
 
 Please send bugs and suggestions to: padraic.moran@universityofgalway.ie
