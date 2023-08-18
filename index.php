@@ -17,7 +17,7 @@ funded by the <a href="http://www.ahrc.ac.uk/" target="_blank">Arts and Humaniti
 </p>
 
 
-<p>The early Irish glossaries <i><a href="texts.php?versionID=9">Sanas Cormaic</a></i> (Cormac’s Glossary), <a href="texts.php?versionID=10">O’Mulconry’s Glossary</a> (<i>De origine scoticae linguae</i>)
+<p>The early Irish glossaries <i><a href="texts.php?versionID=9">Sanas Cormaic</a></i> (Cormac’s Glossary), <a href="texts.php?versionID=10">O’Mulconry’s Glossary</a> (<i>De origine scoticae linguae</i>),
 <i><a href="texts.php?versionID=2">Dúil Dromma Cetta</a></i> (the Collection of Druim Cett) and the shorter texts
 <a href="texts.php?versionID=6"><i>Loman</i></a> and <a href="texts.php?versionID=17"><i>Irsan</i></a>
 are important resources for our understanding of the literary and cultural environment of medieval

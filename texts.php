@@ -15,8 +15,13 @@ if ($versionID == 0) {
    
 <h1>Texts</h1>   
 
-<p>The longest manuscript versions for each text below are listed first).
-A description of transcription practice is available from the <a href="downloads.php">Downloads</a> page.
+<p>The database contains five texts, with 18 manuscript versions in total. (For each text, the longest manuscript version is listed first.)
+</p>
+
+<p>PDF versions are available in a <a target="blank" href="https://zenodo.org/record/8262288">Zenodo archive</a>. 
+XML versions are available on <a target="blank" href="https://zenodo.org/record/8262354">Zenodo</a> as well as on our 
+<a href="downloads.php">Downloads</a> page, where you 
+can also find transcription notes.
 </p> 
 
 <h2><i>Sanas Cormaic</i> (Cormac’s Glossary)</h2>
@@ -74,7 +79,7 @@ A description of transcription practice is available from the <a href="downloads
 <dd class="col-10 col-md-11">University College Dublin, Franciscan (Killiney) <span class="sc">ms</span> A 12, pp. 41–42 (frag. <i>A</i> only)</dd>
 </dl>
 
-<h2><i>Loman/Irsan</i></h2>
+<h2><i>Loman</i> and <i>Irsan</i></h2>
 
 <p><i>Loman</i> is an independent copy of the latter part of the additional entries (YAdd) in the longer version of <i>Sanas Cormaic</i>. <i>Irsan</i> is a distinct text more loosely related to OM.</p>
 

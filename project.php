@@ -33,7 +33,8 @@ If the Irish material is made more accessible, there is a chance that scholars w
 They will comprise editions of each glossary with translations together with an amalgamated commentary allowing detailed discussion of related entries in different glossaries.
 While the hard-copy editions will focus on the details of individual entries and how they have developed, the <a href="database.php">Early Irish Glossaries Database</a> will make access to the material more flexible and wide-ranging.
 </p>
-   
+
+<p>Paul Russell, 2009</p>
 
 
 <?php

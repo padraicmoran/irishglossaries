@@ -19,21 +19,56 @@ This expanded resource was launched in 2009.</p>
 <p>All of the technical work was carried out by Pádraic Moran.</p>
 
 
-<p>Content updates:</p>
+<table class="table">
+<tr>
+<th>Version</th>
+<th>Year</th>
+<th>Notes</th>
+</tr>
 
-<ul>
-<li>April 2017: Corrections to trancriptions of versions of OM and <i>Irsan</i> (Pádraic Moran).</li>
-</ul>
+<tr>
+<td>1.0</td>
+<td>2006</td>
+<td>Headwords and concordances only.</td>
+</tr>
 
-<p>Technical updates:</p>
+<tr>
+<td>2.0</td>
+<td>2009</td>
+<td>Publication of complete transcriptions.</td>
+</tr>
 
-<ul>
-<li>29 Jan 2023: Manuscript image viewer updated to Mirador, with zoomable viewing using IIIF.</li>  
-<li>March 2022: Interface updated, converted to Bootstrap.</li>  
-<li>August 2020: Code-base updated to PHP 7.</li>  
-<li>(Intermittently: various minor bug-fixes and security improvements.)</li>  
-</ul>
+<tr>
+<td>3.0</td>
+<td>2017</td>
+<td>Corrections to transcriptions of OM and <i>Irsan</i> (Pádraic Moran, April 2017).</td>
+</tr>
 
+<tr>
+<td>3.1</td>
+<td>2020</td>
+<td>Code-base updated to PHP 7 (August 2020).</td>
+</tr>
+
+<tr>
+<td>3.2</td>
+<td>2022</td>
+<td>Interface upgraded, converted to Bootstrap (March 2020).</td>
+</tr>
+
+<tr>
+<td>3.3</td>
+<td>2023</td>
+<td>Manuscript image viewer updated to Mirador, with zoomable viewing using IIIF (29 Jan 2023).</td>
+</tr>
+</table>
+
+<p>Website source code is available on <a href="https://github.com/padraicmoran/irishglossaries">GitHub</a>. 
+</p>
+
+<p>Text transcriptions are archived on Zenodo (in <a href="https://zenodo.org/record/8262288">PDF</a>
+and <a href="https://zenodo.org/record/8262354">XML</a> formats).
+</p>
 
 <h2>Technical notes</h2>
 

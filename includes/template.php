@@ -103,7 +103,7 @@ function templateEnd($type) {
 
 <div class="container-fluid bg-secondary bg-gradient text-light px-5 py-4 footer">
 
-<p>Paul Russell, Sharon Arbuthnot, Pádraic Moran, <i>Early Irish Glossaries Database</i> (2006, rev. 2009, 2017)
+<p>Paul Russell, Pádraic Moran, Sharon Arbuthnot, <i>Early Irish Glossaries Database</i>, version 3.3 (2023)
 &lt;<?php print $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] ?>&gt; [accessed <?php print date("j F Y") ?>]
 </p>
 

@@ -56,16 +56,14 @@ Longest versions marked in <b>bold</b>.</p>
 </table>
 </div>
 
+<p>These files are also available in a <a target="blank" href="https://zenodo.org/record/8262354">Zenodo archive</a>.</p>
+
 <p>Also available:</p>
 <ul>
 <li><a href="./xml/eigp.rng">XML schema file</a> (RELAX NG, 301 KB).</li>
 <li><a href="./docs/EIGP_Transcription_notes.pdf">Transcription notes</a> (PDF file, 68 KB): Documentation for transcription style and mark-up.</li>
 </ul>
 
-<p>A copy of these files will also, in due course, be deposited with the University of Cambridge’s institutional repository, <a href="http://www.dspace.cam.ac.uk/handle/1810/219187" target="_blank">DSpace@Cambridge</a>.</p>
-
-<p>Several of the older editions (see <a href="./biblio.php">Bibliography</a>) are available to download from <a href="http://www.archive.org" target="_blank">archive.org</a>.</p>
-   
    
 <?php
 templateEnd('');
