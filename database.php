@@ -53,7 +53,7 @@ This expanded resource was launched in 2009.</p>
 <tr>
 <td>3.2</td>
 <td>2022</td>
-<td>Interface upgraded, converted to Bootstrap (March 2020).</td>
+<td>Interface upgraded, converted to Bootstrap (March 2022).</td>
 </tr>
 
 <tr>
