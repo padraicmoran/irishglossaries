@@ -147,7 +147,7 @@ writeCheckbox('sLang_qpi', '1', 'Pictish ', '_GET');
    
    <?php
 if ($search != '') {
-   print '<h2>Search results</h2>';
+   print '<h2>Search results...</h2>';
 
    // build SQL
    $searchString = $search;
